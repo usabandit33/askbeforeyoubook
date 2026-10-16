@@ -17,3 +17,12 @@ Engineer First: Houston foundation checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Crack-width monitoring gauge](https://amzn.to/4ssPUK5)
+
+*Affiliate link. Customer never pays the directory.*

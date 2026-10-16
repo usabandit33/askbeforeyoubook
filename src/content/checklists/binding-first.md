@@ -17,3 +17,12 @@ Austin moving estimate checklist: binding vs hourly vs non-binding.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Portable luggage scale for weighing boxes and belongings](https://amzn.to/3TIFGs5)
+
+*Affiliate link. Customer never pays the directory.*

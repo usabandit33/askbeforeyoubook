@@ -17,3 +17,12 @@ One-Way Door: Chicago attic wildlife checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Attic inspection flashlight](https://amzn.to/47u4ZRM)
+
+*Affiliate link. Customer never pays the directory.*

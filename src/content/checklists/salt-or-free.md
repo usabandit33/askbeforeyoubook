@@ -17,3 +17,12 @@ Charlotte water: salt-based softener vs salt-free conditioner.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Water-hardness test strips](https://amzn.to/4yT0Nap)
+
+*Affiliate link. Customer never pays the directory.*

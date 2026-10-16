@@ -17,3 +17,12 @@ Dallas fire alarm and sprinkler annual inspection vs separate deficiency repair.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Fire extinguisher inspection tag supplies](https://amzn.to/4Bbh6km)
+
+*Affiliate link. Customer never pays the directory.*

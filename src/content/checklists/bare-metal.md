@@ -17,3 +17,12 @@ Atlanta checklist: filter wash vs hood, duct, and fan cleaned to bare metal.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Commercial kitchen degreaser](https://amzn.to/47kTv35)
+
+*Affiliate link. Customer never pays the directory.*

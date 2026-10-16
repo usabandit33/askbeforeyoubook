@@ -17,3 +17,12 @@ Portland checklist: ask the mobile-notary travel fee before the stamp.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Portable document case](https://amzn.to/4ywKrmJ)
+
+*Affiliate link. Customer never pays the directory.*

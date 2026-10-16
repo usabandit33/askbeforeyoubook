@@ -17,3 +17,12 @@ Phoenix home film checklist: get the VLT and reflectance spec sheet.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Digital light meter](https://amzn.to/4BbqHaI)
+
+*Affiliate link. Customer never pays the directory.*

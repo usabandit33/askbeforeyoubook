@@ -17,3 +17,12 @@ Kansas City fence checklist: reset the post, replace the panel, or rebuild the r
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Fence post repair bracket](https://amzn.to/3U0xm6Q)
+
+*Affiliate link. Customer never pays the directory.*

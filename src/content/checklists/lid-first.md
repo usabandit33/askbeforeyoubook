@@ -17,3 +17,12 @@ Charlotte septic pump vs inspect checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Septic tank treatment inspection dye](https://amzn.to/4zDx05n)
+
+*Affiliate link. Customer never pays the directory.*

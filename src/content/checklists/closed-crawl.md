@@ -17,3 +17,12 @@ Charlotte crawl space: liner vs closed encapsulation.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Digital humidity meter](https://amzn.to/47qeBNm)
+
+*Affiliate link. Customer never pays the directory.*

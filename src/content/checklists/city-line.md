@@ -17,3 +17,12 @@ Phoenix homeowner checklist: city published permit fee vs contractor permit line
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Home-project document organizer](https://amzn.to/4BcLxGP)
+
+*Affiliate link. Customer never pays the directory.*

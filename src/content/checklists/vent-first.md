@@ -17,3 +17,12 @@ Atlanta dryer vent lint clean first vs line replace or rigid reroute.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Gardus LintEater dryer-vent cleaning kit](https://amzn.to/47kjQOH)
+
+*Affiliate link. Customer never pays the directory.*

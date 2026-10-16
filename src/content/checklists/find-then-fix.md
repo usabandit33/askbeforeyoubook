@@ -17,3 +17,12 @@ Find Then Fix: Phoenix pool leak checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Pool leak-detection dye kit](https://amzn.to/4hP5X11)
+
+*Affiliate link. Customer never pays the directory.*

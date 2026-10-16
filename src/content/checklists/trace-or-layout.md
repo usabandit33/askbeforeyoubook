@@ -17,3 +17,12 @@ Trace Or Layout: Denver parking-lot checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Measuring wheel for checking parking-lot dimensions](https://amzn.to/4zCIRkf)
+
+*Affiliate link. Customer never pays the directory.*

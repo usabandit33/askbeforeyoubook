@@ -17,3 +17,12 @@ Columbus sunken-slab checklist: mudjack vs poly lift vs tear-out replace.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[4-foot or 6-foot spirit level for checking uneven slabs](https://amzn.to/4ehMkwd)
+
+*Affiliate link. Customer never pays the directory.*

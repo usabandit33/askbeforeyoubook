@@ -17,3 +17,12 @@ Charlotte soft wash for house/roof vs high-pressure blast for concrete.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Adjustable garden-hose spray nozzle](https://amzn.to/4zFQ9Ur)
+
+*Affiliate link. Customer never pays the directory.*

@@ -17,3 +17,12 @@ Phoenix termite decision: liquid trench vs bait-station lease.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Termite monitoring stations](https://amzn.to/4dCRByk)
+
+*Affiliate link. Customer never pays the directory.*

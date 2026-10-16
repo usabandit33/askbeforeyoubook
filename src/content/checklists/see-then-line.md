@@ -17,3 +17,12 @@ Chicago sewer: camera and jet first, then line vs spot vs open dig.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Home plumbing inspection camera](https://amzn.to/3VUbPgO)
+
+*Affiliate link. Customer never pays the directory.*

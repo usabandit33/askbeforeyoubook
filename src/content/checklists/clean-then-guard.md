@@ -17,3 +17,12 @@ Atlanta gutter cleaning: clean debris first, then decide on guards.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Gutter scoop and cleaning tool](https://amzn.to/4eBQJdv)
+
+*Affiliate link. Customer never pays the directory.*

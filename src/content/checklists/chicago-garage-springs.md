@@ -18,3 +18,12 @@ When a garage door spring breaks in Chicago, ask whether the company replaces **
 
 ## Notes
 Customer never pays the directory. Call shops that publish their own contact information.
+
+
+---
+
+### Recommended product
+
+[3-IN-ONE garage-door lubricant](https://amzn.to/4yqNA7s)
+
+*Affiliate link. Customer never pays the directory.*

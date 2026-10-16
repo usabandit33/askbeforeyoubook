@@ -17,3 +17,12 @@ Flush First: Houston tankless checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Tankless water-heater flushing kit](https://amzn.to/3WwchC7)
+
+*Affiliate link. Customer never pays the directory.*

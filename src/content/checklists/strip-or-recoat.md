@@ -17,3 +17,12 @@ Phoenix commercial floor scrub-and-recoat vs full strip-and-wax.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Commercial floor cleaning pads](https://amzn.to/3TVMi6p)
+
+*Affiliate link. Customer never pays the directory.*

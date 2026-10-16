@@ -17,3 +17,12 @@ Quoted Open: Houston lockout checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Key lockbox for authorized spare-key storage](https://amzn.to/47IjHVz)
+
+*Affiliate link. Customer never pays the directory.*

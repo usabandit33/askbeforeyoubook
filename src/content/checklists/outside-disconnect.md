@@ -17,3 +17,12 @@ Outside Disconnect: Minneapolis emergency-disconnect checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Non-contact voltage tester](https://amzn.to/3Ur3DEt)
+
+*Affiliate link. Customer never pays the directory.*

@@ -17,3 +17,12 @@ Philadelphia walk-in checklist: condenser, gasket, or leak search before a compr
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Digital refrigerator thermometer with min/max readings](https://amzn.to/4BaqZP1)
+
+*Affiliate link. Customer never pays the directory.*

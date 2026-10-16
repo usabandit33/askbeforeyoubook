@@ -17,3 +17,12 @@ Atlanta backflow annual test then file with water authority vs repair vs replace
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Backflow test report forms and inspection supplies](https://amzn.to/4isc3nd)
+
+*Affiliate link. Customer never pays the directory.*

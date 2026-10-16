@@ -17,3 +17,12 @@ Permit Pulled: Denver water-heater checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Water-leak alarm for the water-heater area](https://amzn.to/3TXyM2b)
+
+*Affiliate link. Customer never pays the directory.*

@@ -17,3 +17,12 @@ Dallas dryer-vent lint clean vs foil/vinyl line replace vs rigid reroute.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Dryer-vent cleaning kit](https://amzn.to/3U2wFdq)
+
+*Affiliate link. Customer never pays the directory.*

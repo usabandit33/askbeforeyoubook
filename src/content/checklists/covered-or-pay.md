@@ -17,3 +17,12 @@ Portland checklist: OHP/CCO covered NEMT brokerage vs private-pay medical ride.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Foldable wheelchair ramp](https://amzn.to/4yuiFaC)
+
+*Affiliate link. Customer never pays the directory.*

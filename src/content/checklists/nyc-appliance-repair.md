@@ -28,3 +28,12 @@ These companies publish a phone number and website on their own site. This is no
 - **Dial Appliance Service** — (718) 368-1512 · [dialappliance.com](https://www.dialappliance.com/)
 
 Always confirm current rates, availability, and policies directly with the shop before booking.
+
+
+---
+
+### Recommended product
+
+[Refrigerator/freezer thermometer](https://amzn.to/3W9W2dR)
+
+*Affiliate link. Customer never pays the directory.*

@@ -17,3 +17,12 @@ Pull Then Blow: San Diego attic insulation checklist.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Digital attic thermometer/hygrometer](https://amzn.to/4zBQJCr)
+
+*Affiliate link. Customer never pays the directory.*

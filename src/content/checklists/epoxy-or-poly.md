@@ -17,3 +17,12 @@ Phoenix garage floor: epoxy vs polyaspartic vs UV topcoat.
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Concrete moisture test kit](https://amzn.to/4ipk8tJ)
+
+*Affiliate link. Customer never pays the directory.*

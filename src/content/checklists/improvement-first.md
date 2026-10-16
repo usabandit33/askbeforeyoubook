@@ -17,3 +17,12 @@ Raleigh / Wake County septic checklist: Improvement Permit vs Construction Autho
 5. Only call shops that publish their own phone number and website.
 
 Customer never pays the directory.
+
+
+---
+
+### Recommended product
+
+[Waterproof document pouch for permit paperwork](https://amzn.to/4ewCVAX)
+
+*Affiliate link. Customer never pays the directory.*
