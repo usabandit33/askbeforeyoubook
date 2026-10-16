@@ -1,7 +1,7 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: 'Segoe UI', Calibri, 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.6;
   color: #1a1a1a;
   background: #fafafa;
@@ -31,13 +31,6 @@ header a.logo {
   text-decoration: none;
   font-weight: 600;
   font-size: 1.1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-header a.logo img {
-  border-radius: 4px;
 }
 
 header nav a {
@@ -51,16 +44,32 @@ header nav a {
 .banner {
   background: #fff;
   text-align: center;
-  margin-bottom: 1.5rem;
+  margin: 1rem auto 1.5rem;
+  padding: 0 1rem;
 }
 
 .banner img {
   max-width: 100%;
+  width: auto;
   height: auto;
+  max-height: 180px;
   display: block;
   margin: 0 auto;
-  max-height: 280px;
-  object-fit: cover;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .banner img {
+    max-height: 140px;
+  }
+  header .container {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+  header nav a {
+    margin-left: 0.75rem;
+  }
 }
 
 h1 {
