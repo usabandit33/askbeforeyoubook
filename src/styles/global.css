@@ -2,7 +2,8 @@
 
 body {
   font-family: 'Segoe UI', Calibri, 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.6;
+  font-size: 1.1rem;
+  line-height: 1.65;
   color: #1a1a1a;
   background: #fafafa;
 }
@@ -30,12 +31,12 @@ header a.logo {
   color: #111;
   text-decoration: none;
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
 }
 
 header nav a {
   font-weight: 400;
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: #444;
   margin-left: 1.25rem;
   text-decoration: none;
@@ -44,7 +45,7 @@ header nav a {
 .banner {
   background: #fff;
   text-align: center;
-  margin: 1rem auto 1.5rem;
+  margin: 1rem auto 1rem;
   padding: 0 1rem;
 }
 
@@ -58,28 +59,65 @@ header nav a {
   border-radius: 8px;
 }
 
+.ai-help {
+  text-align: center;
+  margin: 0.5rem auto 1.5rem;
+  padding: 0 1rem;
+}
+
+.ai-help p {
+  font-size: 1.05rem;
+  margin-bottom: 0.75rem;
+  color: #333;
+}
+
+.ai-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #fff;
+  transition: opacity 0.2s;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn-chatgpt { background: #10a37f; }
+.btn-grok { background: #1d4ed8; }
+.btn-claude { background: #d97706; }
+
 @media (max-width: 600px) {
-  .banner img {
-    max-height: 140px;
-  }
+  body { font-size: 1.05rem; }
+  .banner img { max-height: 140px; }
   header .container {
     flex-direction: column;
     gap: 0.5rem;
     text-align: center;
   }
-  header nav a {
-    margin-left: 0.75rem;
-  }
+  header nav a { margin-left: 0.75rem; }
+  .ai-buttons { gap: 0.5rem; }
+  .btn { padding: 0.55rem 1rem; font-size: 0.95rem; }
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
   line-height: 1.25;
   margin-bottom: 0.75rem;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   margin: 1.75rem 0 0.75rem;
 }
 
@@ -100,7 +138,7 @@ footer {
   margin-top: 3rem;
   padding-top: 1.5rem;
   border-top: 1px solid #e5e5e5;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #555;
 }
 
@@ -123,7 +161,7 @@ footer {
 }
 
 .meta {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #666;
   margin-bottom: 1.5rem;
 }
