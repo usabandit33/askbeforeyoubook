@@ -1,0 +1,98 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #fafafa;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 3rem;
+}
+
+header {
+  border-bottom: 1px solid #e5e5e5;
+  background: #fff;
+  margin-bottom: 2rem;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+header a {
+  color: #111;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+header nav a {
+  font-weight: 400;
+  font-size: 0.95rem;
+  color: #444;
+  margin-left: 1.25rem;
+}
+
+h1 {
+  font-size: 1.75rem;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin: 1.75rem 0 0.75rem;
+}
+
+p, li {
+  margin-bottom: 0.75rem;
+}
+
+ul, ol {
+  padding-left: 1.4rem;
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: #1d4ed8;
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e5e5e5;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.checklist-list {
+  list-style: none;
+  padding: 0;
+}
+
+.checklist-list li {
+  margin-bottom: 0.6rem;
+}
+
+.checklist-list a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.checklist-list a:hover {
+  text-decoration: underline;
+}
+
+.meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+}

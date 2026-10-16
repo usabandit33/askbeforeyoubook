@@ -1,0 +1,45 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "Free checklists for hiring local service providers. Customer never pays the directory." } = Astro.props;
+const canonical = Astro.url.href;
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="/src/styles/global.css" />
+
+    <!-- Umami Analytics -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="34980c25-3b9a-47df-8e13-524b0a3409cf"></script>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a href="/">Service Checklists</a>
+        <nav>
+          <a href="/">All guides</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <slot />
+    </main>
+
+    <footer class="container">
+      <p><strong>Customer never pays the directory.</strong></p>
+      <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
+    </footer>
+  </body>
+</html>

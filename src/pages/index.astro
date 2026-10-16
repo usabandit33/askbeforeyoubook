@@ -1,16 +1,27 @@
 ---
----
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+const checklists = (await getCollection('checklists'))
+  .filter(c => !c.data.draft)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+<BaseLayout 
+  title="Service Checklists — Ask before you hire"
+  description="Free, practical questions to ask before you hire local service providers. Customer never pays the directory."
+>
+  <h1>Service Checklists</h1>
+  <p>Free guides that help you ask the right questions before you hire local service providers.</p>
+  <p class="meta">Customer never pays the directory.</p>
+
+  <h2>All guides</h2>
+  <ul class="checklist-list">
+    {checklists.map(c => (
+      <li>
+        <a href={`/${c.id}/`}>{c.data.title}</a>
+        <br />
+        <span class="meta">{c.data.city} · {c.data.service}</span>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
