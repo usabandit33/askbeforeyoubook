@@ -27,3 +27,17 @@ Customer never pays the directory. Call shops that publish their own contact inf
 [3-IN-ONE garage-door lubricant](https://amzn.to/4yqNA7s)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **BH Garage Door** — (800) 665-9106 — [https://bhgaragedoor.net/contact/](https://https://bhgaragedoor.net/contact/)
+- **O'Brien Garage Doors** — (630) 504-7151 — [https://www.obriendoorchicago.com/](https://https://www.obriendoorchicago.com/)
+- **Overdoors of Illinois** — (815) 469-8188 — [https://overdoors-inc.com/contact-us/](https://https://overdoors-inc.com/contact-us/)
+- **Raynor Door Company** — (847) 441-6900 — [https://raynordoor.com/contact/](https://https://raynordoor.com/contact/)
+- **Pegasus Garage Door** — (773) 982-7840 — [https://pegasusgaragedoor.com/](https://https://pegasusgaragedoor.com/)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

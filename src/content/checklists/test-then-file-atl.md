@@ -26,3 +26,17 @@ Customer never pays the directory.
 [Backflow test report forms and inspection supplies](https://amzn.to/4isc3nd)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **Georgia Backflow Testing** — (404) 548-7324 — [gabackflowtesting.com](https://gabackflowtesting.com)
+- **770 Backflow** — (770) 222-5356 — [770backflow.com](https://770backflow.com)
+- **Adams Backflow & Plumbing Services** — (770) 965-5555 — [adamsbackflow.com](https://adamsbackflow.com)
+- **Plumb Works** — (404) 524-1825 — [plumbworksinc.com](https://plumbworksinc.com)
+- **Atlanta Backflow Testing & Installation** — (770) 918-1203 — [atlantabackflowtesting.com](https://atlantabackflowtesting.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

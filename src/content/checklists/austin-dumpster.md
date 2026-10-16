@@ -22,3 +22,17 @@ You need a roll-off for a cleanout or remodel. Call a local yard, ask how many *
 [Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **A-Tex Dumpsters** — 512-358-0338 — [atexdumpsters.com](https://atexdumpsters.com)
+- **Captain Hook** — 512-719-4172 — [captainhookaustin.com](https://captainhookaustin.com)
+- **BinDumped** — 512-690-4999 — [bindumped.com](https://bindumped.com)
+- **Grime Time** — 512-387-5802 — [grimetime.com](https://grimetime.com)
+- **Dash Away Hauling** — 512-434-3929 — [DashAwayHauling.com](https://DashAwayHauling.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

@@ -26,3 +26,17 @@ Customer never pays the directory.
 [Foldable wheelchair ramp](https://amzn.to/4yuiFaC)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **1. Assured Ride** — 503 473 9329 — [assuredrides.com](https://assuredrides.com)
+- **2. Thrive Medical Services** — 503 300 8045 — [thrivemedicalservices.net](https://thrivemedicalservices.net)
+- **3. Broadway Cab Medical Transportation** — 503 333 3333 — [broadwaycab.com](https://broadwaycab.com)
+- **4. Wapato Shores** — 503 268 1706 — [wapatoshores.org](https://wapatoshores.org)
+- **5. ANEMT** — 971 344 5446 — [anemt.org](https://anemt.org)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

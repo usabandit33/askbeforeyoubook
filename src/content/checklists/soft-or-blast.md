@@ -26,3 +26,20 @@ Customer never pays the directory.
 [Adjustable garden-hose spray nozzle](https://amzn.to/4zFQ9Ur)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **# Contacts**
+- **1. High Country Power Washing** — (704) 759 6307 — [highcountrypowerwashing.com](https://highcountrypowerwashing.com)
+- **2. Hunter Window Gutter Pressure Washing** — (704) 377 1264 — [windowcleaningcharlottenc.com](https://windowcleaningcharlottenc.com)
+- **3. Pressure Worx** — (252) 213 8392 — [pressureworxnc.com](https://pressureworxnc.com)
+- **4. Eclipse Power Wash** — (704) 396 0611 — [eclipsepowerwash.com](https://eclipsepowerwash.com)
+- **5. JK Softwash** — (980) 808 8685 — [jksoftwash.com](https://jksoftwash.com)
+- **6. AAA Window Cleaning & Solutions** — (704) 544 8970 — [aaawindowsolutions.com](https://aaawindowsolutions.com)
+- **7. Super Suds Pressure Washing** — (704) 634 6487 — [supersudsnc.com](https://supersudsnc.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

@@ -26,3 +26,17 @@ Customer never pays the directory.
 [Non-contact voltage tester](https://amzn.to/3Ur3DEt)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **Norske Electric** — 952-443-4113 — [no plaintext address on contact page](https://no plaintext address on contact page)
+- **Randy’s Electric & Plumbing** — 763-560-5600 — [no plaintext on official contact page](https://no plaintext on official contact page)
+- **EarlyBird Electric** — 612-421-1300 — [service@legendsmn.com (contact page)](https://service@legendsmn.com (contact page))
+- **Lakeside Electric** — 612-361-2122 — [obfuscated / no plaintext](https://obfuscated / no plaintext)
+- **Jeske Electric** — 763-265-2406 — [no plaintext on shop page](https://no plaintext on shop page)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

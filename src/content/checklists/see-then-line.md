@@ -26,3 +26,17 @@ Customer never pays the directory.
 [Home plumbing inspection camera](https://amzn.to/3VUbPgO)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **Madden Sewer & Drain** — 773-588-7534 — [form only](https://form only)
+- **Rescue Plumbing** — 773-799-8848 — [not published next to phone](https://not published next to phone)
+- **J. Blanton Plumbing** — 773-724-9272 — [form only](https://form only)
+- **Suburban Plumbing Experts** — 773-570-2191 — [not confirmed on same page](https://not confirmed on same page)
+- **Chicago Plumbing Experts** — 708-775-2566 — [chicagoplumbingexpert@gmail.com](https://chicagoplumbingexpert@gmail.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*

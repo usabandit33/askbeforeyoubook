@@ -26,3 +26,16 @@ Customer never pays the directory.
 [4-foot or 6-foot spirit level for checking uneven slabs](https://amzn.to/4ehMkwd)
 
 *Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **SmartLevel Concrete** — 614-820-5438 — [form only on contact page](https://form only on contact page)
+- **Top Level Ohio** — 614-305-1050 — [Cloudflare-obfuscated only](https://Cloudflare-obfuscated only)
+- **Uplift Concrete Leveling** — 614-526-8527 — [info@upliftconcreteleveling.com (footer)](https://info@upliftconcreteleveling.com (footer))
+- **Ohio Basement Authority** — **614-678-5809** — [info@ohiobasementauthority.com (accessibility page); reply from CallCenterDigitalTeam@groundworks.com](https://info@ohiobasementauthority.com (accessibility page); reply from CallCenterDigitalTeam@groundworks.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*
