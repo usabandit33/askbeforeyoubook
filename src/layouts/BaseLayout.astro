@@ -1,4 +1,6 @@
 ---
+import '../styles/global.css';
+
 interface Props {
   title: string;
   description?: string;
@@ -18,7 +20,6 @@ const canonical = Astro.url.href;
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta name="robots" content="index, follow" />
-    <link rel="stylesheet" href="/src/styles/global.css" />
 
     <!-- Umami Analytics -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="34980c25-3b9a-47df-8e13-524b0a3409cf"></script>
