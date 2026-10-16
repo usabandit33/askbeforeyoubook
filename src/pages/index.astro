@@ -5,14 +5,50 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const checklists = (await getCollection('checklists'))
   .filter(c => !c.data.draft)
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const waterRepos = [
+  { name: 'Head or Line', url: 'https://github.com/usabandit33/head-or-line', desc: 'Austin irrigation: head vs line leak' },
+  { name: 'Dry Then Demo', url: 'https://github.com/usabandit33/dry-then-demo', desc: 'Dallas water damage: dry-out vs demo' },
+  { name: 'Salt or Free', url: 'https://github.com/usabandit33/salt-or-free', desc: 'Charlotte water softener options' },
+  { name: 'Find Then Fix', url: 'https://github.com/usabandit33/find-then-fix', desc: 'Phoenix pool leak checklist' },
+  { name: 'Permit Pulled', url: 'https://github.com/usabandit33/permit-pulled', desc: 'Denver water-heater permit checklist' },
+  { name: 'Test Then File ATL', url: 'https://github.com/usabandit33/test-then-file-atl', desc: 'Atlanta backflow test and file' },
+];
 ---
 <BaseLayout 
-  title="Service Checklists — Ask before you hire"
-  description="Free, practical questions to ask before you hire local service providers. Customer never pays the directory."
+  title="Ask Before You Book — Free Service Checklists for Homeowners"
+  description="Free, practical questions to ask before you book or hire local service providers. Customer never pays the directory."
 >
-  <h1>Service Checklists</h1>
-  <p>Free guides that help you ask the right questions before you hire local service providers.</p>
+  <div class="water-section">
+    <h2>Water-related guides</h2>
+    <p>Start here for common water issues. Full research lives in the linked repos.</p>
+    <ul class="checklist-list">
+      {waterRepos.slice(0, 2).map(r => (
+        <li>
+          <a href={r.url} target="_blank" rel="noopener">{r.name}</a>
+          <br />
+          <span class="meta">{r.desc}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+
+  <h1>Free Service Checklists for Homeowners</h1>
+  <p>Ask the right questions before you book or hire. These free guides help you avoid surprises with local service providers.</p>
   <p class="meta">Customer never pays the directory.</p>
+
+  <div class="water-section">
+    <h2>More water checklists</h2>
+    <ul class="checklist-list">
+      {waterRepos.slice(2, 4).map(r => (
+        <li>
+          <a href={r.url} target="_blank" rel="noopener">{r.name}</a>
+          <br />
+          <span class="meta">{r.desc}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
 
   <h2>All guides</h2>
   <ul class="checklist-list">
@@ -24,4 +60,18 @@ const checklists = (await getCollection('checklists'))
       </li>
     ))}
   </ul>
+
+  <div class="water-section">
+    <h2>Additional water resources</h2>
+    <ul class="checklist-list">
+      {waterRepos.slice(4).map(r => (
+        <li>
+          <a href={r.url} target="_blank" rel="noopener">{r.name}</a>
+          <br />
+          <span class="meta">{r.desc}</span>
+        </li>
+      ))}
+    </ul>
+    <p>Consider a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a> for early alerts.</p>
+  </div>
 </BaseLayout>

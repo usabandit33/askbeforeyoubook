@@ -3,7 +3,7 @@ interface Props {
   title: string;
   description?: string;
 }
-const { title, description = "Free checklists for hiring local service providers. Customer never pays the directory." } = Astro.props;
+const { title, description = "Free checklists for homeowners. Ask the right questions before you book or hire. Customer never pays the directory." } = Astro.props;
 const canonical = Astro.url.href;
 ---
 <!DOCTYPE html>
@@ -16,8 +16,10 @@ const canonical = Astro.url.href;
     <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:image" content="/thumbnail.jpg" />
     <meta property="og:type" content="website" />
     <meta name="robots" content="index, follow" />
+    <link rel="icon" href="/thumbnail.jpg" />
     <link rel="stylesheet" href="/src/styles/global.css" />
 
     <!-- Umami Analytics -->
@@ -26,12 +28,19 @@ const canonical = Astro.url.href;
   <body>
     <header>
       <div class="container">
-        <a href="/">Service Checklists</a>
+        <a href="/" class="logo">
+          <img src="/thumbnail.jpg" alt="Ask Before You Book" width="40" height="40" />
+          Ask Before You Book
+        </a>
         <nav>
           <a href="/">All guides</a>
         </nav>
       </div>
     </header>
+
+    <div class="banner">
+      <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" />
+    </div>
 
     <main class="container">
       <slot />
@@ -40,6 +49,7 @@ const canonical = Astro.url.href;
     <footer class="container">
       <p><strong>Customer never pays the directory.</strong></p>
       <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
+      <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
     </footer>
   </body>
 </html>
