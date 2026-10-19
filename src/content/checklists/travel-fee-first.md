@@ -6,18 +6,36 @@ service: "Mobile Notary"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Portland checklist: ask the mobile-notary travel fee before the stamp.
+# Portland Mobile Notary: Ask the Travel Fee Before the Stamp
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Mobile notary services in Portland often charge a travel fee in addition to the per-signature or per-document fee. Asking for the total price, including travel, before the notary arrives avoids surprises.
 
-Customer never pays the directory.
+## 1. Ask for the total price upfront
 
+Confirm:
+
+- What is the travel fee for your location?
+- What is the fee per signature or per document?
+- Are there extra charges for evenings, weekends, or additional stops?
+
+Get the numbers before scheduling.
+
+## 2. Confirm what is included
+
+Ask whether the price covers the notarial act only or also includes any witnessing, copies, or other services you need.
+
+## 3. Verify credentials
+
+Ask for the notary’s commission number and confirm they are currently commissioned in Oregon.
+
+## Before you book
+
+Use the matching Portland mobile-notary checklist to get the travel fee and total price before the appointment.
+
+## Sources
+
+- Oregon notary public requirements
+- Consumer guidance on mobile notary pricing
 
 ---
 
