@@ -6,18 +6,33 @@ service: "Water Softener"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Charlotte water: salt-based softener vs salt-free conditioner.
+# Charlotte Water: Salt-Based Softener vs Salt-Free Conditioner
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Hard water in Charlotte can leave scale on fixtures and appliances. A salt-based softener removes hardness minerals. A salt-free conditioner typically uses a different process that may reduce scale without adding sodium. The right choice depends on water hardness, household preferences, and maintenance willingness.
 
-Customer never pays the directory.
+## 1. Test the water first
 
+Ask for a hardness test before choosing a system. The results help determine whether a softener or conditioner is appropriate.
+
+## 2. Understand the differences
+
+- Salt-based softeners exchange hardness minerals for sodium and require salt refills.
+- Salt-free conditioners usually do not remove hardness minerals the same way and may not need salt.
+
+Ask the company which system it recommends for your water and why.
+
+## 3. Compare cost and maintenance
+
+Get written prices for equipment, installation, and ongoing salt or filter costs. Ask about warranty and what is required to keep it valid.
+
+## Before you book
+
+Use the matching Charlotte water checklist to compare salt-based and salt-free options after a hardness test.
+
+## Sources
+
+- Water treatment guidance on hardness and conditioning
+- Local Charlotte water quality considerations
 
 ---
 
