@@ -6,18 +6,40 @@ service: "Septic"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Charlotte septic pump vs inspect checklist.
+# Charlotte Septic: Pump vs Inspect Before You Decide
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+A full septic tank may need pumping, but not every slow drain or odor requires an immediate pump-out. An inspection can show whether the tank is full, whether baffles are intact, and whether the drain field is the real problem.
 
-Customer never pays the directory.
+## 1. Ask what the inspection includes
 
+Before approving a pump-out, ask:
+
+- Will you measure the sludge and scum levels?
+- Are the inlet and outlet baffles checked?
+- Is the drain field inspected for surfacing or saturation?
+
+An inspection-first approach can avoid pumping a tank that does not yet need it.
+
+## 2. Confirm the pump-out scope
+
+If pumping is recommended, ask:
+
+- Is the price for a standard tank or does it include extra volume?
+- Are lids and risers replaced or sealed afterward?
+- What documentation is provided?
+
+## 3. Compare the total cost
+
+Get written prices for inspection only versus inspection plus pump-out. Ask whether the inspection fee is credited if you approve the pump on the same visit.
+
+## Before you book
+
+Use the matching Charlotte septic checklist to decide between an inspection and a pump-out after the tank condition is documented.
+
+## Sources
+
+- Local health department guidance on septic maintenance
+- Standard practices for septic tank inspection and pumping
 
 ---
 
