@@ -1,1 +1,105 @@
-placeholder
+---
+title: "Atlanta checklist: filter wash vs hood, duct, and fan cleaned to bare metal"
+description: "Atlanta checklist: filter wash vs hood, duct, and fan cleaned to bare metal. Customer never pays the directory."
+city: "Atlanta"
+service: "Hood Cleaning"
+lastReviewed: "2026-10-16"
+---
+
+# Atlanta Commercial Hood Cleaning: What a Complete Grease-Duct Cleaning Includes
+
+A commercial kitchen exhaust system does more than remove smoke and cooking odors. Grease can accumulate on filters, inside the hood, in exhaust ductwork, and on the exhaust fan. If cleaning only covers the visible parts, grease may remain in less accessible sections of the system.
+
+For Atlanta restaurant owners and kitchen managers, the key question is not simply whether a company offers "hood cleaning." It is which parts of the exhaust system will actually be cleaned, and how will the work be documented?
+
+## 1. Understand the difference between a filter wash and a full-system cleaning
+
+Grease filters are the most visible and accessible components of many kitchen exhaust systems. They capture grease droplets before air travels farther into the exhaust system. Cleaning filters is important, but it is not automatically the same service as cleaning the hood, ducts, and exhaust fan.
+
+A filter-only service may leave grease on the interior hood surfaces, in horizontal or vertical duct sections, and around the fan. Those areas can be difficult to inspect from the kitchen.
+
+When requesting a quote, ask the company to identify each included component:
+
+- Grease filters and filter frames
+- Interior hood surfaces and accessible plenum areas
+- Exhaust ductwork, including horizontal and vertical sections where applicable
+- Exhaust fan blades, housing, and accessible surrounding surfaces
+- Access panels and areas that require additional access or special equipment
+
+Ask whether the quoted service is a filter wash, a hood cleaning, or a cleaning of the complete exhaust system. Do not rely on the service name alone. A company should be able to explain, in ordinary language, which areas it will reach and which areas may remain outside the scope.
+
+## 2. Ask how the company gains access to the duct and fan
+
+A complete cleaning often depends on access. Some systems have access panels that allow technicians to reach duct interiors. Others may require temporary openings or additional work to reach concealed sections.
+
+Before booking, ask:
+
+- Where are the existing access panels?
+- Can the company clean the full accessible duct run from those openings?
+- Will any temporary openings or other access work be required?
+- Who is responsible for restoring panels, seals, or other surfaces afterward?
+- Are there roof, attic, or other access limitations that affect the quoted scope?
+
+If the company says it cannot reach part of the system, ask whether that limitation will be documented. An inaccessible section is different from a section that was simply not cleaned.
+
+## 3. Request documentation of what was cleaned
+
+Ask for a report or certificate that identifies the date of service, the areas cleaned, and any limitations. Some insurers, health authorities, or property managers expect records of commercial kitchen exhaust cleaning.
+
+A useful report should distinguish between:
+
+- Areas that were cleaned
+- Areas that could not be accessed
+- Conditions that may require repair, replacement, or further inspection
+- Any residual grease or other findings noted during the work
+
+Photographs or other clear records can help show the condition before and after cleaning, particularly for areas that are not visible during normal kitchen operations.
+
+## 4. Clarify chemicals, methods, and safety
+
+Grease removal methods can vary. Ask what cleaning agents or processes the company uses and whether they are appropriate for the surfaces involved. Confirm how the company protects food-preparation areas, equipment, and other building surfaces during the work.
+
+Also ask about scheduling. A complete cleaning may need to occur outside normal operating hours or during a planned shutdown. Confirm whether the kitchen can resume operation immediately or whether drying, ventilation, or other steps are needed first.
+
+## 5. Compare quotes on scope, not just price
+
+A lower price may reflect a narrower scope. When comparing companies, line up the written descriptions:
+
+- Which components are included?
+- How is access handled?
+- What documentation is provided?
+- What is excluded or treated as an extra charge?
+- How often does the company recommend service, and on what basis?
+
+If one quote covers only filters and another covers the hood, ducts, and fan, they are not equivalent services. Ask each company to revise the quote so the scope is explicit before you choose.
+
+## Before you book
+
+Use the matching Atlanta hood-cleaning checklist to confirm whether the service includes filters only or a complete cleaning of the hood, duct, and fan. Get the scope and documentation in writing before scheduling.
+
+## Sources
+
+- National Fire Protection Association: Commercial Cooking Operations
+- International Mechanical Code guidance on kitchen exhaust systems
+
+---
+
+### Recommended product
+
+[Commercial kitchen degreaser](https://amzn.to/47kTv35)
+
+*Affiliate link. Customer never pays the directory.*
+
+---
+
+## Local companies to ask
+
+These are operators with their own sites. Verify details yourself. Customer never pays the directory.
+
+- **Atlanta Hood Cleaning Pros** — 470-435-8585 — [atlantahoodcleaningpros.com](https://atlantahoodcleaningpros.com)
+- **Premier Grease Hood Cleaning** — 404-905-3337 — [premiergreasehoodcleaning.com](https://premiergreasehoodcleaning.com)
+- **Georgia Commercial Hood Cleaning** — 678-679-6522 — [commercialhoodcleaningga.com](https://commercialhoodcleaningga.com)
+- **Peach State Hood Cleaning** — 770-404-8836 — [peachstatehoodcleaning.com](https://peachstatehoodcleaning.com)
+- **TruShine Services** — 678-751-8871 — [trushineservice.com](https://trushineservice.com)
+
+*Always confirm current contact info and scope on the company's own website before calling.*
