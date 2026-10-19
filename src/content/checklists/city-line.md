@@ -33,10 +33,10 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **Old Reliable** — 602-935-1485 — [contact@oldreliableaz.com](https://contact@oldreliableaz.com)
-- **Best Remodeling and Construction** — 602-206-5726 — [Michael@BestRandC.com](https://Michael@BestRandC.com)
-- **Crosspoint Contracting** — 602-805-5057 — [cliff@crosspointcontracting.com](https://cliff@crosspointcontracting.com)
-- **Hopkins Construction** — 480-739-0009 — [INFO@HOPCON.NET](https://INFO@HOPCON.NET)
-- **AEH Builders** — 480-442-2341 — [info@aehbuilders.com](https://info@aehbuilders.com)
+- **Old Reliable** — 602-935-1485 — [oldreliableaz.com](https://oldreliableaz.com)
+- **Best Remodeling and Construction** — 602-206-5726 — [bestrandc.com](https://bestrandc.com)
+- **Crosspoint Contracting** — 602-805-5057 — [crosspointcontracting.com](https://crosspointcontracting.com)
+- **Hopkins Construction** — 480-739-0009 — [hopkinsconstructionusa.com](https://hopkinsconstructionusa.com)
+- **AEH Builders** — 480-442-2341 — [aehbuilders.com](https://aehbuilders.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
