@@ -6,18 +6,36 @@ service: "Grease Trap"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Manifest First: Houston grease-trap checklist.
+# Houston Grease Trap: Get the Manifest Before You Approve the Service
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Grease-trap pumping and cleaning in Houston should include a manifest or service record that shows what was removed and where it was taken. Without that documentation, it is harder to confirm the work was completed properly or to meet local requirements.
 
-Customer never pays the directory.
+## 1. Ask for the manifest or service record
 
+Before or immediately after service, ask:
+
+- Will you provide a manifest showing the volume removed and the disposal facility?
+- Is the record available the same day?
+- Does the price include the documentation?
+
+A company that routinely provides a manifest is easier to verify.
+
+## 2. Confirm the scope of the cleaning
+
+Ask whether the service includes pumping only or also cleaning the trap walls and baffles. Get the inclusions in writing.
+
+## 3. Compare total cost and frequency
+
+Request the price for the recommended service interval and ask what happens if the trap is fuller than expected.
+
+## Before you book
+
+Use the matching Houston grease-trap checklist to confirm a manifest will be provided before approving the service.
+
+## Sources
+
+- Local Houston grease-trap maintenance and disposal requirements
+- Standard practices for grease-trap service documentation
 
 ---
 
