@@ -6,18 +6,42 @@ service: "Sewer"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Chicago sewer: camera and jet first, then line vs spot vs open dig.
+# Chicago Sewer: Camera and Jet First, Then Decide on Line, Spot, or Open Dig
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Sewer problems in Chicago can range from a simple clog to a damaged pipe. Starting with a camera inspection and jetting often clarifies the condition before choosing a repair method. Jumping straight to lining or excavation can be more expensive than necessary.
 
-Customer never pays the directory.
+## 1. Ask for camera and jet first
 
+Confirm:
+
+- Will you camera the line and jet it before recommending a repair?
+- What does the inspection show (roots, offset, collapse, grease)?
+- Is the jetting included in the diagnostic or quoted separately?
+
+The camera footage helps match the repair to the actual problem.
+
+## 2. Compare repair options
+
+Ask about:
+
+- Spot repair for a localized issue
+- Pipe lining for longer sections
+- Open dig if the pipe is collapsed or inaccessible
+
+Get written prices and what each method includes.
+
+## 3. Confirm warranty and access
+
+Ask what the warranty covers and whether any excavation or restoration is included.
+
+## Before you book
+
+Use the matching Chicago sewer checklist to confirm camera and jet before approving lining or excavation.
+
+## Sources
+
+- Sewer inspection and repair best practices
+- Local Chicago sewer and plumbing considerations
 
 ---
 
