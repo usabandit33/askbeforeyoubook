@@ -64,6 +64,21 @@ Before booking, ask:
 4. What happens if the project finishes early?
 5. Is there a trip charge if the truck cannot access or remove the container?
 
+## 4. Confirm what happens with prohibited materials and access issues
+
+Ask which materials the company will not accept. Common restrictions include hazardous waste, tires, appliances with freon, and certain construction materials. Also confirm whether the driver can safely place the container if the driveway is narrow, steep, or has low overhead clearance.
+
+Get written answers on overage rates, extra days, and any trip charges before you schedule delivery. Compare the included tons and total expected cost, not just the base rental price.
+
+## Before you book
+
+Use the matching Austin dumpster checklist to confirm placement rules, included weight, overage charges, and rental period terms in writing.
+
+## Sources
+
+- City of Austin: Right-of-Way Permits
+- Texas Commission on Environmental Quality: Municipal solid-waste facilities
+
 ---
 
 ### Recommended product
