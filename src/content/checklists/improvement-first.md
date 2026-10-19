@@ -33,10 +33,10 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **5 County Construction** — 984-288-4742 — [info@5countyconstruction.com](https://info@5countyconstruction.com)
-- **A-1 Septic Tank Plus** — 919-872-2202 — [a1septicrepair@gmail.com](https://a1septicrepair@gmail.com)
-- **Forever Clean** — 919-552-0200 — [none on shop site (form only)](https://none on shop site (form only))
-- **Bailey's Septic Tank Service** — 919-821-9850 — [none on shop site (form only)](https://none on shop site (form only))
-- **David Brantley and Sons** — 252-478-3721 — [none on shop site (form only)](https://none on shop site (form only))
+- **5 County Construction** — 984-288-4742 — [5countyconstruction.com](https://www.5countyconstruction.com)
+- **A-1 Septic Tank Plus** — 919-872-2202 — [a1septictankplus.com](https://a1septictankplus.com)
+- **Forever Clean** — 919-552-0200 — [form-only contact on shop site](https://a1septictankplus.com)
+- **Bailey's Septic Tank Service** — 919-821-9850 — [form-only contact on shop site](https://a1septictankplus.com)
+- **David Brantley and Sons** — 252-478-3721 — [form-only contact on shop site](https://a1septictankplus.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
