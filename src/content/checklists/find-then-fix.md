@@ -6,18 +6,27 @@ service: "Pool Leak"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Find Then Fix: Phoenix pool leak checklist.
+# Phoenix Pool Leak Detection: Find the Leak Before Repairing It
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+A swimming pool loses some water through evaporation, especially during hot, dry, and windy weather. But if you are frequently adding water, notice wet areas near the pool, or see the water level dropping faster than expected, a leak may be present.
 
-Customer never pays the directory.
+The expensive mistake is to approve a repair before anyone has established where the water is going. A leak could involve the pool shell, fittings, skimmer, return lines, equipment plumbing, or an automatic fill system.
 
+Start by documenting the water loss and locating the likely source. Then compare repair options based on the diagnosis.
+
+## 1. Separate normal evaporation from a possible leak
+
+Phoenix's climate makes evaporation a real consideration. A dropping waterline does not by itself prove that the pool has a structural leak.
+
+A common screening method is the bucket test, which compares water loss from the pool with water loss from a container exposed to the same conditions.
+
+To perform a basic comparison, turn off the automatic fill system if present, fill a sturdy bucket with pool water, and set it on a pool step so the water level inside the bucket is roughly level with the pool. Mark the water level inside the bucket and the pool's waterline. After the observation period given in the instructions you follow, compare the drop inside the bucket with the drop in the pool. Follow those instructions carefully and avoid placing anything where it could become a hazard.
+
+If the pool level drops more than the container level, a leak may be present. The test is a screening method, not a precise location test. Wind, splashing, rain, pool use, and equipment operation can affect the result.
+
+## 2. Check the automatic fill system and visible equipment
+
+An automatic fill valve can hide water loss because it continually replaces water. It can also malfunction and add water when it should not. If your pool has an autofill system, ask how to check it safely and whether it should be isolated during testing.
 
 ---
 
