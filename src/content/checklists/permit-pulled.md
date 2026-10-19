@@ -6,18 +6,38 @@ service: "Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Permit Pulled: Denver water-heater checklist.
+# Denver Water Heater Replacement: Confirm the Permit Before the Work Starts
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+When a water heater fails, it is tempting to choose the first contractor who can install a replacement quickly. But a quote that only lists the equipment and installation price may leave out important work, including venting, piping, code-related updates, removal, and required permits or inspections.
 
-Customer never pays the directory.
+The right comparison starts with the actual condition of the existing system and the scope needed to install a safe, compatible replacement. Ask each contractor to put the equipment, installation work, permit responsibility, and total price in writing.
 
+## Diagnose the problem before choosing replacement
+
+Not every water-heater problem requires a full replacement. Ask what was checked and what the findings were before approving a new unit.
+
+## Confirm permit responsibility
+
+In Denver, many water-heater replacements require a permit. Ask:
+
+- Who will pull the permit?
+- Is the permit fee included in the quote?
+- Will the contractor schedule and meet the inspector?
+
+Do not assume the work can begin without confirming the permit status.
+
+## Compare the full scope
+
+Get written answers on venting, gas or electrical connections, expansion tank, disposal of the old unit, and any code upgrades.
+
+## Before you book
+
+Use the matching Denver water-heater checklist to confirm the permit is addressed before authorizing the replacement.
+
+## Sources
+
+- City of Denver permitting guidance for water heaters
+- Manufacturer installation requirements
 
 ---
 
