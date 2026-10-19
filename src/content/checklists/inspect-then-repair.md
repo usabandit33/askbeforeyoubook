@@ -33,9 +33,8 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **# Contacts**
-- **1. Paragon Fire Protection** — (469) 474 5190 — [paragonfireprotection.com](https://paragonfireprotection.com)
-- **2. Fire Safety Solutions, Inc.** — (214) 217 3774 — [firesafetysolutions.net](https://firesafetysolutions.net)
-- **3. Texas Fire Protection** — (214) 577 5612 — [texasfireprotection.net](https://texasfireprotection.net)
+- **Paragon Fire Protection** — (469) 474-5190 — [paragonfireprotection.com](https://paragonfireprotection.com)
+- **Fire Safety Solutions, Inc.** — (214) 217-3774 — [firesafetysolutions.net](https://firesafetysolutions.net)
+- **Texas Fire Protection** — (214) 577-5612 — [texasfireprotection.net](https://texasfireprotection.net)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
