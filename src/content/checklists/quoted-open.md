@@ -33,13 +33,13 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **1. Trifecta Lock Services** — 832 730 8066 — [trifectalock.com](https://trifectalock.com)
-- **2. Houston Safe and Lock** — 713 522 5555 — [houstonsafeandlock.com](https://houstonsafeandlock.com)
-- **3. AAA Locksmith** — 713 666 5625 — [aaalockco.com](https://aaalockco.com)
-- **4. Howard Safe & Lock** — 713 869 0581 — [howardsafeandlock.com](https://howardsafeandlock.com)
-- **5. Golden Locksmith** — 832 786 3901 — [tx.com](https://tx.com)
-- **** — 713 440 8774 — [reliantlocksmith.com](https://reliantlocksmith.com)
-- **** — 832 626 3991 — [asaplocksmithtx.com](https://asaplocksmithtx.com)
-- **** — [texanlocksmith.com](https://texanlocksmith.com)
+- **Trifecta Lock Services** — 832-730-8066 — [trifectalock.com](https://trifectalock.com)
+- **Houston Safe and Lock** — 713-522-5555 — [houstonsafeandlock.com](https://houstonsafeandlock.com)
+- **AAA Locksmith** — 713-666-5625 — [aaalockco.com](https://aaalockco.com)
+- **Howard Safe & Lock** — 713-869-0581 — [howardsafeandlock.com](https://howardsafeandlock.com)
+- **Golden Locksmith** — 832-786-3901 — [golden-locksmith-tx.com](https://golden-locksmith-tx.com)
+- **Reliant Locksmith** — 713-440-8774 — [reliantlocksmith.com](https://reliantlocksmith.com)
+- **ASAP Locksmith TX** — 832-626-3991 — [asaplocksmithtx.com](https://asaplocksmithtx.com)
+- **Texan Locksmith** — [texanlocksmith.com](https://texanlocksmith.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
