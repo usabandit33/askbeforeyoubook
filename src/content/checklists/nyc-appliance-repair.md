@@ -6,29 +6,34 @@ service: "Appliance Repair"
 lastReviewed: "2026-09-09"
 ---
 
-## Quick answer
-Appliance repair in New York City usually starts with a diagnostic or service-call fee (often $80–$175). Always ask whether the fee is credited if you approve the repair, get a written estimate, and confirm the warranty in writing.
+# NYC Appliance Repair: Diagnostic Fees, Warranties, and What to Ask
 
-## NYC appliance repair checklist
-1. **What is the diagnostic / service-call fee?** Ask if it is credited or waived only if you approve the repair.
-2. **Will I get a written estimate before any work starts?**
-3. **What is the warranty on parts and labor?**
-4. **What is the arrival window and same-day availability?** Confirm COI if your building requires one.
-5. **Which brands and appliances do they actually service?**
+Appliance repair in New York City usually begins with a diagnostic or service-call fee. The fee, whether it is credited toward the repair, and the warranty terms vary by company. Confirming these details before the technician arrives reduces surprises.
 
-## Local shops you can call
-These companies publish a phone number and website on their own site. This is not a ranking — just a starting point so you can ask the questions above.
+## 1. Ask about the diagnostic fee
 
-- **NYC Appliance Pro** — (646) 980-2464 · [nycappliancepro.com](https://www.nycappliancepro.com/)
-- **Volt & Vector** — (332) 333-1709 · [voltnvector.com](https://voltnvector.com/)
-- **City Tech Service** — (332) 242-2280 · [citytechservice.com](https://citytechservice.com/)
-- **Dan Marc Appliance** — (973) 226-1000 · [danmarcappliance.com](https://danmarcappliance.com/)
-- **Appliance Repair Brooklyn** — (347) 754-6600 · [appliancerepairbrooklynnyc.com](https://appliancerepairbrooklynnyc.com/)
-- **SparkPoint Appliance Repair** — (929) 506-5869 · [sparkpointservices.com](https://sparkpointservices.com/)
-- **Dial Appliance Service** — (718) 368-1512 · [dialappliance.com](https://www.dialappliance.com/)
+- What is the diagnostic or service-call fee?
+- Is the fee credited or waived if you approve the repair?
+- Is there an additional trip charge if parts must be ordered?
 
-Always confirm current rates, availability, and policies directly with the shop before booking.
+Get the policy in writing or on the estimate.
 
+## 2. Request a written estimate before work begins
+
+Ask for a written estimate that lists the parts, labor, and total price before any repair starts. Confirm the warranty on both parts and labor.
+
+## 3. Confirm building requirements
+
+If your building requires a certificate of insurance (COI) or has specific access rules, ask whether the company can provide them.
+
+## Before you book
+
+Use the matching NYC appliance-repair checklist to confirm the diagnostic fee, written estimate, and warranty before scheduling.
+
+## Sources
+
+- Common appliance-repair service practices in New York City
+- Building access and insurance requirements for residential service calls
 
 ---
 
