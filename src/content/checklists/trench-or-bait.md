@@ -6,18 +6,34 @@ service: "Termite"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Phoenix termite decision: liquid trench vs bait-station lease.
+# Phoenix Termite: Liquid Trench vs Bait-Station Lease
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Termite protection in Phoenix commonly uses either a liquid trench treatment or a bait-station system. The liquid creates a treated zone around the foundation. Bait stations are monitored and refilled over time. The right choice depends on the property, the termite pressure, and whether you prefer a one-time treatment or ongoing monitoring.
 
-Customer never pays the directory.
+## 1. Understand the two approaches
 
+Ask the company to explain:
+
+- How a liquid trench treatment works and how long it is expected to last
+- How bait stations are placed, monitored, and maintained
+- What happens if termites are found after treatment
+
+## 2. Compare cost and warranty
+
+Get written prices for the initial treatment and any annual monitoring or renewal fees. Ask what the warranty covers and for how long.
+
+## 3. Confirm licensing
+
+Verify the company is licensed for termite work in Arizona and will provide the required documentation.
+
+## Before you book
+
+Use the matching Phoenix termite checklist to compare liquid trench and bait-station options before choosing.
+
+## Sources
+
+- Termite treatment standards
+- Arizona structural pest control licensing
 
 ---
 
