@@ -6,18 +6,36 @@ service: "Locksmith"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Quoted Open: Houston lockout checklist.
+# Houston Lockout: Get the Price Quoted Before the Door Is Opened
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+A lockout is stressful, and many locksmiths quote a price only after they arrive. Asking for a clear quote before any work starts reduces the chance of surprise charges once the door is open.
 
-Customer never pays the directory.
+## 1. Ask for the total price before arrival
 
+Confirm:
+
+- What is the service call or trip fee?
+- What is the price to open the lock if no parts are needed?
+- Are there extra charges for night, weekend, or specialty locks?
+
+Get the numbers before the technician starts working.
+
+## 2. Confirm what is included
+
+Ask whether the quote covers rekeying, new keys, or only the opening. Clarify if the lock will be left in working condition.
+
+## 3. Verify the company
+
+Ask for the company name, a direct phone number, and confirmation that the person arriving is an employee or authorized technician.
+
+## Before you book
+
+Use the matching Houston lockout checklist to get a quoted price before authorizing the opening.
+
+## Sources
+
+- Consumer guidance on locksmith pricing transparency
+- Local Houston locksmith licensing considerations
 
 ---
 
