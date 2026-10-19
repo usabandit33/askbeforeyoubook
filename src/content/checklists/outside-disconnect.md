@@ -33,10 +33,10 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **Norske Electric** — 952-443-4113 — [no plaintext address on contact page](https://no plaintext address on contact page)
-- **Randy’s Electric & Plumbing** — 763-560-5600 — [no plaintext on official contact page](https://no plaintext on official contact page)
-- **EarlyBird Electric** — 612-421-1300 — [service@legendsmn.com (contact page)](https://service@legendsmn.com (contact page))
-- **Lakeside Electric** — 612-361-2122 — [obfuscated / no plaintext](https://obfuscated / no plaintext)
-- **Jeske Electric** — 763-265-2406 — [no plaintext on shop page](https://no plaintext on shop page)
+- **Norske Electric** — 952-443-4113 — [norskeelectric.com](https://norskeelectric.com)
+- **Randy's Electric & Plumbing** — 763-560-5600 — [randyselectric.com](https://www.randyselectric.com)
+- **EarlyBird Electric** — 612-421-1300 — [earlybirdelectricians.com](https://earlybirdelectricians.com)
+- **Lakeside Electric** — 612-361-2122 — [lakesideelectricmn.com](https://lakesideelectricmn.com)
+- **Jeske Electric** — 763-265-2406 — [jeskeelectric.com](https://www.jeskeelectric.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
