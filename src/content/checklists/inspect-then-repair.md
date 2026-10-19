@@ -6,18 +6,36 @@ service: "Fire Alarm"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Dallas fire alarm and sprinkler annual inspection vs separate deficiency repair.
+# Dallas Fire Alarm and Sprinkler: Annual Inspection vs Separate Deficiency Repair
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Fire alarm and sprinkler systems in Dallas typically require annual inspections. Deficiencies found during the inspection are often quoted separately. Understanding the difference helps avoid paying for repairs that were not part of the inspection scope.
 
-Customer never pays the directory.
+## 1. Confirm what the annual inspection includes
 
+Ask the company:
+
+- Does the inspection price cover testing only, or does it include minor adjustments?
+- Will deficiencies be documented in a written report?
+- Are repair quotes provided separately after the inspection?
+
+The inspection should identify issues. Repairs are usually a second step.
+
+## 2. Ask how deficiency repairs are priced
+
+Request an itemized quote for any recommended repairs. Confirm whether the inspection fee is credited toward the repair work and what warranty covers the repairs.
+
+## 3. Verify licensing and documentation
+
+Ask for proof of the required licenses and confirm that the company will provide the inspection report needed for compliance or insurance.
+
+## Before you book
+
+Use the matching Dallas fire-alarm checklist to separate the annual inspection from any deficiency repairs before approving additional work.
+
+## Sources
+
+- NFPA standards for fire alarm and sprinkler inspection
+- Local Dallas fire-code inspection requirements
 
 ---
 
