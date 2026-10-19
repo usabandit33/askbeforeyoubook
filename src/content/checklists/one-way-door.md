@@ -33,12 +33,12 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **1. BobCat Trapping & Building** — 630 640 7242 — [gmail.com](https://gmail.com)
-- **2. ABC Humane Wildlife Control** — 847 870 7175 — [ABCwildlife.com](https://ABCwildlife.com)
-- **3. Attic Solutions** — 847 464 1861 — [aol.com](https://aol.com)
-- **4. Landmark Pest Management** — 847 350 7378 — [LandmarkPest.com](https://LandmarkPest.com)
-- **5. Smithereen Pest Management** — 847 647 0010 — [smithereen.com](https://smithereen.com)
-- **** — 312 579 3800 — [wildliferemovalchicago.com](https://wildliferemovalchicago.com)
-- **** — 630 416 9920 — [trapper1.com](https://trapper1.com)
+- **BobCat Trapping & Building** — 630-640-7242 — [bobcattrap.com](https://bobcattrap.com)
+- **ABC Humane Wildlife Control** — 847-870-7175 — [abcwildlife.com](https://abcwildlife.com)
+- **Attic Solutions** — 847-464-1861 — [Note: verify current website](https://abcwildlife.com)
+- **Landmark Pest Management** — 847-350-7378 — [landmarkpest.com](https://landmarkpest.com)
+- **Smithereen Pest Management** — 847-647-0010 — [smithereen.com](https://smithereen.com)
+- **Wildlife Removal Chicago** — 312-579-3800 — [wildliferemovalchicago.com](https://wildliferemovalchicago.com)
+- **Trapper 1** — 630-416-9920 — [trapper1.com](https://trapper1.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
