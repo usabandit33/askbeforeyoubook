@@ -6,18 +6,41 @@ service: "Pressure Washing"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Charlotte soft wash for house/roof vs high-pressure blast for concrete.
+# Charlotte Pressure Washing: Soft Wash for House and Roof vs High-Pressure Blast for Concrete
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+House siding, roofs, and concrete surfaces need different cleaning approaches. Soft washing uses lower pressure and cleaning solutions suited to painted or delicate surfaces. High-pressure blasting is more appropriate for durable concrete. Using the wrong method can damage siding, shingles, or paint.
 
-Customer never pays the directory.
+## 1. Match the method to the surface
 
+Ask the company:
+
+- Will you use soft wash (low pressure + solution) on the house and roof?
+- Will concrete or brick receive higher pressure?
+- What cleaning solutions are used, and are they safe for the materials?
+
+A company that treats every surface the same way may not be matching the method to the material.
+
+## 2. Confirm what is included
+
+Get a clear scope:
+
+- House siding and trim
+- Roof (if offered)
+- Driveway, sidewalks, or patio
+- Any extra charge for heavy staining or multi-story access
+
+## 3. Ask about results and warranty
+
+Request before-and-after expectations and whether any guarantee covers the work.
+
+## Before you book
+
+Use the matching Charlotte pressure-washing checklist to confirm soft wash for the house/roof and appropriate pressure for concrete.
+
+## Sources
+
+- Soft-wash best practices for residential exteriors
+- Surface-specific cleaning recommendations
 
 ---
 
