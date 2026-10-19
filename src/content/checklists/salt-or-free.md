@@ -6,8 +6,6 @@ service: "Water Softener"
 lastReviewed: "2026-10-16"
 ---
 
-# Charlotte Water: Salt-Based Softener vs Salt-Free Conditioner
-
 Hard water in Charlotte can leave scale on fixtures and appliances. A salt-based softener removes hardness minerals. A salt-free conditioner typically uses a different process that may reduce scale without adding sodium. The right choice depends on water hardness, household preferences, and maintenance willingness.
 
 ## 1. Test the water first
