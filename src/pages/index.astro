@@ -21,6 +21,63 @@ const waterRepos = [
   { name: 'Permit Pulled', url: 'https://github.com/usabandit33/permit-pulled', desc: 'Denver water-heater permit checklist' },
   { name: 'Test Then File ATL', url: 'https://github.com/usabandit33/test-then-file-atl', desc: 'Atlanta backflow test and file' },
 ];
+
+// Search index: extra keywords help "plumbing", "roofing", etc. map to real pages
+const searchIndex = checklists.map((c) => {
+  const service = c.data.service.toLowerCase();
+  const title = c.data.title.toLowerCase();
+  const city = c.data.city.toLowerCase();
+  const extra: string[] = [];
+
+  if (service.includes('pool')) extra.push('pool', 'pool leak', 'pool repair', 'leak detection');
+  if (service.includes('foundation')) extra.push('foundation', 'foundation repair', 'slab', 'pier');
+  if (service.includes('water heater') || title.includes('water-heater') || title.includes('tankless'))
+    extra.push('water heater', 'waterheater', 'heater', 'tankless', 'plumbing');
+  if (service.includes('sewer')) extra.push('sewer', 'drain', 'camera', 'jet', 'plumbing');
+  if (service.includes('moving')) extra.push('moving', 'movers', 'relocation');
+  if (service.includes('locksmith') || title.includes('lock')) extra.push('locksmith', 'lock', 'key');
+  if (service.includes('termite') || service.includes('pest')) extra.push('termite', 'pest', 'bait', 'trench');
+  if (service.includes('gutter')) extra.push('gutter', 'gutters', 'downspout');
+  if (service.includes('insulation') || title.includes('attic')) extra.push('insulation', 'attic', 'blown-in');
+  if (service.includes('electrician') || service.includes('electrical') || title.includes('disconnect'))
+    extra.push('electrician', 'electrical', 'wiring', 'panel');
+  if (service.includes('garage')) extra.push('garage', 'garage door', 'springs');
+  if (service.includes('appliance')) extra.push('appliance', 'fridge', 'washer', 'dryer');
+  if (service.includes('dryer') || title.includes('dryer') || title.includes('vent') || title.includes('lint'))
+    extra.push('dryer vent', 'dryer', 'vent cleaning', 'lint');
+  if (service.includes('septic')) extra.push('septic', 'tank', 'pump');
+  if (service.includes('concrete') || title.includes('concrete')) extra.push('concrete', 'driveway', 'slab');
+  if (service.includes('roof') || title.includes('roof')) extra.push('roof', 'roofing', 'shingles');
+  if (service.includes('hvac') || title.includes('coil') || title.includes('compressor'))
+    extra.push('hvac', 'ac', 'air conditioning', 'coil', 'compressor');
+  if (service.includes('notary')) extra.push('notary', 'mobile notary');
+  if (service.includes('wildlife') || title.includes('wildlife') || title.includes('one-way'))
+    extra.push('wildlife', 'raccoon', 'animal removal');
+  if (service.includes('pressure') || title.includes('soft wash') || title.includes('blast'))
+    extra.push('pressure washing', 'power washing', 'soft wash');
+  if (service.includes('window film') || title.includes('film')) extra.push('window film', 'tint');
+  if (service.includes('floor')) extra.push('floor', 'wax', 'strip', 'recoat');
+  if (service.includes('backflow')) extra.push('backflow', 'backflow test');
+  if (service.includes('parking') || title.includes('striping')) extra.push('parking lot', 'striping', 'line striping');
+  if (service.includes('crawl')) extra.push('crawl space', 'encapsulation');
+  if (service.includes('dumpster')) extra.push('dumpster', 'roll off', 'junk');
+  if (service.includes('epoxy') || title.includes('epoxy') || title.includes('poly'))
+    extra.push('epoxy', 'garage floor', 'polyaspartic');
+  if (title.includes('fence') || service.includes('fence')) extra.push('fence', 'fencing');
+  if (title.includes('painting') || service.includes('paint')) extra.push('paint', 'painting');
+  if (title.includes('plumbing') || service.includes('plumb')) extra.push('plumbing', 'plumber');
+  if (title.includes('irrigation') || service.includes('irrigation')) extra.push('irrigation', 'sprinkler');
+
+  return {
+    id: c.id,
+    href: `/${c.id}/`,
+    title: c.data.title,
+    city: c.data.city,
+    service: c.data.service,
+    description: c.data.description,
+    searchText: [title, city, service, c.data.description.toLowerCase(), ...extra].join(' '),
+  };
+});
 ---
 <BaseLayout 
   title="Ask Before You Book — Free Service Checklists for Homeowners"
@@ -36,34 +93,47 @@ const waterRepos = [
   </section>
 
   <section class="discovery" aria-label="Find a checklist">
-    <div class="search-card">
-      <label class="search-label" for="service-query">
-        <span class="search-icon" aria-hidden="true">🔍</span>
-        What service do you need?
-      </label>
-      <input
-        id="service-query"
-        class="search-input"
-        type="search"
-        name="service"
-        placeholder="Search pool repair, plumbing, roofing, foundation repair…"
-        autocomplete="off"
-      />
-    </div>
+    <form id="search-form" class="search-form" action="#results" method="get">
+      <div class="search-card">
+        <label class="search-label" for="service-query">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+          What service do you need?
+        </label>
+        <input
+          id="service-query"
+          class="search-input"
+          type="search"
+          name="service"
+          placeholder="Search pool repair, plumbing, roofing, foundation repair…"
+          autocomplete="off"
+          enterkeyhint="search"
+        />
+      </div>
 
-    <div class="search-card">
-      <label class="search-label" for="location-query">
-        <span class="search-icon" aria-hidden="true">📍</span>
-        Where do you need service?
-      </label>
-      <input
-        id="location-query"
-        class="search-input"
-        type="search"
-        name="location"
-        placeholder="Enter your city or ZIP code"
-        autocomplete="off"
-      />
+      <div class="search-card">
+        <label class="search-label" for="location-query">
+          <span class="search-icon" aria-hidden="true">📍</span>
+          Where do you need service?
+        </label>
+        <input
+          id="location-query"
+          class="search-input"
+          type="search"
+          name="location"
+          placeholder="Enter your city or ZIP code"
+          autocomplete="off"
+          enterkeyhint="search"
+        />
+      </div>
+
+      <button type="submit" class="search-submit">Find the best checklist</button>
+    </form>
+
+    <div id="results" class="results-panel" hidden>
+      <h2 class="results-heading">Best matches on this site</h2>
+      <ol id="ranked-results" class="ranked-results"></ol>
+      <p id="no-results" class="no-results" hidden>No close match yet — browse popular checklists or the full list below.</p>
+      <p id="go-hint" class="go-hint" hidden></p>
     </div>
 
     <div class="popular-card">
@@ -76,8 +146,6 @@ const waterRepos = [
         ))}
       </ul>
     </div>
-
-    <p class="discovery-note">Illustrative layout — type to filter the full list below.</p>
   </section>
 
   <section class="ai-help home-ai" aria-label="Ask an AI">
@@ -93,7 +161,7 @@ const waterRepos = [
     <h2>All guides</h2>
     <ul class="checklist-list" id="checklist-results">
       {checklists.map(c => (
-        <li data-title={c.data.title.toLowerCase()} data-city={c.data.city.toLowerCase()} data-service={c.data.service.toLowerCase()}>
+        <li data-id={c.id}>
           <a href={`/${c.id}/`}>{c.data.title}</a>
           <br />
           <span class="meta">{c.data.city} · {c.data.service}</span>
@@ -117,30 +185,155 @@ const waterRepos = [
     <p>Consider a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a> for early alerts.</p>
   </section>
 
-  <script is:inline>
+  <script is:inline define:vars={{ searchIndex }}>
     (function () {
+      const form = document.getElementById('search-form');
       const serviceInput = document.getElementById('service-query');
       const locationInput = document.getElementById('location-query');
-      const items = document.querySelectorAll('#checklist-results li');
+      const resultsPanel = document.getElementById('results');
+      const rankedList = document.getElementById('ranked-results');
+      const noResults = document.getElementById('no-results');
+      const goHint = document.getElementById('go-hint');
+      const listItems = document.querySelectorAll('#checklist-results li');
 
-      function filter() {
-        const service = (serviceInput?.value || '').trim().toLowerCase();
-        const location = (locationInput?.value || '').trim().toLowerCase();
-
-        items.forEach((li) => {
-          const title = li.getAttribute('data-title') || '';
-          const city = li.getAttribute('data-city') || '';
-          const svc = li.getAttribute('data-service') || '';
-          const haystack = `${title} ${city} ${svc}`;
-
-          const serviceOk = !service || haystack.includes(service);
-          const locationOk = !location || city.includes(location) || haystack.includes(location);
-          li.style.display = serviceOk && locationOk ? '' : 'none';
-        });
+      function tokens(str) {
+        return (str || '')
+          .toLowerCase()
+          .replace(/[^a-z0-9\s]/g, ' ')
+          .split(/\s+/)
+          .filter(Boolean);
       }
 
-      serviceInput?.addEventListener('input', filter);
-      locationInput?.addEventListener('input', filter);
+      function scoreItem(item, serviceQ, locationQ) {
+        const text = item.searchText;
+        const title = item.title.toLowerCase();
+        const city = item.city.toLowerCase();
+        const service = item.service.toLowerCase();
+        let score = 0;
+
+        const serviceTokens = tokens(serviceQ);
+        const locationTokens = tokens(locationQ);
+
+        if (!serviceTokens.length && !locationTokens.length) return 0;
+
+        for (const t of serviceTokens) {
+          if (service === t || service.includes(t)) score += 12;
+          else if (title.includes(t)) score += 8;
+          else if (text.includes(t)) score += 4;
+          else score -= 2;
+        }
+
+        for (const t of locationTokens) {
+          if (city === t || city.startsWith(t)) score += 14;
+          else if (title.includes(t) || text.includes(t)) score += 5;
+          else score -= 3;
+        }
+
+        // Phrase boosts
+        const sq = (serviceQ || '').toLowerCase().trim();
+        if (sq && (title.includes(sq) || service.includes(sq) || text.includes(sq))) score += 10;
+
+        return score;
+      }
+
+      function runSearch(navigateIfClearWinner) {
+        const serviceQ = (serviceInput?.value || '').trim();
+        const locationQ = (locationInput?.value || '').trim();
+
+        if (!serviceQ && !locationQ) {
+          resultsPanel.hidden = true;
+          rankedList.innerHTML = '';
+          listItems.forEach((li) => { li.style.display = ''; });
+          return null;
+        }
+
+        const ranked = searchIndex
+          .map((item) => ({ item, score: scoreItem(item, serviceQ, locationQ) }))
+          .filter((r) => r.score > 0)
+          .sort((a, b) => b.score - a.score);
+
+        resultsPanel.hidden = false;
+        rankedList.innerHTML = '';
+
+        if (!ranked.length) {
+          noResults.hidden = false;
+          goHint.hidden = true;
+          listItems.forEach((li) => { li.style.display = 'none'; });
+          return null;
+        }
+
+        noResults.hidden = true;
+        const top = ranked.slice(0, 5);
+
+        top.forEach((r, i) => {
+          const li = document.createElement('li');
+          li.className = i === 0 ? 'top-match' : '';
+          li.innerHTML =
+            '<a href="' +
+            r.item.href +
+            '">' +
+            r.item.title +
+            '</a>' +
+            '<span class="meta">' +
+            r.item.city +
+            ' · ' +
+            r.item.service +
+            (i === 0 ? ' · best match' : '') +
+            '</span>';
+          rankedList.appendChild(li);
+        });
+
+        const best = ranked[0];
+        const clearWinner = ranked.length === 1 || best.score >= (ranked[1]?.score || 0) + 6;
+
+        if (clearWinner) {
+          goHint.hidden = false;
+          goHint.innerHTML =
+            'Best match: <a href="' +
+            best.item.href +
+            '">' +
+            best.item.title +
+            '</a>. Press Enter again or click to open.';
+        } else {
+          goHint.hidden = true;
+        }
+
+        // Dim full list to matches only
+        const matchIds = new Set(ranked.map((r) => r.item.id));
+        listItems.forEach((li) => {
+          const id = li.getAttribute('data-id');
+          li.style.display = matchIds.has(id) ? '' : 'none';
+        });
+
+        if (navigateIfClearWinner && clearWinner && best.score >= 10) {
+          window.location.href = best.item.href;
+          return best;
+        }
+
+        resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        return best;
+      }
+
+      let lastQuery = '';
+      form?.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const q = (serviceInput?.value || '') + '|' + (locationInput?.value || '');
+        const sameAsLast = q === lastQuery;
+        lastQuery = q;
+        runSearch(sameAsLast);
+      });
+
+      let debounce;
+      function onType() {
+        clearTimeout(debounce);
+        debounce = setTimeout(() => {
+          lastQuery = (serviceInput?.value || '') + '|' + (locationInput?.value || '');
+          runSearch(false);
+        }, 180);
+      }
+
+      serviceInput?.addEventListener('input', onType);
+      locationInput?.addEventListener('input', onType);
     })();
   </script>
 </BaseLayout>
