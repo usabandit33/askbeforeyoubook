@@ -26,52 +26,17 @@ When requesting a quote, ask the company to identify each included component:
 - Exhaust fan blades, housing, and accessible surrounding surfaces
 - Access panels and areas that require additional access or special equipment
 
-Ask whether the quoted service is a filter wash, a hood cleaning, or a cleaning of the complete exhaust system. Do not rely on the service name alone. A company should be able to explain, in ordinary language, which areas it will reach and which areas may remain outside the scope.
+Ask whether the quoted service is a filter wash, a hood cleaning, or a cleaning of the complete exhaust system. Do not rely on the service name alone.
 
 ## 2. Ask how the company gains access to the duct and fan
 
 A complete cleaning often depends on access. Some systems have access panels that allow technicians to reach duct interiors. Others may require temporary openings or additional work to reach concealed sections.
 
-Before booking, ask:
-
-- Where are the existing access panels?
-- Can the company clean the full accessible duct run from those openings?
-- Will any temporary openings or other access work be required?
-- Who is responsible for restoring panels, seals, or other surfaces afterward?
-- Are there roof, attic, or other access limitations that affect the quoted scope?
-
-If the company says it cannot reach part of the system, ask whether that limitation will be documented. An inaccessible section is different from a section that was simply not cleaned.
+Before booking, ask where the existing access panels are, whether the full duct run can be cleaned, and who restores any temporary openings.
 
 ## 3. Request documentation of what was cleaned
 
-Ask for a report or certificate that identifies the date of service, the areas cleaned, and any limitations. Some insurers, health authorities, or property managers expect records of commercial kitchen exhaust cleaning.
-
-A useful report should distinguish between:
-
-- Areas that were cleaned
-- Areas that could not be accessed
-- Conditions that may require repair, replacement, or further inspection
-- Any residual grease or other findings noted during the work
-
-Photographs or other clear records can help show the condition before and after cleaning, particularly for areas that are not visible during normal kitchen operations.
-
-## 4. Clarify chemicals, methods, and safety
-
-Grease removal methods can vary. Ask what cleaning agents or processes the company uses and whether they are appropriate for the surfaces involved. Confirm how the company protects food-preparation areas, equipment, and other building surfaces during the work.
-
-Also ask about scheduling. A complete cleaning may need to occur outside normal operating hours or during a planned shutdown. Confirm whether the kitchen can resume operation immediately or whether drying, ventilation, or other steps are needed first.
-
-## 5. Compare quotes on scope, not just price
-
-A lower price may reflect a narrower scope. When comparing companies, line up the written descriptions:
-
-- Which components are included?
-- How is access handled?
-- What documentation is provided?
-- What is excluded or treated as an extra charge?
-- How often does the company recommend service, and on what basis?
-
-If one quote covers only filters and another covers the hood, ducts, and fan, they are not equivalent services. Ask each company to revise the quote so the scope is explicit before you choose.
+Ask for a report or certificate that identifies the date of service, the areas cleaned, and any limitations.
 
 ## Before you book
 
