@@ -6,18 +6,34 @@ service: "Backflow"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Atlanta backflow annual test then file with water authority vs repair vs replace.
+# Atlanta Backflow: Annual Test, Then File, Repair, or Replace
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Backflow preventers in Atlanta typically require an annual test. The test results determine whether the device passes, needs repair, or should be replaced. Filing the results with the water authority is usually required. Separating the test from any repair or replacement keeps the costs clear.
 
-Customer never pays the directory.
+## 1. Start with the annual test
 
+Ask:
+
+- Does the price include the test and the filing with the water authority?
+- What happens if the device fails?
+- Is a repair or replacement quoted separately after the test?
+
+## 2. Confirm repair vs replace
+
+If the device fails, ask for a written comparison of repair cost versus replacement cost, including any required retesting.
+
+## 3. Verify documentation
+
+Ask for a copy of the test report and confirmation that it was filed.
+
+## Before you book
+
+Use the matching Atlanta backflow checklist to confirm the annual test and filing before approving repair or replacement.
+
+## Sources
+
+- Local Atlanta water authority backflow requirements
+- Backflow preventer testing standards
 
 ---
 
