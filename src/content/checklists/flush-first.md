@@ -6,18 +6,43 @@ service: "Tankless Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Flush First: Houston tankless checklist.
+# Houston Tankless Water Heater: Flush Before You Decide on Repair or Replacement
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Tankless water heaters in Houston can develop scale buildup from hard water. Reduced flow, error codes, or uneven temperature often improve after a proper descaling flush. Replacing the unit before flushing can be unnecessary.
 
-Customer never pays the directory.
+## 1. Ask whether a flush is included or recommended first
 
+Before approving a repair or replacement, ask:
+
+- Has the unit been flushed recently?
+- Does the diagnostic include a descaling flush?
+- What descaling solution and procedure will be used?
+- How long does the flush take, and is the unit usable afterward?
+
+A flush is often the first low-cost step.
+
+## 2. Confirm the diagnosis after the flush
+
+Ask what symptoms remain after flushing. If flow and temperature improve, further repair may not be needed. If problems continue, request the specific findings that support a component replacement or full unit swap.
+
+## 3. Compare repair vs replacement quotes
+
+Get written prices for:
+
+- Flush only
+- Flush plus any recommended parts
+- Full replacement, including disposal and permits if required
+
+Ask about warranty on the work and the new unit if replacement is chosen.
+
+## Before you book
+
+Use the matching Houston tankless checklist to confirm a flush is performed before approving major repair or replacement.
+
+## Sources
+
+- Manufacturer maintenance guidelines for tankless water heaters
+- Local water hardness considerations for the Houston area
 
 ---
 
