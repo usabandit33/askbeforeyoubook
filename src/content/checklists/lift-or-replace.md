@@ -6,18 +6,33 @@ service: "Concrete Lifting"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Columbus sunken-slab checklist: mudjack vs poly lift vs tear-out replace.
+# Columbus Sunken Slab: Mudjack vs Poly Lift vs Tear-Out and Replace
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+A sunken concrete slab can often be lifted rather than replaced. Mudjacking and polyurethane foam lifting are two common methods. Tear-out and replacement is usually the most expensive option and is reserved for severely damaged slabs.
 
-Customer never pays the directory.
+## 1. Understand the lifting methods
 
+- **Mudjacking** pumps a cement-based slurry under the slab.
+- **Polyurethane foam lifting** injects expanding foam that is lighter and often cures faster.
+
+Ask the company which method it recommends for your slab and why. Request the expected lift amount and any limitations.
+
+## 2. Confirm when replacement is necessary
+
+Ask what conditions would make lifting unsuitable (severe cracking, poor base, drainage issues). Get a written comparison of lifting versus tear-out and replacement costs.
+
+## 3. Compare warranties and inclusions
+
+Ask what the warranty covers and whether the price includes crack repair, sealing, or restoration of adjacent areas.
+
+## Before you book
+
+Use the matching Columbus concrete-lifting checklist to compare mudjacking, poly lift, and replacement after the slab condition is assessed.
+
+## Sources
+
+- Concrete lifting industry standards for mudjacking and foam injection
+- Local soil and drainage considerations for the Columbus area
 
 ---
 
