@@ -6,8 +6,6 @@ service: "Tankless Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-# Houston Tankless Water Heater: Flush Before You Decide on Repair or Replacement
-
 Tankless water heaters in Houston can develop scale buildup from hard water. Reduced flow, error codes, or uneven temperature often improve after a proper descaling flush. Replacing the unit before flushing can be unnecessary.
 
 ## 1. Ask whether a flush is included or recommended first

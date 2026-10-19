@@ -6,8 +6,6 @@ service: "Fire Alarm"
 lastReviewed: "2026-10-16"
 ---
 
-# Dallas Fire Alarm and Sprinkler: Annual Inspection vs Separate Deficiency Repair
-
 Fire alarm and sprinkler systems in Dallas typically require annual inspections. Deficiencies found during the inspection are often quoted separately. Understanding the difference helps avoid paying for repairs that were not part of the inspection scope.
 
 ## 1. Confirm what the annual inspection includes

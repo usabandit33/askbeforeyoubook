@@ -6,8 +6,6 @@ service: "Crawl Space"
 lastReviewed: "2026-10-16"
 ---
 
-# Charlotte Crawl Space: Liner vs Closed Encapsulation
-
 A crawl space can collect moisture, odors, and pests. In Charlotte, humidity and soil conditions make moisture control important. Two common approaches are a basic vapor liner and a more complete closed encapsulation system. The right choice depends on the current moisture level, the condition of the foundation vents, and whether the space will be used for storage or mechanical equipment.
 
 ## 1. Understand the difference between a liner and encapsulation

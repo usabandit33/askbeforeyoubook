@@ -6,8 +6,6 @@ service: "Concrete Lifting"
 lastReviewed: "2026-10-16"
 ---
 
-# Columbus Sunken Slab: Mudjack vs Poly Lift vs Tear-Out and Replace
-
 A sunken concrete slab can often be lifted rather than replaced. Mudjacking and polyurethane foam lifting are two common methods. Tear-out and replacement is usually the most expensive option and is reserved for severely damaged slabs.
 
 ## 1. Understand the lifting methods

@@ -6,8 +6,6 @@ service: "Backflow"
 lastReviewed: "2026-10-16"
 ---
 
-# Atlanta Backflow: Annual Test, Then File, Repair, or Replace
-
 Backflow preventers in Atlanta typically require an annual test. The test results determine whether the device passes, needs repair, or should be replaced. Filing the results with the water authority is usually required. Separating the test from any repair or replacement keeps the costs clear.
 
 ## 1. Start with the annual test

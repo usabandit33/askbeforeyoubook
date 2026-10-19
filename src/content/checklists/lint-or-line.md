@@ -6,8 +6,6 @@ service: "Dryer Vent"
 lastReviewed: "2026-10-16"
 ---
 
-# Dallas Dryer Vent: Lint Clean vs Line Replace vs Rigid Reroute
-
 A dryer that takes longer to dry or shows excess lint can have a clogged vent. Cleaning the existing line is often the first step. Replacing a foil or vinyl line, or rerouting with rigid metal duct, may be needed if the current setup is damaged or poorly routed.
 
 ## 1. Start with a thorough lint clean

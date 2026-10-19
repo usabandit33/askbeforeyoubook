@@ -6,8 +6,6 @@ service: "Permits"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Permits: City Published Fee vs Contractor Permit Line
-
 When a contractor includes a permit line on a quote, the amount is not always the same as the fee the city publishes. The difference can come from how the contractor estimates the fee, whether the line includes the contractor's time to pull the permit, or other costs the city does not charge.
 
 For Phoenix homeowners, the useful question is what the city actually charges for the specific work and whether the contractor's permit line matches that figure or adds something else.

@@ -6,8 +6,6 @@ service: "Sewer"
 lastReviewed: "2026-10-16"
 ---
 
-# Chicago Sewer: Camera and Jet First, Then Decide on Line, Spot, or Open Dig
-
 Sewer problems in Chicago can range from a simple clog to a damaged pipe. Starting with a camera inspection and jetting often clarifies the condition before choosing a repair method. Jumping straight to lining or excavation can be more expensive than necessary.
 
 ## 1. Ask for camera and jet first

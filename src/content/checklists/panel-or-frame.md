@@ -6,8 +6,6 @@ service: "Pool Cage"
 lastReviewed: "2026-10-16"
 ---
 
-# Orlando Pool Cage: Panel Repair vs Frame Repair
-
 Pool-cage (lanai) damage in Orlando is often from storms or age. The decision is whether only the screen panels need replacement or whether the aluminum frame also requires repair or reinforcement.
 
 ## 1. Ask what is damaged

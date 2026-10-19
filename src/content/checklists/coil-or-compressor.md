@@ -6,8 +6,6 @@ service: "Walk-in Cooler"
 lastReviewed: "2026-10-16"
 ---
 
-# Philadelphia Walk-in Cooler: Check Condenser, Gasket, and Leaks Before Replacing the Compressor
-
 A walk-in cooler that is not holding temperature can have several causes. The compressor is one possibility, but dirty condenser coils, worn door gaskets, refrigerant leaks, or control problems are often simpler and less expensive to fix. Replacing the compressor before checking these items can lead to unnecessary cost.
 
 ## 1. Ask what has already been tested

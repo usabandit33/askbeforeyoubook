@@ -6,8 +6,6 @@ service: "Locksmith"
 lastReviewed: "2026-10-16"
 ---
 
-# Houston Lockout: Get the Price Quoted Before the Door Is Opened
-
 A lockout is stressful, and many locksmiths quote a price only after they arrive. Asking for a clear quote before any work starts reduces the chance of surprise charges once the door is open.
 
 ## 1. Ask for the total price before arrival

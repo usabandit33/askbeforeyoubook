@@ -6,8 +6,6 @@ service: "Septic"
 lastReviewed: "2026-10-16"
 ---
 
-# Raleigh / Wake County Septic: Improvement Permit vs Construction Authorization
-
 In Wake County, septic work often requires an Improvement Permit before a Construction Authorization can be issued. The two documents serve different purposes. Starting work with only one of them can delay the project or create compliance issues.
 
 ## 1. Understand the two documents

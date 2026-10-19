@@ -6,8 +6,6 @@ service: "Septic"
 lastReviewed: "2026-10-16"
 ---
 
-# Charlotte Septic: Pump vs Inspect Before You Decide
-
 A full septic tank may need pumping, but not every slow drain or odor requires an immediate pump-out. An inspection can show whether the tank is full, whether baffles are intact, and whether the drain field is the real problem.
 
 ## 1. Ask what the inspection includes

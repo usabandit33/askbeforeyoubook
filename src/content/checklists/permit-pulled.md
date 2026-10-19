@@ -6,8 +6,6 @@ service: "Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-# Denver Water Heater Replacement: Confirm the Permit Before the Work Starts
-
 When a water heater fails, it is tempting to choose the first contractor who can install a replacement quickly. But a quote that only lists the equipment and installation price may leave out important work, including venting, piping, code-related updates, removal, and required permits or inspections.
 
 The right comparison starts with the actual condition of the existing system and the scope needed to install a safe, compatible replacement. Ask each contractor to put the equipment, installation work, permit responsibility, and total price in writing.

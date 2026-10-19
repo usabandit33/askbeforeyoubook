@@ -6,8 +6,6 @@ service: "Pool Leak"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Pool Leak Detection: Find the Leak Before Repairing It
-
 A swimming pool loses some water through evaporation, especially during hot, dry, and windy weather. But if you are frequently adding water, notice wet areas near the pool, or see the water level dropping faster than expected, a leak may be present.
 
 The expensive mistake is to approve a repair before anyone has established where the water is going. A leak could involve the pool shell, fittings, skimmer, return lines, equipment plumbing, or an automatic fill system.

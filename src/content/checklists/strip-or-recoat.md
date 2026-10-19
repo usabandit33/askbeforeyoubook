@@ -6,8 +6,6 @@ service: "Floor Care"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Commercial Floor: Scrub-and-Recoat vs Full Strip-and-Wax
-
 Commercial floors in Phoenix often need periodic maintenance. A scrub-and-recoat refreshes the existing finish. A full strip-and-wax removes the old finish completely and applies new coats. The right choice depends on the condition of the current finish and how much wear is present.
 
 ## 1. Assess the current finish

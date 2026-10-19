@@ -6,8 +6,6 @@ service: "Garage Floor"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Garage Floor: Epoxy vs Polyaspartic vs UV Topcoat
-
 Garage floor coatings in Phoenix must handle high temperatures, UV exposure, and vehicle traffic. Epoxy, polyaspartic, and UV-stable topcoats perform differently under these conditions. The right system depends on the concrete condition, expected use, and how much sun the floor receives.
 
 ## 1. Understand the main coating types

@@ -6,8 +6,6 @@ service: "Window Film"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Window Film: Get the VLT and Reflectance Spec Sheet First
-
 Window film in Phoenix needs to balance heat rejection, visible light transmission (VLT), and reflectance. Different films perform differently under intense sun. Asking for the manufacturer spec sheet before approving the install helps you compare actual performance instead of marketing claims.
 
 ## 1. Request the spec sheet

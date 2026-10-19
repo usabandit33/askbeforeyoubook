@@ -6,8 +6,6 @@ service: "Pressure Washing"
 lastReviewed: "2026-10-16"
 ---
 
-# Charlotte Pressure Washing: Soft Wash for House and Roof vs High-Pressure Blast for Concrete
-
 House siding, roofs, and concrete surfaces need different cleaning approaches. Soft washing uses lower pressure and cleaning solutions suited to painted or delicate surfaces. High-pressure blasting is more appropriate for durable concrete. Using the wrong method can damage siding, shingles, or paint.
 
 ## 1. Match the method to the surface

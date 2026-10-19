@@ -6,8 +6,6 @@ service: "Electrical"
 lastReviewed: "2026-10-16"
 ---
 
-# Minneapolis Electrical: Outside Emergency Disconnect
-
 Many electrical services require an outside emergency disconnect so first responders can shut off power without entering the building. In Minneapolis, confirming whether an outside disconnect is required and who installs it helps avoid delays or failed inspections.
 
 ## 1. Ask whether an outside disconnect is required

@@ -6,8 +6,6 @@ service: "Fence"
 lastReviewed: "2026-10-16"
 ---
 
-# Kansas City Fence: Reset the Post, Replace the Panel, or Rebuild the Run
-
 A leaning or damaged fence section does not always require a full rebuild. Resetting a post, replacing a single panel, or rebuilding a longer run are different scopes. Matching the repair to the actual damage saves money.
 
 ## 1. Assess what is actually damaged

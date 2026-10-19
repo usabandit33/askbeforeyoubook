@@ -6,8 +6,6 @@ service: "Grease Trap"
 lastReviewed: "2026-10-16"
 ---
 
-# Houston Grease Trap: Get the Manifest Before You Approve the Service
-
 Grease-trap pumping and cleaning in Houston should include a manifest or service record that shows what was removed and where it was taken. Without that documentation, it is harder to confirm the work was completed properly or to meet local requirements.
 
 ## 1. Ask for the manifest or service record

@@ -6,8 +6,6 @@ service: "Foundation"
 lastReviewed: "2026-10-16"
 ---
 
-# Houston Foundation Problems: Get an Engineering Assessment Before Repair
-
 Cracks in brick, drywall, or a concrete slab can make a homeowner worry about foundation damage. Doors that stick, uneven floors, and gaps around windows may also raise concerns. But these symptoms do not automatically prove that a foundation needs expensive repairs.
 
 Houston-area homes can experience movement related to soil conditions, changes in moisture, drainage, plumbing leaks, construction details, and other factors. The challenge is determining what is happening at your particular home before committing to a repair system.

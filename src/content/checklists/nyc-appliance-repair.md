@@ -6,8 +6,6 @@ service: "Appliance Repair"
 lastReviewed: "2026-09-09"
 ---
 
-# NYC Appliance Repair: Diagnostic Fees, Warranties, and What to Ask
-
 Appliance repair in New York City usually begins with a diagnostic or service-call fee. The fee, whether it is credited toward the repair, and the warranty terms vary by company. Confirming these details before the technician arrives reduces surprises.
 
 ## 1. Ask about the diagnostic fee

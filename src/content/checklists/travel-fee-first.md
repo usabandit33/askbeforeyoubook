@@ -6,8 +6,6 @@ service: "Mobile Notary"
 lastReviewed: "2026-10-16"
 ---
 
-# Portland Mobile Notary: Ask the Travel Fee Before the Stamp
-
 Mobile notary services in Portland often charge a travel fee in addition to the per-signature or per-document fee. Asking for the total price, including travel, before the notary arrives avoids surprises.
 
 ## 1. Ask for the total price upfront

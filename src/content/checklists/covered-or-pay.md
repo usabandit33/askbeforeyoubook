@@ -6,8 +6,6 @@ service: "Medical Transport"
 lastReviewed: "2026-10-16"
 ---
 
-# Portland Medical Transport: OHP/CCO Covered NEMT vs Private-Pay Ride
-
 Oregon Health Plan (OHP) members who need non-emergency medical transportation (NEMT) may be able to use a coordinated care organization (CCO) brokerage instead of paying privately. The rules, scheduling process, and covered destinations differ from a private-pay medical ride service.
 
 ## 1. Confirm whether the trip is covered under OHP/CCO

@@ -6,8 +6,6 @@ service: "Attic Insulation"
 lastReviewed: "2026-10-16"
 ---
 
-# San Diego Attic Insulation: Pull the Old First, Then Blow In New
-
 Adding new insulation on top of old, compressed, or contaminated material often reduces the benefit. In San Diego, the better approach is usually to remove (pull) the existing insulation first, then blow in new material to the proper depth.
 
 ## 1. Ask whether the old insulation will be removed

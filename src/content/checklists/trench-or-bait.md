@@ -6,8 +6,6 @@ service: "Termite"
 lastReviewed: "2026-10-16"
 ---
 
-# Phoenix Termite: Liquid Trench vs Bait-Station Lease
-
 Termite protection in Phoenix commonly uses either a liquid trench treatment or a bait-station system. The liquid creates a treated zone around the foundation. Bait stations are monitored and refilled over time. The right choice depends on the property, the termite pressure, and whether you prefer a one-time treatment or ongoing monitoring.
 
 ## 1. Understand the two approaches

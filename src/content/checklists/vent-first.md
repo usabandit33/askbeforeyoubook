@@ -6,8 +6,6 @@ service: "Dryer Vent"
 lastReviewed: "2026-10-16"
 ---
 
-# Atlanta Dryer Vent: Clean the Lint First, Then Decide on Line Replace or Rigid Reroute
-
 A dryer that takes longer to dry or shows excess lint often has a clogged vent. Cleaning the existing line is the logical first step. Replacing a flexible line or rerouting with rigid metal may be needed if the current setup is damaged or poorly routed.
 
 ## 1. Start with a full lint clean
