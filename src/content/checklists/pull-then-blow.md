@@ -6,18 +6,36 @@ service: "Attic Insulation"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Pull Then Blow: San Diego attic insulation checklist.
+# San Diego Attic Insulation: Pull the Old First, Then Blow In New
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Adding new insulation on top of old, compressed, or contaminated material often reduces the benefit. In San Diego, the better approach is usually to remove (pull) the existing insulation first, then blow in new material to the proper depth.
 
-Customer never pays the directory.
+## 1. Ask whether the old insulation will be removed
 
+Confirm:
+
+- Will you pull out the existing insulation before adding new?
+- What is done with the old material?
+- Is the attic air-sealed before the new insulation is installed?
+
+Blowing over old insulation can leave gaps and reduce R-value.
+
+## 2. Confirm the new material and depth
+
+Ask what type of insulation will be used and what depth or R-value is targeted. Get it in writing.
+
+## 3. Compare the total scope
+
+Request prices for pull-and-blow versus blow-only, and ask what is included (air sealing, baffles, cleanup).
+
+## Before you book
+
+Use the matching San Diego attic-insulation checklist to confirm the old insulation is removed before new material is blown in.
+
+## Sources
+
+- Attic insulation best practices
+- Local San Diego climate considerations for attic performance
 
 ---
 
