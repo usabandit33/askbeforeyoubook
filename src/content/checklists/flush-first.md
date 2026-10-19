@@ -33,11 +33,11 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **Hot Water Guys** — 832-673-0909 — [info@hotwaterguys.com](https://info@hotwaterguys.com)
-- **Affinity Hot Water Technology** — 713-468-9283 — [affinityplumbing1@gmail.com](https://affinityplumbing1@gmail.com)
-- **Elevated Water Solutions** — 346-869-5855 — [elevated.txwater@gmail.com](https://elevated.txwater@gmail.com)
-- **Texans Water Heaters** — 713-364-4616 — [service@texanswaterheaters.com](https://service@texanswaterheaters.com)
-- **All The Time Plumbing** — 713-705-3926 — [tom@allthetimeplumbing.com](https://tom@allthetimeplumbing.com)
-- **5 Star Plumbing Houston** — 713-770-6924 — [none found next to phone](https://none found next to phone)
+- **Hot Water Guys** — 832-673-0909 — [hotwaterguys.com](https://www.hotwaterguys.com)
+- **Affinity Hot Water Technology** — 713-468-9283 — [713hotwater.com](https://713hotwater.com)
+- **Elevated Water Solutions** — 346-869-5855 — [elevatedwatersolution.com](https://www.elevatedwatersolution.com)
+- **Texans Water Heaters** — 713-364-4616 — [texanswaterheaters.com](https://texanswaterheaters.com)
+- **All The Time Plumbing** — 713-705-3926 — [allthetimeplumbing.com](https://www.allthetimeplumbing.com)
+- **5 Star Plumbing Houston** — 713-770-6924 — (phone contact; confirm website yourself)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
