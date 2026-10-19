@@ -6,18 +6,30 @@ service: "Window Film"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Phoenix home film checklist: get the VLT and reflectance spec sheet.
+# Phoenix Window Film: Get the VLT and Reflectance Spec Sheet First
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Window film in Phoenix needs to balance heat rejection, visible light transmission (VLT), and reflectance. Different films perform differently under intense sun. Asking for the manufacturer spec sheet before approving the install helps you compare actual performance instead of marketing claims.
 
-Customer never pays the directory.
+## 1. Request the spec sheet
 
+Ask for the VLT percentage, solar heat gain coefficient, and reflectance numbers for the specific film being proposed. Confirm the numbers match the product that will be installed.
+
+## 2. Confirm what is included
+
+Get the price for film, installation, edge sealing, and any warranty. Ask whether the warranty covers fading, bubbling, or peeling.
+
+## 3. Compare options
+
+Request quotes for at least two films so you can see the difference in VLT and heat rejection.
+
+## Before you book
+
+Use the matching Phoenix window-film checklist to get the VLT and reflectance spec sheet before approving the install.
+
+## Sources
+
+- Window film manufacturer technical data
+- Local Phoenix solar and heat considerations
 
 ---
 
