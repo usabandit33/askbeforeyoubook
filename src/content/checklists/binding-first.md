@@ -33,9 +33,9 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **ATX Firefighter Moving** — 512-592-7708 — [form only on contact page](https://form only on contact page)
-- **Moving Company Austin TX** — 512-563-9745 — [info@movingcompanyaustintx.com](https://info@movingcompanyaustintx.com)
-- **Independent Moving & Logistics** — 512-767-5736 — [quotes@imovingtexas.com](https://quotes@imovingtexas.com)
-- **Move and Care** — 512-717-7081 — [info@move-and-care.com (blog footer on own domain)](https://info@move-and-care.com (blog footer on own domain))
+- **ATX Firefighter Moving** — 512-592-7708 — [atxfirefightermoving.com](https://www.atxfirefightermoving.com)
+- **Moving Company Austin TX** — 512-563-9745 — [movingcompanyaustintx.com](https://movingcompanyaustintx.com)
+- **Independent Moving & Logistics** — 512-767-5736 — [imovingtexas.com](https://imovingtexas.com)
+- **Move and Care** — 512-717-7081 — [move-and-care.com](https://move-and-care.com/tx)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
