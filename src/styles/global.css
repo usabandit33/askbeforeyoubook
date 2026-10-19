@@ -65,6 +65,14 @@ header nav a {
   padding: 0 1rem;
 }
 
+.ai-help.home-ai {
+  margin: 2rem 0 2.25rem;
+  padding: 1.25rem 1rem;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+}
+
 .ai-help p {
   font-size: 1.15rem;
   margin-bottom: 0.85rem;
@@ -101,6 +109,110 @@ header nav a {
 .btn-grok { background: #1d4ed8; }
 .btn-claude { background: #d97706; }
 
+/* Homepage hero + discovery */
+.hero {
+  margin-bottom: 1.75rem;
+}
+
+.hero h1 {
+  font-size: 2.15rem;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  color: #111;
+}
+
+.hero-lead {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 0.65rem;
+}
+
+.tagline {
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0;
+}
+
+.discovery {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+
+.search-card,
+.popular-card {
+  background: #f3f4f6;
+  border-radius: 12px;
+  padding: 1rem 1.15rem 1.1rem;
+}
+
+.search-label {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #222;
+  margin-bottom: 0.55rem;
+}
+
+.search-icon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.search-input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  font-size: 1.05rem;
+  color: #333;
+  outline: none;
+  padding: 0.15rem 0;
+}
+
+.search-input::placeholder {
+  color: #888;
+}
+
+.popular-heading {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 0.65rem;
+  color: #222;
+}
+
+.popular-list {
+  list-style: disc;
+  padding-left: 1.35rem;
+  margin: 0;
+}
+
+.popular-list li {
+  margin-bottom: 0.35rem;
+}
+
+.popular-list a {
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.popular-list a:hover {
+  text-decoration: underline;
+}
+
+.discovery-note {
+  font-size: 0.95rem;
+  color: #888;
+  margin: 0.25rem 0 0;
+}
+
+.all-guides {
+  margin-top: 0.5rem;
+}
+
 @media (max-width: 600px) {
   body { font-size: 1.1rem; }
   .banner img { max-height: 140px; }
@@ -112,6 +224,7 @@ header nav a {
   header nav a { margin-left: 0.75rem; }
   .ai-buttons { gap: 0.6rem; }
   .btn { padding: 0.65rem 1.1rem; font-size: 1rem; }
+  .hero h1 { font-size: 1.75rem; }
 }
 
 h1 {
