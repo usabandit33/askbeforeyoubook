@@ -33,11 +33,11 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **1. Portland Mobile Notary** — 971 456 8851 — [pdxmobilenotary.com](https://pdxmobilenotary.com)
-- **2. Notary of Portland** — 971 599 3080 — [blueinkcompanies.com](https://blueinkcompanies.com)
-- **3. The Notaryous LLC** — 503 489 8519 — [thenotaryousllc.com](https://thenotaryousllc.com)
-- **4. Elena Signs PDX** — 503 915 4610 — [elenasignspdx.com](https://elenasignspdx.com)
-- **5. SNAP Notary** — 503 766 7350 — [snapnotary.us](https://snapnotary.us)
-- **** — 503 430 9667 — [westmannotary.com](https://westmannotary.com)
+- **Portland Mobile Notary** — 971-456-8851 — [pdxmobilenotary.com](https://pdxmobilenotary.com)
+- **Notary of Portland** — 971-599-3080 — [blueinkcompanies.com](https://blueinkcompanies.com)
+- **The Notaryous LLC** — 503-489-8519 — [thenotaryousllc.com](https://thenotaryousllc.com)
+- **Elena Signs PDX** — 503-915-4610 — [elenasignspdx.com](https://elenasignspdx.com)
+- **SNAP Notary** — 503-766-7350 — [snapnotary.us](https://snapnotary.us)
+- **Westman Notary** — 503-430-9667 — [westmannotary.com](https://westmannotary.com)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
