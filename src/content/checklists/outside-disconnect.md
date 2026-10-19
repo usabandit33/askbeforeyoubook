@@ -6,18 +6,34 @@ service: "Electrical"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Outside Disconnect: Minneapolis emergency-disconnect checklist.
+# Minneapolis Electrical: Outside Emergency Disconnect
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Many electrical services require an outside emergency disconnect so first responders can shut off power without entering the building. In Minneapolis, confirming whether an outside disconnect is required and who installs it helps avoid delays or failed inspections.
 
-Customer never pays the directory.
+## 1. Ask whether an outside disconnect is required
 
+Confirm with the electrician and, if needed, the city:
+
+- Does this project require an outside emergency disconnect?
+- Is the existing disconnect compliant, or does it need to be replaced or relocated?
+- Who is responsible for the permit and inspection?
+
+## 2. Get the scope and price in writing
+
+Ask what the quote includes (disconnect, conduit, labeling, permit) and whether any panel work is separate.
+
+## 3. Verify licensing
+
+Confirm the electrician is licensed for the work and will provide the required documentation.
+
+## Before you book
+
+Use the matching Minneapolis electrical checklist to confirm the outside disconnect requirement before approving the work.
+
+## Sources
+
+- Local Minneapolis electrical code and inspection requirements
+- National Electrical Code guidance on emergency disconnects
 
 ---
 
