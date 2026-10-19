@@ -6,18 +6,36 @@ service: "Pool Cage"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Panel Or Frame: Orlando pool-cage checklist.
+# Orlando Pool Cage: Panel Repair vs Frame Repair
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+Pool-cage (lanai) damage in Orlando is often from storms or age. The decision is whether only the screen panels need replacement or whether the aluminum frame also requires repair or reinforcement.
 
-Customer never pays the directory.
+## 1. Ask what is damaged
 
+Confirm:
+
+- Are the screens torn but the frame still square and solid?
+- Is the frame bent, corroded, or loose at the connections?
+- Will the quote cover panels only or frame work as well?
+
+A panel-only repair is usually less expensive. Frame work adds cost and may be needed for a lasting result.
+
+## 2. Compare materials and warranty
+
+Ask what screen material is used and what warranty covers the panels and any frame repairs.
+
+## 3. Get the scope in writing
+
+Request a clear description of what will be repaired or replaced before approving the work.
+
+## Before you book
+
+Use the matching Orlando pool-cage checklist to decide between panel repair and frame work after the damage is assessed.
+
+## Sources
+
+- Pool-enclosure repair practices for high-wind areas
+- Local Orlando storm and building considerations
 
 ---
 
