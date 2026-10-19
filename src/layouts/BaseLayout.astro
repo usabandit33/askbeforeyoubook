@@ -4,8 +4,13 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  hideAiHelp?: boolean;
 }
-const { title, description = "Free checklists for homeowners. Ask the right questions before you book or hire. Customer never pays the directory." } = Astro.props;
+const {
+  title,
+  description = "Free checklists for homeowners. Ask the right questions before you book or hire. Customer never pays the directory.",
+  hideAiHelp = false,
+} = Astro.props;
 const canonical = Astro.url.href;
 ---
 <!DOCTYPE html>
@@ -31,7 +36,7 @@ const canonical = Astro.url.href;
           Ask Before You Book
         </a>
         <nav>
-          <a href="/">All guides</a>
+          <a href="/#all-guides">All guides</a>
         </nav>
       </div>
     </header>
@@ -40,14 +45,16 @@ const canonical = Astro.url.href;
       <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" />
     </div>
 
-    <div class="ai-help">
-      <p>Need help with your question? Ask an AI:</p>
-      <div class="ai-buttons">
-        <a href="https://chat.openai.com/" target="_blank" rel="noopener" class="btn btn-chatgpt">ChatGPT</a>
-        <a href="https://grok.x.ai/" target="_blank" rel="noopener" class="btn btn-grok">Grok</a>
-        <a href="https://claude.ai/" target="_blank" rel="noopener" class="btn btn-claude">Claude</a>
+    {!hideAiHelp && (
+      <div class="ai-help">
+        <p>Need help with your question? Ask an AI:</p>
+        <div class="ai-buttons">
+          <a href="https://chat.openai.com/" target="_blank" rel="noopener" class="btn btn-chatgpt">ChatGPT</a>
+          <a href="https://grok.x.ai/" target="_blank" rel="noopener" class="btn btn-grok">Grok</a>
+          <a href="https://claude.ai/" target="_blank" rel="noopener" class="btn btn-claude">Claude</a>
+        </div>
       </div>
-    </div>
+    )}
 
     <main class="container">
       <slot />
