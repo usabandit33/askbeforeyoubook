@@ -6,18 +6,40 @@ service: "Fence"
 lastReviewed: "2026-10-16"
 ---
 
-## Quick answer
-Kansas City fence checklist: reset the post, replace the panel, or rebuild the run.
+# Kansas City Fence: Reset the Post, Replace the Panel, or Rebuild the Run
 
-## Checklist
-1. Ask the key decision question before you sign anything.
-2. Confirm who is actually performing the work.
-3. Get the total price and what is included in writing.
-4. Ask about warranty and what happens if the problem returns.
-5. Only call shops that publish their own phone number and website.
+A leaning or damaged fence section does not always require a full rebuild. Resetting a post, replacing a single panel, or rebuilding a longer run are different scopes. Matching the repair to the actual damage saves money.
 
-Customer never pays the directory.
+## 1. Assess what is actually damaged
 
+Ask the company:
+
+- Is the post loose, rotted, or still solid?
+- Can a single panel be replaced, or is the whole section compromised?
+- Would resetting the post and replacing one panel solve it?
+
+## 2. Compare the options
+
+Get written prices for:
+
+- Post reset only
+- Panel replacement
+- Full run rebuild
+
+Confirm what materials are included and whether the price covers removal of the old section.
+
+## 3. Ask about warranty
+
+Request the warranty terms on posts, panels, and labor.
+
+## Before you book
+
+Use the matching Kansas City fence checklist to decide between a post reset, panel replacement, or full rebuild.
+
+## Sources
+
+- Fence repair best practices
+- Local Kansas City soil and weather considerations for posts
 
 ---
 
