@@ -33,13 +33,12 @@ Customer never pays the directory.
 
 These are operators with their own sites. Verify details yourself. Customer never pays the directory.
 
-- **Denver Parking Lot Lines** — (720) 934-0608 — [anthonyrfierro@yahoo.com](https://anthonyrfierro@yahoo.com)
-- **1-800-STRIPER (Denver North / South)** — North (720) 549-2853 · South (800) 787-4737 — [info@1800striper.com](https://info@1800striper.com)
-- **Parking Lot Striping Denver** — 720-734-8177 — [form only](https://form only)
-- **G-FORCE Parking Lot Striping of Denver** — 720-803-0483 — [quote form only](https://quote form only)
-- **Enright Asphalt** — 720-637-4960 — [estimate form only](https://estimate form only)
-- **Stripe A Lot** — 303-936-0229 (cell 720-234-8286) — [Cloudflare-protected — not readable](https://Cloudflare-protected — not readable)
-- **Precise Striping** — 303-462-2800 — [form only](https://form only)
-- **Mountain Lot Striping** — form CTA — [form only](https://form only)
+- **Denver Parking Lot Lines** — (720) 934-0608 — (phone contact; confirm website yourself)
+- **1-800-STRIPER (Denver North / South)** — North (720) 549-2853 · South (303) 285-0149 — [1800striper.com](https://1800striper.com)
+- **G-FORCE Parking Lot Striping of Denver** — 720-803-0483 — [gogforce.com](https://www.gogforce.com/denver-co/)
+- **Enright Asphalt** — 720-637-4960 — [enrightasphalt.com](https://www.enrightasphalt.com)
+- **Precise Striping** — 303-462-2800 — [precisestripingllc.com](https://precisestripingllc.com)
+- **Stripe A Lot** — 303-936-0229 — (phone contact; confirm website yourself)
+- **Mountain Lot Striping** — (phone / form contact; confirm website yourself)
 
 *Always confirm current contact info and scope on the company's own website before calling.*
