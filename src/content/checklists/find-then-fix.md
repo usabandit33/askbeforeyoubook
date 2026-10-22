@@ -28,27 +28,21 @@ An automatic fill valve can hide water loss because it continually replaces wate
 
 Look for obvious wet areas around the pump, filter, heater, exposed plumbing, and pipe joints. Note whether water loss seems to change when the circulation system is running. Do not open electrical equipment or disassemble pressurized plumbing to investigate a suspected leak.
 
-Record how often you add water and whether the pool level stabilizes at a particular point. That information can help a technician decide which tests to perform.
+Record how often you add water and under what conditions the level drops.
 
-## 3. Ask what diagnostic method is included
+## 3. Ask for a diagnostic process before a repair quote
 
-Pool leak detection can involve several methods, depending on the suspected source. A technician may inspect visible plumbing and equipment, use specialized listening or pressure-testing equipment, inspect fittings, or conduct other tests appropriate to the system.
+A competent leak investigation typically includes more than a visual look. Ask the company what methods it uses: pressure testing of lines, dye testing around fittings and cracks, listening equipment, or other techniques.
 
-Ask what the diagnostic fee includes. Does it cover inspection only, testing of accessible plumbing, or a more comprehensive search? Will the technician test both the pool structure and circulation lines if needed, or will additional testing be quoted separately?
+Request a written description of the diagnostic steps and a fixed or capped diagnostic fee. Ask whether that fee is credited toward the repair if you proceed with the same company.
 
-Get a clear answer about what you receive if the leak cannot be located during the first visit. A written report that identifies tested areas, findings, and remaining uncertainty is more useful than a vague statement that the pool "may have a leak."
+## 4. Require a clear location before authorizing major work
 
-## 4. Distinguish structural leaks from plumbing leaks
+Do not approve excavation or major plumbing replacement based only on a general statement that "there is a leak." Ask where the water is leaving the system and how that conclusion was reached.
 
-Water loss can originate from the pool shell or from plumbing and equipment. These problems may require different repair approaches.
+If the leak is in the equipment pad plumbing, the repair scope is different from a shell crack or a buried line. The diagnosis should drive the repair method.
 
-A shell or fitting issue may call for a localized repair at the identified location. A plumbing leak may require isolating and testing a line before deciding whether to repair a fitting, access a pipe, or consider another method.
-
-Ask the technician to explain the evidence for the suspected location. If a contractor recommends extensive work, ask what testing supports that recommendation and whether a smaller, targeted repair is possible.
-
-Do not assume that every crack is leaking, or that every leak is caused by a crack. The appearance of a defect is not a substitute for diagnosis.
-
-## 5. Compare the repair quote with the findings
+## 5. Get an itemized repair estimate after the diagnosis
 
 Once the leak is located, request an itemized estimate. It should identify the location and nature of the problem, the proposed repair method, the labor and materials included, and any access or restoration work that may be required.
 
@@ -85,17 +79,3 @@ Use the matching Phoenix pool leak checklist to record water loss, ask about the
 [Pool leak-detection dye kit](https://amzn.to/4hP5X11)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **1. Leak Science** — 480 794 0959 — [leakscience.com](https://leakscience.com)
-- **2. PinPoint Leak Detection** — 602 777 0771 — [pinpointleaks.me](https://pinpointleaks.me)
-- **3. American Leak Detection of Phoenix** — 602 483 4136 — [www.americanleakdetection.com](https://www.americanleakdetection.com)
-- **4. Echo Leak Detection** — 480 781 6101 — [op.echo.az](https://op.echo.az)
-- **5. Precision Pool Repairs** — 602 492 5784 — [precisionpoolrepairs.org](https://precisionpoolrepairs.org)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
