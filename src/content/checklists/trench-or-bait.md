@@ -40,17 +40,3 @@ Use the matching Phoenix termite checklist to compare liquid trench and bait-sta
 [Termite monitoring stations](https://amzn.to/4dCRByk)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **ACTION Termite & Pest Control** — 602-899-2222 — [actiontermitecontrol.com](https://www.actiontermitecontrol.com)
-- **Urban Desert Pest Control** — 602-399-9629 — [urbandesertpest.com](https://urbandesertpest.com)
-- **Green Mango Pest Control** — 480-919-2174 — [greenmangopest.com](https://greenmangopest.com)
-- **Insectek Pest Solutions** — 602-293-8965 — [insectekpest.com](https://www.insectekpest.com)
-- **Bills Pest Termite Control** — 602-308-4510 — (phone contact; confirm website yourself)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

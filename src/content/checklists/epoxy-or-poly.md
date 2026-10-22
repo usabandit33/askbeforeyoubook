@@ -46,17 +46,3 @@ Use the matching Phoenix garage-floor checklist to compare epoxy, polyaspartic, 
 [Concrete moisture test kit](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Dialed In Epoxy Flooring** — form only — [dialedinepoxy.com](https://dialedinepoxy.com)
-- **AZ Garage Floors** — austin@azgaragefloors.com — [azgaragefloors.com](https://azgaragefloors.com)
-- **Cardinal Concrete Coatings** — sales@cardinalconcretecoatings.com — [cardinalconcretecoatings.com](https://cardinalconcretecoatings.com)
-- **Iron Seal Coatings** — form / call — [ironsealcoatings.com](https://ironsealcoatings.com)
-- **Quick Response Garage Floor Coatings** — form / call — [quickresponsefloorcoatings.com](https://quickresponsefloorcoatings.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
