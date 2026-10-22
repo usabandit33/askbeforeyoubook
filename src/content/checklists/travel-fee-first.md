@@ -6,54 +6,33 @@ service: "Mobile Notary"
 lastReviewed: "2026-10-16"
 ---
 
-Mobile notary services in Portland often charge a travel fee in addition to the per-signature or per-document fee. Asking for the total price, including travel, before the notary arrives avoids surprises.
+Mobile notaries often charge a travel or convenience fee on top of the notarial act. Confirming that fee first avoids surprises.
 
-## 1. Ask for the total price upfront
+## 1. Ask for the travel fee up front
 
-Confirm:
+Get the trip charge or mobile fee in writing before the notary is scheduled, including after-hours or weekend rates.
 
-- What is the travel fee for your location?
-- What is the fee per signature or per document?
-- Are there extra charges for evenings, weekends, or additional stops?
+## 2. Confirm the notarial fee separately
 
-Get the numbers before scheduling.
+Clarify the per-signature or per-document notary fee versus the travel component.
 
-## 2. Confirm what is included
+## 3. Verify commission and ID requirements
 
-Ask whether the price covers the notarial act only or also includes any witnessing, copies, or other services you need.
-
-## 3. Verify credentials
-
-Ask for the notary’s commission number and confirm they are currently commissioned in Oregon.
+Ask whether the notary is commissioned in Oregon and what identification you must present.
 
 ## Before you book
 
-Use the matching Portland mobile-notary checklist to get the travel fee and total price before the appointment.
+Use the matching Portland mobile-notary checklist to lock in travel and notary fees before the appointment.
 
 ## Sources
 
-- Oregon notary public requirements
-- Consumer guidance on mobile notary pricing
+- Oregon notary public guidance
+- Consumer tips for mobile notary services
 
 ---
 
 ### Recommended product
 
-[Portable document case](https://amzn.to/4ywKrmJ)
+[Document organizer folder](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Portland Mobile Notary** — 971-456-8851 — [pdxmobilenotary.com](https://pdxmobilenotary.com)
-- **Notary of Portland** — 971-599-3080 — [blueinkcompanies.com](https://blueinkcompanies.com)
-- **The Notaryous LLC** — 503-489-8519 — [thenotaryousllc.com](https://thenotaryousllc.com)
-- **Elena Signs PDX** — 503-915-4610 — [elenasignspdx.com](https://elenasignspdx.com)
-- **SNAP Notary** — 503-766-7350 — [snapnotary.us](https://snapnotary.us)
-- **Westman Notary** — 503-430-9667 — [westmannotary.com](https://westmannotary.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

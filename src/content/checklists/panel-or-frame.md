@@ -6,53 +6,33 @@ service: "Pool Cage"
 lastReviewed: "2026-10-16"
 ---
 
-Pool-cage (lanai) damage in Orlando is often from storms or age. The decision is whether only the screen panels need replacement or whether the aluminum frame also requires repair or reinforcement.
+Pool cage screens can need individual panel replacement or larger frame repairs. The right scope depends on the damage.
 
-## 1. Ask what is damaged
+## 1. Identify panel versus frame work
 
-Confirm:
+Ask whether only screen panels need replacement or whether aluminum frame members are bent or corroded and must be fixed.
 
-- Are the screens torn but the frame still square and solid?
-- Is the frame bent, corroded, or loose at the connections?
-- Will the quote cover panels only or frame work as well?
+## 2. Get a written scope and material type
 
-A panel-only repair is usually less expensive. Frame work adds cost and may be needed for a lasting result.
+Confirm the screen mesh type, color, and whether the quote includes labor to remove and reinstall panels.
 
-## 2. Compare materials and warranty
+## 3. Compare warranties
 
-Ask what screen material is used and what warranty covers the panels and any frame repairs.
-
-## 3. Get the scope in writing
-
-Request a clear description of what will be repaired or replaced before approving the work.
+Ask how long the materials and workmanship are covered.
 
 ## Before you book
 
-Use the matching Orlando pool-cage checklist to decide between panel repair and frame work after the damage is assessed.
+Use the matching Orlando pool-cage checklist to separate panel work from frame repairs before comparing bids.
 
 ## Sources
 
-- Pool-enclosure repair practices for high-wind areas
-- Local Orlando storm and building considerations
+- Screen enclosure repair practices in Florida
+- Local wind and code considerations
 
 ---
 
 ### Recommended product
 
-[Pool-screen repair spline roller](https://amzn.to/4yPrU5Z)
+[Screen repair roller and spline](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **FullScreenFix** — 407-906-0649 — [fullscreenfix.com](https://fullscreenfix.com)
-- **Poolside Screen & Aluminum** — 407-766-4919 — [poolsidescreenrepair.com](https://poolsidescreenrepair.com)
-- **Florida Screen Fix** — 407-986-8444 — [floridascreenfix.com](https://floridascreenfix.com)
-- **Mid Florida Screens** — 407-925-1170 — [midfloridascreens.com](https://midfloridascreens.com)
-- **Pool Screens R Us** — 863-547-4210 — [poolscreensrus.com](https://poolscreensrus.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
