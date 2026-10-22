@@ -113,20 +113,3 @@ Use the matching Houston foundation checklist to document symptoms, clarify the 
 [Crack-width monitoring gauge](https://amzn.to/4ssPUK5)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Two Brothers Foundation Repair** — 832-710-6957 — [twobrosfoundationrepair.com](https://twobrosfoundationrepair.com)
-- **CoreTech Foundation Repair** — 281-984-4332 — [coretechfoundationrepair.com](https://coretechfoundationrepair.com)
-- **Level Check Foundation Repair** — 281-843-4314 — [levelcheckfoundation.com](https://levelcheckfoundation.com)
-- **Allied Foundation Repair** — 281-238-5010 — [crackedslab.com](https://crackedslab.com)
-- **Baird Foundation Repair Houston** — 713-533-8174 — [bairdfoundationrepair.com](https://bairdfoundationrepair.com)
-- **Bonilla Foundation Repair** — 713-434-8432 — [bonillafoundationrepair.com](https://bonillafoundationrepair.com)
-- **Cardinal Foundation Services** — 972-656-8251 — [cardinalfoundationservices.com](https://cardinalfoundationservices.com)
-- **R.L. Nelson Foundation Solutions** — 281-420-1739 — [foundationrepair.com](https://foundationrepair.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
