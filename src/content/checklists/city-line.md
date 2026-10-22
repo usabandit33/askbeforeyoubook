@@ -57,17 +57,3 @@ Use the matching Phoenix permit checklist to compare the contractor's permit lin
 [Home-project document organizer](https://amzn.to/4BcLxGP)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Old Reliable** — 602-935-1485 — [oldreliableaz.com](https://oldreliableaz.com)
-- **Best Remodeling and Construction** — 602-206-5726 — [bestrandc.com](https://bestrandc.com)
-- **Crosspoint Contracting** — 602-805-5057 — [crosspointcontracting.com](https://crosspointcontracting.com)
-- **Hopkins Construction** — 480-739-0009 — [hopkinsconstructionusa.com](https://hopkinsconstructionusa.com)
-- **AEH Builders** — 480-442-2341 — [aehbuilders.com](https://aehbuilders.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
