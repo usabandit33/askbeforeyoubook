@@ -123,16 +123,3 @@ Use the matching Austin moving estimate checklist to compare binding, non-bindin
 [Portable luggage scale for weighing boxes and belongings](https://amzn.to/3TIFGs5)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **ATX Firefighter Moving** — 512-592-7708 — [atxfirefightermoving.com](https://www.atxfirefightermoving.com)
-- **Moving Company Austin TX** — 512-563-9745 — [movingcompanyaustintx.com](https://movingcompanyaustintx.com)
-- **Independent Moving & Logistics** — 512-767-5736 — [imovingtexas.com](https://imovingtexas.com)
-- **Move and Care** — 512-717-7081 — [move-and-care.com](https://move-and-care.com/tx)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
