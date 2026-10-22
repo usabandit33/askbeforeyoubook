@@ -34,3 +34,29 @@ Consult these guides before working on related tasks:
 - [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
 - [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
 - [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
+
+## Local operator data
+
+Public checklist pages no longer list companies. The previous "Local companies to ask" blocks are archived (not rendered) at:
+
+`src/data/local-operators-archive.json`
+
+keyed by checklist slug. Keep this file for internal research only.
+
+## Contractor submission form
+
+Every checklist page includes a form (name, email, specific request) via `src/components/ContractorSubmitForm.astro`.
+
+Submissions are sent **directly to an email inbox** via FormSubmit.co.
+
+To set the inbox:
+
+1. Open `src/components/ContractorSubmitForm.astro`
+2. Change the constant near the top:
+   ```
+   const INBOX_EMAIL = "kaelnventures@gmail.com";
+   ```
+   to the real address that should receive contractor tips.
+3. Redeploy.
+
+The first time a form is submitted to a new address, FormSubmit sends a one-time confirmation email — click the link in that email to activate delivery. After that, every submission lands in the inbox as a normal email.

@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ContractorSubmitForm from '../components/ContractorSubmitForm.astro';
 
 export async function getStaticPaths() {
   const checklists = await getCollection('checklists');
@@ -18,4 +19,10 @@ const { Content } = await render(entry);
     <h1>{entry.data.title}</h1>
     <Content />
   </article>
+
+  <ContractorSubmitForm
+    city={entry.data.city}
+    service={entry.data.service}
+    checklistTitle={entry.data.title}
+  />
 </BaseLayout>
