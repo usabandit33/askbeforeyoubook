@@ -6,57 +6,33 @@ service: "Septic"
 lastReviewed: "2026-10-16"
 ---
 
-A full septic tank may need pumping, but not every slow drain or odor requires an immediate pump-out. An inspection can show whether the tank is full, whether baffles are intact, and whether the drain field is the real problem.
+Septic systems need periodic pumping and inspection. Pumping removes sludge; inspection checks the tank, baffles, and drain field. Doing one without the other can miss problems.
 
-## 1. Ask what the inspection includes
+## 1. Ask for both pump and inspect
 
-Before approving a pump-out, ask:
+Confirm the company will open the lid, measure sludge and scum, and report on the condition of the system—not only pump the tank.
 
-- Will you measure the sludge and scum levels?
-- Are the inlet and outlet baffles checked?
-- Is the drain field inspected for surfacing or saturation?
+## 2. Clarify what is included
 
-An inspection-first approach can avoid pumping a tank that does not yet need it.
+Get in writing whether the price covers locating the tank, pumping, inspection notes, and any recommendations for the drain field.
 
-## 2. Confirm the pump-out scope
+## 3. Confirm licensing and disposal
 
-If pumping is recommended, ask:
-
-- Is the price for a standard tank or does it include extra volume?
-- Are lids and risers replaced or sealed afterward?
-- What documentation is provided?
-
-## 3. Compare the total cost
-
-Get written prices for inspection only versus inspection plus pump-out. Ask whether the inspection fee is credited if you approve the pump on the same visit.
+Verify the company is licensed for septic work in the area and properly disposes of the waste.
 
 ## Before you book
 
-Use the matching Charlotte septic checklist to decide between an inspection and a pump-out after the tank condition is documented.
+Use the matching Charlotte septic checklist to confirm a full pump-and-inspect scope before scheduling.
 
 ## Sources
 
-- Local health department guidance on septic maintenance
-- Standard practices for septic tank inspection and pumping
+- Local septic maintenance guidance
+- North Carolina septic system requirements
 
 ---
 
 ### Recommended product
 
-[Septic tank treatment inspection dye](https://amzn.to/4zDx05n)
+[Septic tank treatment](https://amzn.to/4yT0Nap)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Autry's Backhoe and Septic Service** — 704-504-8830 — [autryseptic.com](https://www.autryseptic.com)
-- **Pro Site & Septic** — 980-888-2378 — [prositeandseptic.com](https://prositeandseptic.com)
-- **Carolina Septic Pro** — 980-500-1022 — [carolinasepticpro.com](https://carolinasepticpro.com)
-- **T.W. Ammons Septic Service** — 704-663-7631 — (phone contact; confirm website yourself)
-- **Lentz Septic** — 704-876-1834 — [lentzseptic.com](https://www.lentzseptic.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

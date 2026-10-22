@@ -6,61 +6,33 @@ service: "Tankless Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-Tankless water heaters in Houston can develop scale buildup from hard water. Reduced flow, error codes, or uneven temperature often improve after a proper descaling flush. Replacing the unit before flushing can be unnecessary.
+Tankless water heaters in Houston need periodic descaling because of mineral content in the water. A flush removes scale from the heat exchanger. Skipping this maintenance can reduce efficiency and shorten the unit’s life.
 
-## 1. Ask whether a flush is included or recommended first
+## 1. Ask about the flush process
 
-Before approving a repair or replacement, ask:
+Confirm whether the company uses a recirculating pump and the correct descaling solution, and how long the flush takes.
 
-- Has the unit been flushed recently?
-- Does the diagnostic include a descaling flush?
-- What descaling solution and procedure will be used?
-- How long does the flush take, and is the unit usable afterward?
+## 2. Confirm service interval and warranty impact
 
-A flush is often the first low-cost step.
+Ask how often a flush is recommended for Houston water conditions and whether skipping it affects the manufacturer warranty.
 
-## 2. Confirm the diagnosis after the flush
+## 3. Get the price in writing
 
-Ask what symptoms remain after flushing. If flow and temperature improve, further repair may not be needed. If problems continue, request the specific findings that support a component replacement or full unit swap.
-
-## 3. Compare repair vs replacement quotes
-
-Get written prices for:
-
-- Flush only
-- Flush plus any recommended parts
-- Full replacement, including disposal and permits if required
-
-Ask about warranty on the work and the new unit if replacement is chosen.
+Compare the cost of a standalone flush versus a flush bundled with an inspection or filter change.
 
 ## Before you book
 
-Use the matching Houston tankless checklist to confirm a flush is performed before approving major repair or replacement.
+Use the matching Houston tankless checklist to confirm the flush method, interval, and price before scheduling.
 
 ## Sources
 
-- Manufacturer maintenance guidelines for tankless water heaters
-- Local water hardness considerations for the Houston area
+- Manufacturer maintenance guidance for tankless units
+- Local water hardness considerations for Houston
 
 ---
 
 ### Recommended product
 
-[Tankless water-heater flushing kit](https://amzn.to/3WwchC7)
+[Tankless descaling kit](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Hot Water Guys** — 832-673-0909 — [hotwaterguys.com](https://www.hotwaterguys.com)
-- **Affinity Hot Water Technology** — 713-468-9283 — [713hotwater.com](https://713hotwater.com)
-- **Elevated Water Solutions** — 346-869-5855 — [elevatedwatersolution.com](https://www.elevatedwatersolution.com)
-- **Texans Water Heaters** — 713-364-4616 — [texanswaterheaters.com](https://texanswaterheaters.com)
-- **All The Time Plumbing** — 713-705-3926 — [allthetimeplumbing.com](https://www.allthetimeplumbing.com)
-- **5 Star Plumbing Houston** — 713-770-6924 — (phone contact; confirm website yourself)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
