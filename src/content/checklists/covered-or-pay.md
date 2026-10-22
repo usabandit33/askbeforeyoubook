@@ -6,60 +6,33 @@ service: "Medical Transport"
 lastReviewed: "2026-10-16"
 ---
 
-Oregon Health Plan (OHP) members who need non-emergency medical transportation (NEMT) may be able to use a coordinated care organization (CCO) brokerage instead of paying privately. The rules, scheduling process, and covered destinations differ from a private-pay medical ride service.
+Non-emergency medical transportation (NEMT) may be covered through Oregon Health Plan / CCO brokerage or paid privately. The process and cost differ.
 
-## 1. Confirm whether the trip is covered under OHP/CCO
+## 1. Confirm coverage first
 
-Ask the CCO or brokerage:
+Ask whether the ride can be arranged through the member’s CCO NEMT broker before booking a private service.
 
-- Does this appointment qualify for NEMT?
-- How far in advance must the ride be requested?
-- What documentation or authorization is required?
-- Are there limits on the number of trips or the distance?
+## 2. Clarify private-pay rates
 
-A private-pay company can often schedule with less notice, but the cost is paid by the rider.
+If using a private provider, get the mileage or trip rate, wait time, and any after-hours fee in writing.
 
-## 2. Compare scheduling, cost, and accessibility
+## 3. Verify vehicle and driver requirements
 
-For a private-pay ride, ask:
-
-- What is the total price, including any waiting time or additional stops?
-- Does the vehicle accommodate a wheelchair or other mobility equipment?
-- What is the cancellation policy?
-
-For a covered NEMT ride, confirm the pickup window and whether a companion can ride along.
-
-## 3. Verify the provider
-
-Ask whether the company is enrolled with the CCO brokerage or is operating as a private-pay service. Confirm that it publishes its own contact information and can provide proof of insurance.
+Ask about vehicle accessibility, driver credentials, and insurance for medical transport.
 
 ## Before you book
 
-Use the matching Portland medical-transport checklist to decide between a covered NEMT brokerage ride and a private-pay service after confirming eligibility and total cost.
+Use the matching Portland medical-transport checklist to decide between covered NEMT and private-pay after confirming eligibility.
 
 ## Sources
 
-- Oregon Health Authority: Non-emergency medical transportation
-- Local CCO member handbooks for Portland-area coordinated care organizations
+- Oregon Health Plan NEMT guidance
+- Local CCO transportation resources
 
 ---
 
 ### Recommended product
 
-[Foldable wheelchair ramp](https://amzn.to/4yuiFaC)
+[Portable medical document folder](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **1. Assured Ride** — 503 473 9329 — [assuredrides.com](https://assuredrides.com)
-- **2. Thrive Medical Services** — 503 300 8045 — [thrivemedicalservices.net](https://thrivemedicalservices.net)
-- **3. Broadway Cab Medical Transportation** — 503 333 3333 — [broadwaycab.com](https://broadwaycab.com)
-- **4. Wapato Shores** — 503 268 1706 — [wapatoshores.org](https://wapatoshores.org)
-- **5. ANEMT** — 971 344 5446 — [anemt.org](https://anemt.org)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

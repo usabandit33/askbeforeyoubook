@@ -6,55 +6,33 @@ service: "Dryer Vent"
 lastReviewed: "2026-10-16"
 ---
 
-A dryer that takes longer to dry or shows excess lint can have a clogged vent. Cleaning the existing line is often the first step. Replacing a foil or vinyl line, or rerouting with rigid metal duct, may be needed if the current setup is damaged or poorly routed.
+Dryer vents can need a simple lint cleaning, replacement of flexible foil or vinyl duct, or a rigid metal reroute. The scope affects safety and price.
 
-## 1. Start with a thorough lint clean
+## 1. Inspect before quoting
 
-Ask the company:
+Ask whether the company will inspect the full run (including the exterior termination) before recommending clean versus replace.
 
-- Will you clean the full vent run from the dryer to the exterior?
-- Do you use a brush, vacuum, or both?
-- Is the exterior termination inspected and cleared?
+## 2. Prefer rigid metal where possible
 
-A clean is usually less expensive than replacement and can restore performance if the line is intact.
+Confirm whether flexible foil or vinyl will be replaced with rigid or semi-rigid metal duct for better fire safety and airflow.
 
-## 2. Decide when replacement or reroute is needed
+## 3. Get the path and price in writing
 
-Ask whether the existing line is foil, vinyl, or rigid metal. Foil and vinyl are more likely to sag or collect lint. Rigid metal is preferred for safety and airflow.
-
-Confirm:
-
-- Is the current routing too long or has too many bends?
-- Would a shorter rigid reroute improve drying time and reduce fire risk?
-- What is the price difference between cleaning only and replacement?
-
-## 3. Get the scope in writing
-
-Request a written description of what will be cleaned or replaced and any warranty on the work.
+Clarify the route length, number of elbows, and total price for cleaning only versus a full reroute.
 
 ## Before you book
 
-Use the matching Dallas dryer-vent checklist to compare a lint clean against line replacement or a rigid reroute.
+Use the matching Dallas dryer-vent checklist to decide between lint clean and line replace after the run is inspected.
 
 ## Sources
 
-- Manufacturer and fire-safety guidance on dryer vent materials and maintenance
-- Local building considerations for dryer exhaust
+- Manufacturer and fire-safety guidance for dryer ducts
+- Local code preferences for rigid duct
 
 ---
 
 ### Recommended product
 
-[Dryer-vent cleaning kit](https://amzn.to/3U2wFdq)
+[Dryer vent cleaning brush kit](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-(Add local Dallas dryer-vent companies here if available.)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

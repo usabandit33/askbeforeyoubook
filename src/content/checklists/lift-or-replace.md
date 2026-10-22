@@ -6,49 +6,33 @@ service: "Concrete Lifting"
 lastReviewed: "2026-10-16"
 ---
 
-A sunken concrete slab can often be lifted rather than replaced. Mudjacking and polyurethane foam lifting are two common methods. Tear-out and replacement is usually the most expensive option and is reserved for severely damaged slabs.
+Sunken concrete can be lifted with mudjacking or polyurethane foam, or fully replaced. The right choice depends on the slab condition and cause of settlement.
 
-## 1. Understand the lifting methods
+## 1. Understand the three options
 
-- **Mudjacking** pumps a cement-based slurry under the slab.
-- **Polyurethane foam lifting** injects expanding foam that is lighter and often cures faster.
+Mudjacking and poly lifting raise the slab; tear-out and replace rebuilds it. Ask which the company recommends and why.
 
-Ask the company which method it recommends for your slab and why. Request the expected lift amount and any limitations.
+## 2. Confirm the cause of settlement
 
-## 2. Confirm when replacement is necessary
+Ask whether drainage, soil, or plumbing issues were identified and whether they will be addressed.
 
-Ask what conditions would make lifting unsuitable (severe cracking, poor base, drainage issues). Get a written comparison of lifting versus tear-out and replacement costs.
+## 3. Compare warranties and price
 
-## 3. Compare warranties and inclusions
-
-Ask what the warranty covers and whether the price includes crack repair, sealing, or restoration of adjacent areas.
+Get written warranties for each method and a clear total price including preparation and cleanup.
 
 ## Before you book
 
-Use the matching Columbus concrete-lifting checklist to compare mudjacking, poly lift, and replacement after the slab condition is assessed.
+Use the matching Columbus concrete-lifting checklist to compare mudjack, poly lift, and full replace after the cause is documented.
 
 ## Sources
 
-- Concrete lifting industry standards for mudjacking and foam injection
-- Local soil and drainage considerations for the Columbus area
+- Concrete lifting industry practices
+- Local soil and drainage considerations
 
 ---
 
 ### Recommended product
 
-[4-foot or 6-foot spirit level for checking uneven slabs](https://amzn.to/4ehMkwd)
+[Concrete crack filler](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **SmartLevel Concrete** — 614-820-5438 — [smartlevelconcrete.com](https://smartlevelconcrete.com)
-- **Top Level Ohio** — 614-305-1050 — [toplevelohio.com](https://toplevelohio.com)
-- **Uplift Concrete Leveling** — 614-526-8527 — [upliftconcreteleveling.com](https://upliftconcreteleveling.com)
-- **Ohio Basement Authority** — 614-678-5809 — [ohiobasementauthority.com](https://www.ohiobasementauthority.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

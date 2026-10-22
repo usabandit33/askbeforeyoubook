@@ -6,51 +6,33 @@ service: "Fire Alarm"
 lastReviewed: "2026-10-16"
 ---
 
-Fire alarm and sprinkler systems in Dallas typically require annual inspections. Deficiencies found during the inspection are often quoted separately. Understanding the difference helps avoid paying for repairs that were not part of the inspection scope.
+Annual inspection of fire alarms and sprinklers is often separate from repairing deficiencies found during the inspection. Mixing the two in one vague quote can hide costs.
 
-## 1. Confirm what the annual inspection includes
+## 1. Separate inspection from repair
 
-Ask the company:
+Ask for a clear price for the annual inspection and testing, and a separate scope and price for any deficiency repairs.
 
-- Does the inspection price cover testing only, or does it include minor adjustments?
-- Will deficiencies be documented in a written report?
-- Are repair quotes provided separately after the inspection?
+## 2. Get deficiency details in writing
 
-The inspection should identify issues. Repairs are usually a second step.
+Request a list of failed devices or conditions and the proposed fix for each.
 
-## 2. Ask how deficiency repairs are priced
+## 3. Confirm licensing and reporting
 
-Request an itemized quote for any recommended repairs. Confirm whether the inspection fee is credited toward the repair work and what warranty covers the repairs.
-
-## 3. Verify licensing and documentation
-
-Ask for proof of the required licenses and confirm that the company will provide the inspection report needed for compliance or insurance.
+Verify the company is licensed for fire protection work and will provide the required inspection reports.
 
 ## Before you book
 
-Use the matching Dallas fire-alarm checklist to separate the annual inspection from any deficiency repairs before approving additional work.
+Use the matching Dallas fire-alarm checklist to keep inspection pricing separate from repair work before authorizing either.
 
 ## Sources
 
-- NFPA standards for fire alarm and sprinkler inspection
-- Local Dallas fire-code inspection requirements
+- NFPA inspection and testing practices
+- Local fire marshal reporting requirements
 
 ---
 
 ### Recommended product
 
-[Fire extinguisher inspection tag supplies](https://amzn.to/4Bbh6km)
+[Smoke and CO detector pack](https://amzn.to/4yT0Nap)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Paragon Fire Protection** — (469) 474-5190 — [paragonfireprotection.com](https://paragonfireprotection.com)
-- **Fire Safety Solutions, Inc.** — (214) 217-3774 — [firesafetysolutions.net](https://firesafetysolutions.net)
-- **Texas Fire Protection** — (214) 577-5612 — [texasfireprotection.net](https://texasfireprotection.net)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
