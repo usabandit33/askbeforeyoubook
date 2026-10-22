@@ -28,23 +28,18 @@ Start with the City's Right-of-Way Permits guidance. Explain exactly where the d
 
 Do not rely on a driver's verbal assurance that a permit is unnecessary. A delivery date is not proof that a placement has been authorized.
 
-## 2. Compare the included tonnage, not just the rental price
+## 2. Compare the included tonnage, not just the base price
 
-A quote may advertise a container size and a base price while leaving the included disposal weight in the fine print. A dumpster that costs less upfront can become more expensive if its weight allowance is lower.
+Many dumpster quotes advertise a low base rate. The more important number is how many tons are included and what each extra ton costs.
 
-Ask each company:
+Ask:
 
 - How many tons are included in the quoted price?
-- Is the weight allowance different for this container size?
-- What is the overage charge for each additional ton?
-- How is the final weight measured and documented?
-- Are disposal or environmental fees separate from the advertised rate?
+- What is the overage rate per ton?
+- How is the load weighed?
+- Are there different rates for different materials?
 
-Get the answers in writing. If the representative says, "You probably won't go over," ask for the actual included weight and overage rate anyway.
-
-### Estimate the type of debris
-
-Different projects produce different amounts and types of waste. A light household cleanout may fill a container before reaching its weight limit. Roofing debris, concrete, tile, soil, plaster, and other dense materials can reach the weight limit while substantial space remains.
+Estimate the type of debris. Different projects produce different amounts and types of waste. A light household cleanout may fill a container before reaching its weight limit. Roofing debris, concrete, tile, soil, plaster, and other dense materials can reach the weight limit while substantial space remains.
 
 Tell the rental company what you plan to discard. Do not describe a renovation as a general cleanout if you expect to load heavy construction material. Ask whether the material is accepted and whether a different container or disposal arrangement is needed.
 
@@ -84,17 +79,3 @@ Use the matching Austin dumpster checklist to confirm placement rules, included 
 [Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **A-Tex Dumpsters** — 512-358-0338 — [atexdumpsters.com](https://atexdumpsters.com)
-- **Captain Hook** — 512-719-4172 — [captainhookaustin.com](https://captainhookaustin.com)
-- **BinDumped** — 512-690-4999 — [bindumped.com](https://bindumped.com)
-- **Grime Time** — 512-387-5802 — [grimetime.com](https://grimetime.com)
-- **Dash Away Hauling** — 512-434-3929 — [DashAwayHauling.com](https://DashAwayHauling.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
