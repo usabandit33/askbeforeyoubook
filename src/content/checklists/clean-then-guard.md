@@ -60,19 +60,3 @@ Use the matching Atlanta gutter checklist to confirm the gutters will be cleaned
 [Gutter scoop and cleaning tool](https://amzn.to/4eBQJdv)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Gutter Masters** — (404) 391-9939 — [guttermastersatlanta.com](https://guttermastersatlanta.com)
-- **Alexus Gutter Cleaning** — (470) 748-6665 — [alexusguttercleaning.com](https://alexusguttercleaning.com)
-- **Gutter Heroes** — (770) 257-7769 — [gutterheroes.org](https://gutterheroes.org)
-- **Gutters 4 Less** — (470) 291-4943 — [gutters4lessga.com](https://gutters4lessga.com)
-- **Gutter Bro** — (470) 779-2222 — [gutterbro-atl.com](https://www.gutterbro-atl.com)
-- **High Five Window Cleaning** — (404) 369-2350 — [highfivewindowcleaning.com](https://highfivewindowcleaning.com)
-- **Advanced Pressure and Gutter** — (770) 501-8604 — [advancedpressureandgutter.com](https://www.advancedpressureandgutter.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
