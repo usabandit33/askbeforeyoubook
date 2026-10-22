@@ -6,60 +6,33 @@ service: "Pressure Washing"
 lastReviewed: "2026-10-16"
 ---
 
-House siding, roofs, and concrete surfaces need different cleaning approaches. Soft washing uses lower pressure and cleaning solutions suited to painted or delicate surfaces. High-pressure blasting is more appropriate for durable concrete. Using the wrong method can damage siding, shingles, or paint.
+House and roof surfaces are usually cleaned with a soft wash (low pressure plus detergent). Concrete can often take higher pressure. Using the wrong method can damage surfaces.
 
 ## 1. Match the method to the surface
 
-Ask the company:
+Ask whether the company will soft-wash siding and roofing and reserve higher pressure for concrete driveways or walks.
 
-- Will you use soft wash (low pressure + solution) on the house and roof?
-- Will concrete or brick receive higher pressure?
-- What cleaning solutions are used, and are they safe for the materials?
+## 2. Confirm chemicals and protection
 
-A company that treats every surface the same way may not be matching the method to the material.
+Get in writing what cleaners are used and how plants, windows, and electrical fixtures are protected.
 
-## 2. Confirm what is included
+## 3. Compare scope and price
 
-Get a clear scope:
-
-- House siding and trim
-- Roof (if offered)
-- Driveway, sidewalks, or patio
-- Any extra charge for heavy staining or multi-story access
-
-## 3. Ask about results and warranty
-
-Request before-and-after expectations and whether any guarantee covers the work.
+Clarify whether the quote is per surface type and what is included (house, roof, driveway, sidewalk).
 
 ## Before you book
 
-Use the matching Charlotte pressure-washing checklist to confirm soft wash for the house/roof and appropriate pressure for concrete.
+Use the matching Charlotte pressure-washing checklist to confirm soft-wash versus high-pressure methods for each surface before hiring.
 
 ## Sources
 
-- Soft-wash best practices for residential exteriors
-- Surface-specific cleaning recommendations
+- Soft wash and pressure washing best practices
+- Manufacturer guidance for siding and roofing
 
 ---
 
 ### Recommended product
 
-[Adjustable garden-hose spray nozzle](https://amzn.to/4zFQ9Ur)
+[Garden hose foam cannon](https://amzn.to/4yT0Nap)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **High Country Power Washing** — (704) 759-6307 — [highcountrypowerwashing.com](https://highcountrypowerwashing.com)
-- **Hunter Window Gutter Pressure Washing** — (704) 377-1264 — [windowcleaningcharlottenc.com](https://windowcleaningcharlottenc.com)
-- **Pressure Worx** — (252) 213-8392 — [pressureworxnc.com](https://pressureworxnc.com)
-- **Eclipse Power Wash** — (704) 396-0611 — [eclipsepowerwash.com](https://eclipsepowerwash.com)
-- **JK Softwash** — (980) 808-8685 — [jksoftwash.com](https://jksoftwash.com)
-- **AAA Window Cleaning & Solutions** — (704) 544-8970 — [aaawindowsolutions.com](https://aaawindowsolutions.com)
-- **Super Suds Pressure Washing** — (704) 634-6487 — [supersudsnc.com](https://supersudsnc.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

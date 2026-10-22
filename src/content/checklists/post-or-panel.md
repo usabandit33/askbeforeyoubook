@@ -6,57 +6,33 @@ service: "Fence"
 lastReviewed: "2026-10-16"
 ---
 
-A leaning or damaged fence section does not always require a full rebuild. Resetting a post, replacing a single panel, or rebuilding a longer run are different scopes. Matching the repair to the actual damage saves money.
+Fence repairs can mean resetting a leaning post, replacing a damaged panel, or rebuilding a full run. The scope and cost differ widely.
 
-## 1. Assess what is actually damaged
+## 1. Identify the real failure
 
-Ask the company:
+Ask whether posts are rotten below grade, panels are damaged, or the whole line has settled.
 
-- Is the post loose, rotted, or still solid?
-- Can a single panel be replaced, or is the whole section compromised?
-- Would resetting the post and replacing one panel solve it?
+## 2. Get a clear scope for each option
 
-## 2. Compare the options
+Compare prices for post reset, panel replace, and full rebuild, with materials specified.
 
-Get written prices for:
+## 3. Confirm materials and property lines
 
-- Post reset only
-- Panel replacement
-- Full run rebuild
-
-Confirm what materials are included and whether the price covers removal of the old section.
-
-## 3. Ask about warranty
-
-Request the warranty terms on posts, panels, and labor.
+Ask about post material (wood, steel, concrete) and whether the company will verify the property line before digging.
 
 ## Before you book
 
-Use the matching Kansas City fence checklist to decide between a post reset, panel replacement, or full rebuild.
+Use the matching Kansas City fence checklist to choose among post, panel, and rebuild options after the damage is documented.
 
 ## Sources
 
-- Fence repair best practices
-- Local Kansas City soil and weather considerations for posts
+- Fence construction practices
+- Local property-line and HOA considerations
 
 ---
 
 ### Recommended product
 
-[Fence post repair bracket](https://amzn.to/3U0xm6Q)
+[Post level and concrete mix](https://amzn.to/4yT0Nap)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Kansas City Fence Company** — (913) 484-3187 — [kansascityfenceco.com](https://kansascityfenceco.com)
-- **Slagle Fence** — (816) 863-6159 — [slaglefence.com](https://slaglefence.com)
-- **RKC Wood Care Pros** — (913) 286-1091 — [rkcwoodcarepros.com](https://rkcwoodcarepros.com)
-- **Perfect Fence Company** — (816) 536-3432 — [perfectfence.biz](https://perfectfence.biz)
-- **Superior Fence & Rail of Kansas City** — (913) 270-4221 — [superiorfenceandrail.com](https://superiorfenceandrail.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

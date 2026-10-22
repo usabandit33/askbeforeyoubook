@@ -6,57 +6,33 @@ service: "Water Heater"
 lastReviewed: "2026-10-16"
 ---
 
-When a water heater fails, it is tempting to choose the first contractor who can install a replacement quickly. But a quote that only lists the equipment and installation price may leave out important work, including venting, piping, code-related updates, removal, and required permits or inspections.
+Water heater replacement in Denver often requires a permit and inspection. Confirming who pulls the permit and what is included avoids delays and failed inspections.
 
-The right comparison starts with the actual condition of the existing system and the scope needed to install a safe, compatible replacement. Ask each contractor to put the equipment, installation work, permit responsibility, and total price in writing.
+## 1. Ask who pulls the permit
 
-## Diagnose the problem before choosing replacement
+Confirm whether the company or the homeowner is responsible for the permit and fees.
 
-Not every water-heater problem requires a full replacement. Ask what was checked and what the findings were before approving a new unit.
+## 2. Clarify the scope of the replacement
 
-## Confirm permit responsibility
+Get in writing whether the quote includes the tank or tankless unit, expansion tank, pan, seismic strapping, and any gas or electric upgrades.
 
-In Denver, many water-heater replacements require a permit. Ask:
+## 3. Confirm inspection and warranty
 
-- Who will pull the permit?
-- Is the permit fee included in the quote?
-- Will the contractor schedule and meet the inspector?
-
-Do not assume the work can begin without confirming the permit status.
-
-## Compare the full scope
-
-Get written answers on venting, gas or electrical connections, expansion tank, disposal of the old unit, and any code upgrades.
+Ask when the inspection will be scheduled and what warranties cover the unit and labor.
 
 ## Before you book
 
-Use the matching Denver water-heater checklist to confirm the permit is addressed before authorizing the replacement.
+Use the matching Denver water-heater checklist to confirm permit responsibility and full scope before hiring.
 
 ## Sources
 
-- City of Denver permitting guidance for water heaters
+- City and County of Denver permit guidance
 - Manufacturer installation requirements
 
 ---
 
 ### Recommended product
 
-[Water-leak alarm for the water-heater area](https://amzn.to/3TXyM2b)
+[Water-leak alarm for the water-heater area](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Bill Smith Plumbing & Heating** — 303-781-7856 — [billsmith-plumbing.com](https://billsmith-plumbing.com)
-- **Professional Plumbers Denver** — 720-390-2652 — [professional-plumbers-denver.com](https://professional-plumbers-denver.com)
-- **Euro Plumbing LLC** — 303-668-6844 — [europlumbingcolorado.net](https://europlumbingcolorado.net)
-- **Copperhead Plumbing** — 303-552-3491 — [copperheadplumbinginc.com](https://copperheadplumbinginc.com)
-- **My Denver Plumber** — 720-620-4177 — [mydenverplumber.net](https://mydenverplumber.net)
-- **Water Heater Denver CO** — [waterheaterdenverco.com](https://waterheaterdenverco.com)
-- **Beattie Plumbing** — [beattieplumbing.com](https://beattieplumbing.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

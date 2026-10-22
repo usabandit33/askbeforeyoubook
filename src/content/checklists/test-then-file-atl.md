@@ -6,51 +6,33 @@ service: "Backflow"
 lastReviewed: "2026-10-16"
 ---
 
-Backflow preventers in Atlanta typically require an annual test. The test results determine whether the device passes, needs repair, or should be replaced. Filing the results with the water authority is usually required. Separating the test from any repair or replacement keeps the costs clear.
+Backflow prevention assemblies in Atlanta require periodic testing and filing with the water authority. Failed tests may need repair or replacement.
 
-## 1. Start with the annual test
+## 1. Confirm test and file
 
-Ask:
+Ask whether the company will perform the annual test and submit the results to the correct authority.
 
-- Does the price include the test and the filing with the water authority?
-- What happens if the device fails?
-- Is a repair or replacement quoted separately after the test?
+## 2. Clarify repair versus replace if the test fails
 
-## 2. Confirm repair vs replace
+Get separate prices for repairing a failed assembly versus replacing it, and which is recommended.
 
-If the device fails, ask for a written comparison of repair cost versus replacement cost, including any required retesting.
+## 3. Verify tester credentials
 
-## 3. Verify documentation
-
-Ask for a copy of the test report and confirmation that it was filed.
+Confirm the technician is certified to test backflow assemblies in the jurisdiction.
 
 ## Before you book
 
-Use the matching Atlanta backflow checklist to confirm the annual test and filing before approving repair or replacement.
+Use the matching Atlanta backflow checklist to confirm test-and-file scope before scheduling, and to compare repair versus replace if needed.
 
 ## Sources
 
-- Local Atlanta water authority backflow requirements
-- Backflow preventer testing standards
+- Local water authority backflow testing requirements
+- Tester certification standards
 
 ---
 
 ### Recommended product
 
-[Backflow test report forms and inspection supplies](https://amzn.to/4isc3nd)
+[Shut-off valve label kit](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Georgia Backflow Testing** — (404) 548-7324 — [gabackflowtesting.com](https://gabackflowtesting.com)
-- **770 Backflow** — (770) 222-5356 — [770backflow.com](https://770backflow.com)
-- **Adams Backflow & Plumbing Services** — (770) 965-5555 — [adamsbackflow.com](https://adamsbackflow.com)
-- **Plumb Works** — (404) 524-1825 — [plumbworksinc.com](https://plumbworksinc.com)
-- **Atlanta Backflow Testing & Installation** — (770) 918-1203 — [atlantabackflowtesting.com](https://atlantabackflowtesting.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

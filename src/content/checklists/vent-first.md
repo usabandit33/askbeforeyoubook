@@ -6,45 +6,33 @@ service: "Dryer Vent"
 lastReviewed: "2026-10-16"
 ---
 
-A dryer that takes longer to dry or shows excess lint often has a clogged vent. Cleaning the existing line is the logical first step. Replacing a flexible line or rerouting with rigid metal may be needed if the current setup is damaged or poorly routed.
+Dryer vents should be cleaned of lint first. If the duct is damaged, crushed, or made of flexible foil, replacement or a rigid reroute may be needed.
 
-## 1. Start with a full lint clean
+## 1. Clean and inspect first
 
-Ask whether the service includes cleaning from the dryer to the exterior termination. A thorough clean often restores performance if the line is intact.
+Ask for a full clean and inspection of the run before authorizing replacement.
 
-## 2. Decide when replacement or reroute is needed
+## 2. Evaluate the duct material and route
 
-Ask if the existing line is foil, vinyl, or rigid metal. Foil and vinyl are more likely to collect lint. Rigid metal is preferred for safety and airflow.
+Confirm whether flexible foil or vinyl will be upgraded to rigid or semi-rigid metal.
 
-Confirm whether a shorter or straighter rigid reroute would improve drying time.
+## 3. Get both options priced
 
-## 3. Get the scope in writing
-
-Request a clear description of what will be cleaned or replaced and any warranty on the work.
+Compare a clean-only price versus a full replace or reroute price after the inspection.
 
 ## Before you book
 
-Use the matching Atlanta dryer-vent checklist to confirm a lint clean before approving line replacement or a rigid reroute.
+Use the matching Atlanta dryer-vent checklist to require a clean-and-inspect step before deciding on replacement.
 
 ## Sources
 
-- Dryer vent safety and maintenance guidance
-- Local Atlanta considerations for dryer exhaust
+- Fire safety guidance for dryer ducts
+- Manufacturer recommendations for vent materials
 
 ---
 
 ### Recommended product
 
-[Gardus LintEater dryer-vent cleaning kit](https://amzn.to/47kjQOH)
+[Dryer vent cleaning kit](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-(Add local Atlanta dryer-vent companies here if available.)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

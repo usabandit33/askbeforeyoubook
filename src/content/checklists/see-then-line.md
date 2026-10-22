@@ -6,59 +6,33 @@ service: "Sewer"
 lastReviewed: "2026-10-16"
 ---
 
-Sewer problems in Chicago can range from a simple clog to a damaged pipe. Starting with a camera inspection and jetting often clarifies the condition before choosing a repair method. Jumping straight to lining or excavation can be more expensive than necessary.
+Sewer repairs should start with a camera inspection and often hydro jetting before choosing a full line replacement, spot repair, or open dig.
 
-## 1. Ask for camera and jet first
+## 1. Require a camera inspection first
 
-Confirm:
+Ask for a recorded camera inspection of the line before authorizing major repair or replacement.
 
-- Will you camera the line and jet it before recommending a repair?
-- What does the inspection show (roots, offset, collapse, grease)?
-- Is the jetting included in the diagnostic or quoted separately?
+## 2. Understand the repair options
 
-The camera footage helps match the repair to the actual problem.
+Compare trenchless lining, spot repair, and traditional open dig based on the camera findings.
 
-## 2. Compare repair options
+## 3. Get warranties and permits in writing
 
-Ask about:
-
-- Spot repair for a localized issue
-- Pipe lining for longer sections
-- Open dig if the pipe is collapsed or inaccessible
-
-Get written prices and what each method includes.
-
-## 3. Confirm warranty and access
-
-Ask what the warranty covers and whether any excavation or restoration is included.
+Confirm material and labor warranties and who handles city permits if required.
 
 ## Before you book
 
-Use the matching Chicago sewer checklist to confirm camera and jet before approving lining or excavation.
+Use the matching Chicago sewer checklist to require camera-and-jet diagnosis before choosing a repair method.
 
 ## Sources
 
-- Sewer inspection and repair best practices
-- Local Chicago sewer and plumbing considerations
+- Sewer inspection and rehabilitation practices
+- Local municipal requirements
 
 ---
 
 ### Recommended product
 
-[Home plumbing inspection camera](https://amzn.to/3VUbPgO)
+[Enzyme drain maintenance](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Madden Sewer & Drain** — 773-588-7534 — [maddensewer.net](https://www.maddensewer.net)
-- **Rescue Plumbing** — 773-799-8848 — [myrescueplumbing.com](https://www.myrescueplumbing.com)
-- **J. Blanton Plumbing** — 773-724-9272 — [jblantonplumbing.com](https://jblantonplumbing.com)
-- **Suburban Plumbing Experts** — 773-570-2191 — (phone contact; confirm website yourself)
-- **Chicago Plumbing Experts** — 708-775-2566 — (phone contact; confirm website yourself)
-
-*Always confirm current contact info and scope on the company's own website before calling.*

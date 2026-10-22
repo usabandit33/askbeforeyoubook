@@ -6,55 +6,33 @@ service: "Attic Insulation"
 lastReviewed: "2026-10-16"
 ---
 
-Adding new insulation on top of old, compressed, or contaminated material often reduces the benefit. In San Diego, the better approach is usually to remove (pull) the existing insulation first, then blow in new material to the proper depth.
+Attic insulation upgrades sometimes require removing old material before blowing in new insulation. Skipping removal can trap moisture or debris.
 
-## 1. Ask whether the old insulation will be removed
+## 1. Ask whether removal is needed
 
-Confirm:
+Confirm whether existing insulation will be pulled out or left in place, and why.
 
-- Will you pull out the existing insulation before adding new?
-- What is done with the old material?
-- Is the attic air-sealed before the new insulation is installed?
+## 2. Clarify the R-value and material
 
-Blowing over old insulation can leave gaps and reduce R-value.
+Get the target R-value, insulation type (cellulose, fiberglass, etc.), and coverage area in writing.
 
-## 2. Confirm the new material and depth
+## 3. Confirm air sealing and ventilation
 
-Ask what type of insulation will be used and what depth or R-value is targeted. Get it in writing.
-
-## 3. Compare the total scope
-
-Request prices for pull-and-blow versus blow-only, and ask what is included (air sealing, baffles, cleanup).
+Ask whether baffles, air sealing, and ventilation checks are included with the insulation work.
 
 ## Before you book
 
-Use the matching San Diego attic-insulation checklist to confirm the old insulation is removed before new material is blown in.
+Use the matching San Diego attic-insulation checklist to decide on pull-versus-blow after the attic condition is inspected.
 
 ## Sources
 
-- Attic insulation best practices
-- Local San Diego climate considerations for attic performance
+- Building science guidance on attic insulation
+- Local climate considerations for San Diego
 
 ---
 
 ### Recommended product
 
-[Digital attic thermometer/hygrometer](https://amzn.to/4zBQJCr)
+[Attic insulation depth ruler](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Attic Guard** — (858) 400-0670 — [atticguardca.com](https://www.atticguardca.com)
-- **Attic Heroes** — (619) 777-7021 — [theatticheroes.com](https://theatticheroes.com)
-- **California Attic & Build** — (619) 314-8818 — [caatticbuild.com](https://caatticbuild.com)
-- **Attic Shield** — (858) 402-0066 — [atticshield.com](https://atticshield.com)
-- **Attic Projects** — (858) 246-7421 — [atticprojects-sd.com](https://atticprojects-sd.com)
-- **Advanced Insulation System** — (858) 789-0215 — (phone contact; confirm website yourself)
-- **Attic Professional** — (619) 597-5514 — (phone contact; confirm website yourself)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
