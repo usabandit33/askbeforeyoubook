@@ -1,0 +1,184 @@
+---
+interface Props {
+  city?: string;
+  service?: string;
+  checklistTitle?: string;
+}
+const { city = "", service = "", checklistTitle = "" } = Astro.props;
+const context = [city, service].filter(Boolean).join(" · ") || checklistTitle;
+
+// Change this to the inbox that should receive contractor submissions
+const INBOX_EMAIL = "kaelnventures@gmail.com";
+---
+
+<section class="contractor-form-section" id="submit-contractor">
+  <h2>Know a good local contractor?</h2>
+  <p class="form-intro">
+    Submit a local operator for review. We keep a private list for research and never charge homeowners or list companies as paid ads.
+  </p>
+
+  <form
+    class="contractor-form"
+    id="contractor-form"
+    method="POST"
+    action={`https://formsubmit.co/${INBOX_EMAIL}`}
+  >
+    <!-- FormSubmit options -->
+    <input type="hidden" name="_subject" value={`Contractor submission: ${context || "general"}`} />
+    <input type="hidden" name="_captcha" value="false" />
+    <input type="hidden" name="_template" value="table" />
+    <input type="hidden" name="_next" value="" />
+    <!-- Honeypot anti-spam -->
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+
+    <input type="hidden" name="checklist" value={checklistTitle} />
+    <input type="hidden" name="city" value={city} />
+    <input type="hidden" name="service" value={service} />
+
+    <div class="form-row">
+      <label for="name">Your name</label>
+      <input type="text" id="name" name="name" required placeholder="Jane Doe" autocomplete="name" />
+    </div>
+
+    <div class="form-row">
+      <label for="email">Your email</label>
+      <input type="email" id="email" name="email" required placeholder="you@example.com" autocomplete="email" />
+    </div>
+
+    <div class="form-row">
+      <label for="request">Specific request or contractor info</label>
+      <textarea
+        id="request"
+        name="request"
+        required
+        rows="4"
+        placeholder="Company name, website or phone, city, and any notes about the service they provide…"
+      ></textarea>
+    </div>
+
+    <button type="submit" class="btn-submit">
+      Submit info for a local contractor
+    </button>
+
+    <p class="form-note">
+      Customer never pays the directory. Submissions are reviewed privately and are not public listings.
+    </p>
+  </form>
+
+  <div class="form-success" id="form-success" hidden>
+    <p><strong>Thanks — your submission was received.</strong></p>
+    <p>We review every note offline. Customer never pays the directory.</p>
+  </div>
+</section>
+
+<style>
+  .contractor-form-section {
+    margin-top: 2.5rem;
+    padding: 1.75rem 1.5rem;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+  }
+
+  .contractor-form-section h2 {
+    margin-top: 0;
+    font-size: 1.4rem;
+  }
+
+  .form-intro {
+    color: #475569;
+    margin-bottom: 1.25rem;
+    font-size: 1.05rem;
+  }
+
+  .contractor-form .form-row {
+    margin-bottom: 1rem;
+  }
+
+  .contractor-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    font-size: 1rem;
+  }
+
+  .contractor-form input,
+  .contractor-form textarea {
+    width: 100%;
+    padding: 0.7rem 0.85rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 1.05rem;
+    font-family: inherit;
+    background: #fff;
+  }
+
+  .contractor-form input:focus,
+  .contractor-form textarea:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 1px;
+    border-color: #3b82f6;
+  }
+
+  .btn-submit {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.85rem 1.4rem;
+    background: #1d4ed8;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.05rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  .btn-submit:hover {
+    background: #1e40af;
+  }
+
+  .form-note {
+    margin-top: 1rem;
+    font-size: 0.95rem;
+    color: #64748b;
+  }
+
+  .form-success {
+    padding: 1rem 0;
+  }
+
+  .form-success p {
+    margin-bottom: 0.5rem;
+  }
+</style>
+
+<script>
+  const form = document.getElementById("contractor-form") as HTMLFormElement | null;
+  const success = document.getElementById("form-success");
+
+  if (form && success) {
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const data = new FormData(form);
+      const action = form.getAttribute("action") || "";
+
+      try {
+        const res = await fetch(action, {
+          method: "POST",
+          body: data,
+          headers: { Accept: "application/json" },
+        });
+
+        if (res.ok) {
+          form.hidden = true;
+          success.hidden = false;
+        } else {
+          form.submit();
+        }
+      } catch {
+        form.submit();
+      }
+    });
+  }
+</script>
