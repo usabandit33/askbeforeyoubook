@@ -52,17 +52,3 @@ Use the matching Atlanta hood-cleaning checklist to confirm whether the service 
 [Commercial kitchen degreaser](https://amzn.to/47kTv35)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **Atlanta Hood Cleaning Pros** — 470-435-8585 — [atlantahoodcleaningpros.com](https://atlantahoodcleaningpros.com)
-- **Premier Grease Hood Cleaning** — 404-905-3337 — [premiergreasehoodcleaning.com](https://premiergreasehoodcleaning.com)
-- **Georgia Commercial Hood Cleaning** — 678-679-6522 — [commercialhoodcleaningga.com](https://commercialhoodcleaningga.com)
-- **Peach State Hood Cleaning** — 770-404-8836 — [peachstatehoodcleaning.com](https://peachstatehoodcleaning.com)
-- **TruShine Services** — 678-751-8871 — [trushineservice.com](https://trushineservice.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
