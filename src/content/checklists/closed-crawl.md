@@ -54,17 +54,3 @@ Use the matching Charlotte crawl-space checklist to decide between a basic liner
 [Digital humidity meter](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
-
----
-
-## Local companies to ask
-
-These are operators with their own sites. Verify details yourself. Customer never pays the directory.
-
-- **1. Red Sea Crawlspace Solutions** — 704 500 5657 — [redseagc.com](https://redseagc.com)
-- **2. Falcone Crawl Space** — 704 719 1198 — [falconecrawlspace.com](https://falconecrawlspace.com)
-- **3. Greenserve** — 980 432 0042 — [greenserve.us](https://greenserve.us)
-- **4. Catawba Crawlspace Co.** — 704 276 6624 — [crawlspaceencapsulationcharlottenc.com](https://crawlspaceencapsulationcharlottenc.com)
-- **5. Charlotte Crawl Space Solutions** — 704 989 8219 — [charlottecrawlspacesolutions.com](https://charlottecrawlspacesolutions.com)
-
-*Always confirm current contact info and scope on the company's own website before calling.*
