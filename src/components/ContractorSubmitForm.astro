@@ -7,14 +7,14 @@ interface Props {
 const { city = "", service = "", checklistTitle = "" } = Astro.props;
 const context = [city, service].filter(Boolean).join(" · ") || checklistTitle;
 
-// Change this to the inbox that should receive contractor submissions
+// Change this to the inbox that should receive contractor requests
 const INBOX_EMAIL = "kaelnventures@gmail.com";
 ---
 
-<section class="contractor-form-section" id="submit-contractor">
-  <h2>Know a good local contractor?</h2>
+<section class="contractor-form-section" id="request-contractor">
+  <h2>Need a local contractor?</h2>
   <p class="form-intro">
-    Submit a local operator for review. We keep a private list for research and never charge homeowners or list companies as paid ads.
+    Tell us what you need and where. We use requests only to help connect homeowners with operators for research—never as paid listings. Customer never pays the directory.
   </p>
 
   <form
@@ -24,7 +24,7 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
     action={`https://formsubmit.co/${INBOX_EMAIL}`}
   >
     <!-- FormSubmit options -->
-    <input type="hidden" name="_subject" value={`Contractor submission: ${context || "general"}`} />
+    <input type="hidden" name="_subject" value={`Contractor request: ${context || "general"}`} />
     <input type="hidden" name="_captcha" value="false" />
     <input type="hidden" name="_template" value="table" />
     <input type="hidden" name="_next" value="" />
@@ -46,27 +46,27 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
     </div>
 
     <div class="form-row">
-      <label for="request">Specific request or contractor info</label>
+      <label for="request">What do you need?</label>
       <textarea
         id="request"
         name="request"
         required
         rows="4"
-        placeholder="Company name, website or phone, city, and any notes about the service they provide…"
+        placeholder="Describe the job, your city or neighborhood, and any timing or details that matter…"
       ></textarea>
     </div>
 
     <button type="submit" class="btn-submit">
-      Submit info for a local contractor
+      Request a local contractor
     </button>
 
     <p class="form-note">
-      Customer never pays the directory. Submissions are reviewed privately and are not public listings.
+      Customer never pays the directory. Requests are reviewed privately and are not public listings.
     </p>
   </form>
 
   <div class="form-success" id="form-success" hidden>
-    <p><strong>Thanks — your submission was received.</strong></p>
+    <p><strong>Thanks — your request was received.</strong></p>
     <p>We review every note offline. Customer never pays the directory.</p>
   </div>
 </section>
