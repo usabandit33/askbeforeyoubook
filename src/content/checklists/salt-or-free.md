@@ -36,6 +36,6 @@ Use the matching Charlotte water checklist to compare salt-based and salt-free o
 
 ### Recommended product
 
-[Water-hardness test strips](https://amzn.to/4yT0Nap)
+[Water-hardness test strips](https://link.amazon/B08SOPC6U)
 
 *Affiliate link. Customer never pays the directory.*

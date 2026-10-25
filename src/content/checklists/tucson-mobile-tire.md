@@ -42,6 +42,6 @@ Use the matching Tucson mobile-tire checklist to confirm on-site capability, fee
 
 ### Recommended product
 
-[Portable 12V tire inflator](https://amzn.to/4yT0Nap)
+[Portable 12V tire inflator](https://link.amazon/B0hxbvEyU)
 
 *Affiliate link. Customer never pays the directory.*

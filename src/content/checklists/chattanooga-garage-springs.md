@@ -54,6 +54,6 @@ Use the matching Chattanooga garage-spring checklist to confirm both springs, tr
 
 ### Recommended product
 
-[3-IN-ONE garage-door lubricant](https://amzn.to/4yqNA7s)
+[3-IN-ONE garage-door lubricant](https://link.amazon/B03159X1C)
 
 *Affiliate link. Customer never pays the directory.*
