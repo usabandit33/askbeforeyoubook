@@ -5,11 +5,15 @@ interface Props {
   title: string;
   description?: string;
   hideAiHelp?: boolean;
+  hideBanner?: boolean;
+  hideFooter?: boolean;
 }
 const {
   title,
   description = "Free checklists for homeowners. Ask the right questions before you book or hire. Customer never pays the directory.",
   hideAiHelp = false,
+  hideBanner = false,
+  hideFooter = false,
 } = Astro.props;
 const canonical = Astro.url.href;
 ---
@@ -42,9 +46,11 @@ const canonical = Astro.url.href;
       </div>
     </header>
 
-    <div class="banner">
-      <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" />
-    </div>
+    {!hideBanner && (
+      <div class="banner">
+        <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" />
+      </div>
+    )}
 
     {!hideAiHelp && (
       <div class="ai-help">
@@ -61,10 +67,12 @@ const canonical = Astro.url.href;
       <slot />
     </main>
 
-    <footer class="container">
-      <p><strong>Customer never pays the directory.</strong></p>
-      <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
-      <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
-    </footer>
+    {!hideFooter && (
+      <footer class="container">
+        <p><strong>Customer never pays the directory.</strong></p>
+        <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
+        <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
+      </footer>
+    )}
   </body>
 </html>
