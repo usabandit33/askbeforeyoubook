@@ -5,7 +5,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   title="AI Sales Consulting for Small Businesses | Ask Before You Book"
   description="Real results from 198 audited sales tasks: reclaim 184.8 hours a year with AI workflows. For operators and teams who want to close the Manual Gap."
   hideAiHelp={true}
+  hideBanner={true}
+  hideFooter={true}
 >
+  <div class="page-banner">
+    <img src="/ai-consulting-banner.jpg" alt="AI sales workflow: less admin, more selling time" />
+  </div>
+
   <section class="hero">
     <h1>Close the Manual Gap with AI that actually saves time</h1>
     <p class="hero-lead">
@@ -40,6 +46,26 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <div class="stat-detail">Equivalent time returned</div>
       </div>
     </div>
+
+    <section class="early-cta">
+      <h3>Ready to reclaim this kind of time?</h3>
+      <p>Tell me a little about your business and what you want to improve. I’ll follow up with next steps.</p>
+      <form class="interest-form" action="mailto:your-email@example.com" method="post" enctype="text/plain">
+        <label for="name-early">Name</label>
+        <input type="text" id="name-early" name="name" required />
+
+        <label for="email-early">Email</label>
+        <input type="email" id="email-early" name="email" required />
+
+        <label for="business-early">Business type / size</label>
+        <input type="text" id="business-early" name="business" placeholder="e.g. 5-person HVAC, 12-person staffing" />
+
+        <label for="interest-early">What are you hoping to improve?</label>
+        <textarea id="interest-early" name="interest" rows="3" placeholder="Prospecting volume, meeting prep, follow-up consistency, etc."></textarea>
+
+        <button type="submit" class="search-submit">Send interest</button>
+      </form>
+    </section>
 
     <h3>Where the time comes back</h3>
     <div class="category-bars">
@@ -123,7 +149,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <style>
+    .page-banner {
+      text-align: center;
+      margin: 0 0 1.5rem;
+    }
+    .page-banner img {
+      max-width: 100%;
+      width: 100%;
+      height: auto;
+      max-height: 280px;
+      object-fit: cover;
+      border-radius: 12px;
+      display: block;
+    }
     .stats-dashboard, .how-it-helps, .cta-section { margin-top: 2rem; }
+    .early-cta {
+      background: #f0f9ff;
+      border-radius: 12px;
+      padding: 1.25rem;
+      margin: 1.5rem 0 1.75rem;
+    }
+    .early-cta h3 { margin-top: 0; }
     .stat-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
@@ -201,6 +247,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     @media (max-width: 600px) {
       .help-grid { grid-template-columns: 1fr; }
       .bar-row { grid-template-columns: 1fr; gap: 0.25rem; }
+      .page-banner img { max-height: 180px; }
     }
   </style>
 </BaseLayout>
