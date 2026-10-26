@@ -359,14 +359,258 @@ footer {
 }
 
 .meta {
-  font-size: 1.05rem;
-  color: #666;
-  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  color: #64748b;
+  margin-bottom: 0.5rem;
 }
 
 .water-section {
   background: #f0f9ff;
-  padding: 1.1rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #bae6fd;
+  margin: 2rem 0;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  color: #64748b;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumbs a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs .current {
+  color: #1e293b;
+  font-weight: 500;
+}
+
+/* Checklist Article Header & Badges */
+.article-header {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.city-badge,
+.service-badge,
+.review-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.city-badge {
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
+.service-badge {
+  background: #f1f5f9;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+}
+
+.review-badge {
+  background: #ecfdf5;
+  color: #065f46;
+  border: 1px solid #a7f3d0;
+}
+
+.article-lead {
+  font-size: 1.15rem;
+  color: #475569;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
+
+.content-body h2 {
+  font-size: 1.4rem;
+  color: #0f172a;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  border-left: 3px solid #1d4ed8;
+  padding-left: 0.65rem;
+}
+
+.content-body h3 {
+  font-size: 1.15rem;
+  color: #1e293b;
+  margin-top: 1.35rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Related Checklists Section */
+.related-section {
+  margin-top: 3rem;
+  padding: 1.75rem 1.5rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+}
+
+.related-section h2 {
+  font-size: 1.35rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  color: #0f172a;
+}
+
+.related-block {
+  margin-bottom: 1.25rem;
+}
+
+.related-block:last-child {
+  margin-bottom: 0;
+}
+
+.related-block h3 {
+  font-size: 1.05rem;
+  color: #334155;
+  margin-bottom: 0.5rem;
+}
+
+.related-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.related-list li {
+  padding: 0.65rem 0.85rem;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
   border-radius: 8px;
-  margin: 1.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0;
+}
+
+.related-list a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.related-list a:hover {
+  text-decoration: underline;
+}
+
+.related-list .meta {
+  font-size: 0.85rem;
+  white-space: nowrap;
+  margin: 0;
+}
+
+/* Homepage Category Grid */
+.category-section {
+  margin: 2.25rem 0;
+}
+
+.category-heading {
+  font-size: 1.45rem;
+  color: #0f172a;
+  margin-bottom: 1rem;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+
+.category-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  display: block;
+}
+
+.category-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+  border-color: #93c5fd;
+}
+
+.category-card-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #1d4ed8;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.category-card-count {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+/* Footer Disclosures */
+.affiliate-line {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #334155;
+}
+
+.affiliate-disclosure {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #64748b;
+  line-height: 1.5;
+}
+
+.footer-sublinks {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.9rem;
+}
+
+.footer-sublinks a {
+  color: #64748b;
+  text-decoration: none;
+}
+
+.footer-sublinks a:hover {
+  text-decoration: underline;
+  color: #1d4ed8;
 }

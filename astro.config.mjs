@@ -4,5 +4,6 @@ import mdx from '@astrojs/mdx';
 
 export default defineConfig({
   site: 'https://askbeforeyoubook.com',
+  trailingSlash: 'always',
   integrations: [sitemap(), mdx()],
 });

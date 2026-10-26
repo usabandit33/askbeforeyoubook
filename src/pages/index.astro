@@ -78,11 +78,75 @@ const searchIndex = checklists.map((c) => {
     searchText: [title, city, service, c.data.description.toLowerCase(), ...extra].join(' '),
   };
 });
+
+const homeSchema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Ask Before You Book",
+    "url": "https://askbeforeyoubook.com",
+    "description": "Free, practical checklists to help homeowners compare quotes, understand repair options, and avoid unnecessary work.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://askbeforeyoubook.com/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ask Before You Book",
+    "url": "https://askbeforeyoubook.com",
+    "logo": "https://askbeforeyoubook.com/favicon.svg"
+  }
+];
+
+const categories = [
+  {
+    id: "plumbing-water",
+    title: "Plumbing & Water Systems",
+    icon: "🚰",
+    desc: "Water heaters, sewer lines, septic, grease traps, softeners, backflow",
+    match: ["water heater", "tankless", "septic", "grease trap", "sewer", "water softener", "hydro jetting", "backflow"]
+  },
+  {
+    id: "hvac-electrical",
+    title: "HVAC & Electrical",
+    icon: "⚡",
+    desc: "AC coils, compressors, walk-in coolers, dryer vents, disconnects",
+    match: ["hvac", "walk-in cooler", "dryer vent", "electrical", "fire alarm"]
+  },
+  {
+    id: "foundation-concrete",
+    title: "Foundation & Concrete",
+    icon: "🏗️",
+    desc: "Foundation repair, slab lifting, garage epoxy, crawl space encapsulation",
+    match: ["foundation", "concrete lifting", "crawl space", "crawl space encapsulation", "garage floor", "garage floor coating", "commercial epoxy flooring"]
+  },
+  {
+    id: "exterior-waste",
+    title: "Exterior, Roofing & Waste",
+    icon: "🏡",
+    desc: "Dumpster rental, gutters, pressure washing, fencing, artificial turf, tree stump grinding",
+    match: ["dumpster rental", "gutter cleaning", "pressure washing", "commercial pressure washing", "fence", "artificial turf", "stump grinding", "popcorn ceiling removal", "window film"]
+  },
+  {
+    id: "specialty-emergency",
+    title: "Specialty & Emergency",
+    icon: "🚨",
+    desc: "Pool leak detection, garage springs, emergency board-up, mobile RV/tire, locksmith",
+    match: ["pool leak", "pool cage", "garage door springs", "emergency board-up", "mobile rv repair", "mobile tire repair", "locksmith", "wildlife removal", "moving", "mobile notary", "medical transport", "floor care", "parking lot striping", "permits", "termite", "appliance repair"]
+  }
+];
 ---
 <BaseLayout 
   title="Ask Before You Book — Free Service Checklists for Homeowners"
   description="Free, practical checklists to help you compare quotes, understand repair options, and avoid unnecessary work. Customer never pays the directory."
   hideAiHelp={true}
+  schema={homeSchema}
 >
   <section class="hero">
     <h1>Hire with confidence. Know what to ask first.</h1>
@@ -148,17 +212,35 @@ const searchIndex = checklists.map((c) => {
     </div>
   </section>
 
+  <section class="category-section" id="categories" aria-label="Checklist Categories">
+    <h2 class="category-heading">Browse Checklists by Trade</h2>
+    <div class="category-grid">
+      {categories.map(cat => {
+        const count = checklists.filter(c => cat.match.some(m => c.data.service.toLowerCase().includes(m))).length;
+        return (
+          <a href={`#category-${cat.id}`} class="category-card">
+            <div class="category-card-title">
+              <span>{cat.icon}</span>
+              <span>{cat.title}</span>
+            </div>
+            <div class="category-card-count">{count} checklists · {cat.desc}</div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
   <section class="ai-help home-ai" aria-label="Ask an AI">
     <p>Need help with your question? Ask an AI:</p>
     <div class="ai-buttons">
-      <a href="https://chat.openai.com/" target="_blank" rel="noopener" class="btn btn-chatgpt">ChatGPT</a>
-      <a href="https://grok.x.ai/" target="_blank" rel="noopener" class="btn btn-grok">Grok</a>
-      <a href="https://claude.ai/" target="_blank" rel="noopener" class="btn btn-claude">Claude</a>
+      <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-chatgpt">ChatGPT</a>
+      <a href="https://grok.x.ai/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-grok">Grok</a>
+      <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-claude">Claude</a>
     </div>
   </section>
 
   <section class="all-guides" id="all-guides">
-    <h2>All guides</h2>
+    <h2>All guides ({checklists.length} checklists)</h2>
     <ul class="checklist-list" id="checklist-results">
       {checklists.map(c => (
         <li data-id={c.id}>
@@ -182,7 +264,7 @@ const searchIndex = checklists.map((c) => {
         </li>
       ))}
     </ul>
-    <p>Consider a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a> for early alerts.</p>
+    <p>Consider a <a href="https://amzn.to/4zzJZ85" rel="nofollow sponsored" target="_blank">GoveeLife Water Leak Detector</a> for early alerts.</p>
   </section>
 
   <script is:inline define:vars={{ searchIndex }}>

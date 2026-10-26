@@ -7,6 +7,7 @@ interface Props {
   hideAiHelp?: boolean;
   hideBanner?: boolean;
   hideFooter?: boolean;
+  schema?: Record<string, any> | Array<Record<string, any>>;
 }
 const {
   title,
@@ -14,8 +15,12 @@ const {
   hideAiHelp = false,
   hideBanner = false,
   hideFooter = false,
+  schema,
 } = Astro.props;
-const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const siteUrl = Astro.site ?? new URL('https://askbeforeyoubook.com');
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const ogImage = new URL('/banner.jpg', siteUrl).href;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -25,16 +30,27 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+
+    <!-- Open Graph / Facebook -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://askbeforeyoubook.com/banner.jpg" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content="Ask Before You Book" />
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="https://askbeforeyoubook.com/banner.jpg" />
+    <meta name="twitter:image" content={ogImage} />
+
     <meta name="robots" content="index, follow" />
+
+    <!-- Schema.org JSON-LD -->
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
 
     <!-- Umami Analytics -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="34980c25-3b9a-47df-8e13-524b0a3409cf"></script>
@@ -45,7 +61,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
         <a href="/" class="logo">
           Ask Before You Book
         </a>
-        <nav>
+        <nav aria-label="Main Navigation">
           <a href="/#all-guides">All guides</a>
           <a href="/ai-consulting/">AI Consulting</a>
         </nav>
@@ -54,7 +70,13 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
     {!hideBanner && (
       <div class="banner">
-        <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" width="720" height="200" />
+        <img
+          src="/banner.jpg"
+          alt="Ask Before You Book - Free Service Checklists for Homeowners"
+          width="720"
+          height="180"
+          loading="eager"
+        />
       </div>
     )}
 
@@ -62,9 +84,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       <div class="ai-help">
         <p>Need help with your question? Ask an AI:</p>
         <div class="ai-buttons">
-          <a href="https://chat.openai.com/" target="_blank" rel="noopener" class="btn btn-chatgpt">ChatGPT</a>
-          <a href="https://grok.x.ai/" target="_blank" rel="noopener" class="btn btn-grok">Grok</a>
-          <a href="https://claude.ai/" target="_blank" rel="noopener" class="btn btn-claude">Claude</a>
+          <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-chatgpt">ChatGPT</a>
+          <a href="https://grok.x.ai/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-grok">Grok</a>
+          <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-claude">Claude</a>
         </div>
       </div>
     )}
@@ -77,8 +99,15 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
       <footer class="container">
         <p><strong>Customer never pays the directory.</strong></p>
         <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
-        <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="sponsored nofollow noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
-        <p><small>As an Amazon Associate I earn from qualifying purchases.</small></p>
+        <p class="affiliate-line">
+          Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="nofollow sponsored" target="_blank">GoveeLife Water Leak Detector</a>.
+        </p>
+        <p class="affiliate-disclosure">
+          <em>Disclosure: As an Amazon Associate, Ask Before You Book earns from qualifying purchases through affiliate links at no extra cost to you. Customer never pays the directory.</em>
+        </p>
+        <p class="footer-sublinks">
+          <a href="/ai-consulting/">AI Consulting Research</a>
+        </p>
       </footer>
     )}
   </body>
