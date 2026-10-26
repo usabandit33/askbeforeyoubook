@@ -35,6 +35,6 @@ Use the matching Huntsville commercial pressure-washing checklist to compare wri
 
 ### Recommended product
 
-[Adjustable garden-hose spray nozzle](https://amzn.to/4zFQ9Ur)
+[Adjustable garden-hose spray nozzle](https://link.amazon/B0ig2IB6k)
 
 *Affiliate link. Customer never pays the directory.*

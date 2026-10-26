@@ -37,6 +37,6 @@ If it is safe, photograph the damage for insurance, keep people away from broken
 
 ### Recommended product
 
-[Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR)
+[Heavy-duty contractor cleanup bags](https://link.amazon/B0aq6B5K1)
 
 *Affiliate link. Customer never pays the directory.*

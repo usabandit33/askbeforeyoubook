@@ -40,6 +40,6 @@ Use the matching Spokane RV-winterization checklist to lock in included steps, m
 
 ### Recommended product
 
-[Basic RV tool kit and tire pressure gauge](https://amzn.to/4yT0Nap)
+[Basic RV tool kit and tire pressure gauge](https://link.amazon/B0aOcb0OB)
 
 *Affiliate link. Customer never pays the directory.*
