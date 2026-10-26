@@ -15,7 +15,7 @@ const {
   hideBanner = false,
   hideFooter = false,
 } = Astro.props;
-const canonical = Astro.url.href;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -27,7 +27,13 @@ const canonical = Astro.url.href;
     <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
     <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://askbeforeyoubook.com/banner.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://askbeforeyoubook.com/banner.jpg" />
     <meta name="robots" content="index, follow" />
 
     <!-- Umami Analytics -->
@@ -48,7 +54,7 @@ const canonical = Astro.url.href;
 
     {!hideBanner && (
       <div class="banner">
-        <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" />
+        <img src="/banner.jpg" alt="Ask Before You Book - Free Service Checklists for Homeowners" width="720" height="200" />
       </div>
     )}
 
@@ -71,7 +77,8 @@ const canonical = Astro.url.href;
       <footer class="container">
         <p><strong>Customer never pays the directory.</strong></p>
         <p>This site provides free general information only. It is not a recommendation, endorsement, ranking, or guarantee of any provider. Always verify details directly with the company before hiring.</p>
-        <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
+        <p>Protect your home with a <a href="https://amzn.to/4zzJZ85" rel="sponsored nofollow noopener" target="_blank">GoveeLife Water Leak Detector</a>.</p>
+        <p><small>As an Amazon Associate I earn from qualifying purchases.</small></p>
       </footer>
     )}
   </body>
