@@ -1,0 +1,206 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout 
+  title="AI Sales Consulting for Small Businesses | Ask Before You Book"
+  description="Real results from 198 audited sales tasks: reclaim 184.8 hours a year with AI workflows. For operators and teams who want to close the Manual Gap."
+  hideAiHelp={true}
+>
+  <section class="hero">
+    <h1>Close the Manual Gap with AI that actually saves time</h1>
+    <p class="hero-lead">
+      I audited nearly 200 real sales tasks from my own workflow (May–October 2026). The result: an estimated 184.8 hours reclaimed. That’s 23 full workdays back for selling, not admin.
+    </p>
+    <p class="tagline">Built for small business operators and sales teams who want systems, not hype.</p>
+  </section>
+
+  <section class="stats-dashboard">
+    <h2>Real numbers from the audit</h2>
+    <p>These figures come from a complete ledger of 198 distinct task batches. Estimates model manual effort versus AI-assisted effort for the same output. No invented conversion rates.</p>
+
+    <div class="stat-grid">
+      <div class="stat-card">
+        <div class="stat-number">184.8</div>
+        <div class="stat-label">Estimated hours saved</div>
+        <div class="stat-detail">244.3 manual hours → 59.5 AI hours</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">75.6%</div>
+        <div class="stat-label">Less effort</div>
+        <div class="stat-detail">4.1× modeled output per AI hour</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">198</div>
+        <div class="stat-label">Task batches audited</div>
+        <div class="stat-detail">Prospecting, meetings, outreach, research, CRM, content</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">23.1</div>
+        <div class="stat-label">Eight-hour workdays</div>
+        <div class="stat-detail">Equivalent time returned</div>
+      </div>
+    </div>
+
+    <h3>Where the time comes back</h3>
+    <div class="category-bars">
+      <div class="bar-row">
+        <span>Prospecting & data</span>
+        <div class="bar"><div class="fill" style="width:34%"></div></div>
+        <span>63 hrs (34%)</span>
+      </div>
+      <div class="bar-row">
+        <span>Meetings & deal analysis</span>
+        <div class="bar"><div class="fill" style="width:23%"></div></div>
+        <span>43 hrs (23%)</span>
+      </div>
+      <div class="bar-row">
+        <span>Research & pricing</span>
+        <div class="bar"><div class="fill" style="width:14%"></div></div>
+        <span>26 hrs (14%)</span>
+      </div>
+      <div class="bar-row">
+        <span>Content & deliverables</span>
+        <div class="bar"><div class="fill" style="width:13%"></div></div>
+        <span>24 hrs (13%)</span>
+      </div>
+      <div class="bar-row">
+        <span>Outreach & follow-up</span>
+        <div class="bar"><div class="fill" style="width:7%"></div></div>
+        <span>13 hrs (7%)</span>
+      </div>
+      <div class="bar-row">
+        <span>Workflow design</span>
+        <div class="bar"><div class="fill" style="width:7.5%"></div></div>
+        <span>14 hrs (7.5%)</span>
+      </div>
+    </div>
+
+    <h3>Largest individual wins (already included in totals)</h3>
+    <ul class="wins-list">
+      <li><strong>25-account intelligence run:</strong> 5 hours saved</li>
+      <li><strong>369-contact follow-up audit:</strong> 5 hours saved</li>
+      <li><strong>1,010 closed-lost deals reviewed:</strong> 4.25 hours saved</li>
+      <li><strong>Territory / active-product analysis:</strong> 3.25 hours saved</li>
+      <li><strong>123-contact master + LinkedIn enrichment:</strong> 3.25 hours saved</li>
+    </ul>
+    <p class="note">Sensitivity range on the model: 94–261 hours. Midpoint is not a confidence interval. Saved hours are preparation time, not assumed extra selling hours. Source: exhaustive internal audit of retrieved workflow history.</p>
+  </section>
+
+  <section class="how-it-helps">
+    <h2>How this helps small business operators</h2>
+    <div class="help-grid">
+      <div class="help-card">
+        <h3>For the owner / AE</h3>
+        <p>Stop the Sunday prep grind. Turn 6-hour research days into 1-hour sprints. Get structured meeting recaps and CRM notes in minutes instead of hours.</p>
+      </div>
+      <div class="help-card">
+        <h3>For the team leader</h3>
+        <p>Give the team a repeatable system instead of hoping personalization happens. Standardize research, drafting, and follow-up so pipeline quality rises without more headcount.</p>
+      </div>
+    </div>
+    <p>Typical modeled savings: research + tailored draft drops from 15–25 min to 5–8 min per prospect (about 50–80% less effort). Meeting prep and analysis follow the same pattern.</p>
+  </section>
+
+  <section class="cta-section">
+    <h2>Indicate interest in AI consulting</h2>
+    <p>I work with small business operators who want practical AI workflows for sales and operations. No fluff. Real systems based on audited results.</p>
+    <form class="interest-form" action="mailto:your-email@example.com" method="post" enctype="text/plain">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required />
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="business">Business type / size</label>
+      <input type="text" id="business" name="business" placeholder="e.g. 5-person HVAC, 12-person staffing" />
+
+      <label for="interest">What are you hoping to improve?</label>
+      <textarea id="interest" name="interest" rows="4" placeholder="Prospecting volume, meeting prep, follow-up consistency, etc."></textarea>
+
+      <button type="submit" class="search-submit">Send interest</button>
+    </form>
+    <p class="form-note">Or grab the AI Sales Accelerator Kit first (prompts, use cases, and the exact workflow behind these numbers). Link coming soon on Gumroad.</p>
+  </section>
+
+  <style>
+    .stats-dashboard, .how-it-helps, .cta-section { margin-top: 2rem; }
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin: 1.25rem 0;
+    }
+    .stat-card {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 1.1rem;
+      text-align: center;
+    }
+    .stat-number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #1d4ed8;
+      line-height: 1.1;
+    }
+    .stat-label {
+      font-weight: 600;
+      margin: 0.3rem 0;
+    }
+    .stat-detail {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .category-bars { margin: 1rem 0 1.5rem; }
+    .bar-row {
+      display: grid;
+      grid-template-columns: 1fr 2fr auto;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.55rem;
+      font-size: 0.98rem;
+    }
+    .bar {
+      background: #f3f4f6;
+      height: 10px;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    .fill {
+      height: 100%;
+      background: #1d4ed8;
+    }
+    .wins-list { margin: 0.75rem 0; }
+    .note, .form-note { font-size: 0.95rem; color: #555; }
+    .help-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin: 1rem 0;
+    }
+    .help-card {
+      background: #f9fafb;
+      border-radius: 12px;
+      padding: 1.1rem;
+    }
+    .interest-form {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      max-width: 480px;
+      margin-top: 1rem;
+    }
+    .interest-form label { font-weight: 600; }
+    .interest-form input,
+    .interest-form textarea {
+      padding: 0.65rem;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 1rem;
+    }
+    @media (max-width: 600px) {
+      .help-grid { grid-template-columns: 1fr; }
+      .bar-row { grid-template-columns: 1fr; gap: 0.25rem; }
+    }
+  </style>
+</BaseLayout>
