@@ -60,3 +60,18 @@ To set the inbox:
 3. Redeploy.
 
 The first time a form is submitted to a new address, FormSubmit sends a one-time confirmation email — click the link in that email to activate delivery. After that, every submission lands in the inbox as a normal email.
+
+## Architecture, SEO & Deployment Standards
+
+For complete documentation on site architecture, Cloudflare Pages deployment, Google SEO and indexing guidelines, affiliate link compliance (`rel="nofollow sponsored"`), and content depth requirements, see:
+
+[`AUDIT_ARCHITECTURE_REFERENCE.md`](file:///c:/Users/User/askbeforeyoubook/AUDIT_ARCHITECTURE_REFERENCE.md)
+
+Key rules summary:
+1. **Cloudflare Deployment:** Node 22 pinned in `.node-version` and `.nvmrc`. `engines.node` `>=20.0.0`.
+2. **Canonical URLs:** Always compute deterministically via `new URL(Astro.url.pathname, Astro.site).href`. Trailing slash is set to `always`.
+3. **Robots & Sitemap:** `public/robots.txt` points directly to `sitemap-index.xml`.
+4. **Affiliate Links:** Must include `rel="nofollow sponsored"`. Global footer must maintain the FTC/Amazon Associates disclosure.
+5. **Content Quality:** Avoid thin content (<500 words). Every checklist must feature local municipal agency details, code citations, and verbatim questions to ask contractors.
+6. **Internal Linking:** Checklist pages must preserve dynamic related checklists (same city, same trade) and breadcrumbs.
+7. **AI Consulting:** Primary navigation maintains the `/ai-consulting/` link, with interest forms configured to `mailto:kaelnventures@gmail.com`.
