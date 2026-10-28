@@ -17,6 +17,8 @@ For horse owners and farm managers. Trailer failures put animals and people at r
 * **Are you insured, and what do you warranty?** Ask for details in writing.
 * **What will it cost?** Ask for a written estimate, including trip charges, and what happens if more repairs turn up.
 
+**Helpful gear:** [Basic tire pressure gauge and tool kit](https://amzn.to/4yT0Nap) — useful for the pre-trip tire and pressure checks above. *Affiliate link.*
+
 ## Pre-trip owner checks
 
 Before a trip (or before the mobile tech arrives), check:
