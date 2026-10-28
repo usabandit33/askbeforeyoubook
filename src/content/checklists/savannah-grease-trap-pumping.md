@@ -17,6 +17,8 @@ For restaurant and food service owners. Use these questions to compare pumping c
 * **Do you recommend chemical emulsifiers or enzymes?** Check this against city guidance before agreeing.
 * **What is the price per visit and the schedule?** Ask for it in writing, including emergency callout terms.
 
+**Helpful product:** [Commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) — for routine drain care between pump-outs; still confirm against city FOG guidance before using chemicals. *Affiliate link.*
+
 ## Staying on top of your grease trap
 
 Every kitchen sends fats, oils and grease down the drain. A trap or interceptor holds them back, but only until it fills. Savannah’s guidance uses the 25% rule: when grease and settled solids reach 25% of the trap, it needs to be pumped or cleaned. Waiting longer risks letting grease pass into the sewer line. The simplest protection is a documented schedule, a signed manifest after each service, and records you can show an inspector. Before you sign a contract, call the City of Savannah FOG program to confirm current requirements, since rules and forms can change.
