@@ -18,6 +18,8 @@ Desert dust, sand and bird droppings can build up on panels. Cleaning is worth d
 * **What is the price and scope in writing?** Per panel or per visit, what is included, and what happens if they find damage.
 * **How will we know it worked?** Check your monitoring app (Enphase, SolarEdge, Tesla) before and after, and compare against similar weather days.
 
+**Helpful gear:** [Soft microfiber cleaning cloths](https://amzn.to/47qeBNm) — soft only; never steel wool or scouring pads. *Affiliate link.*
+
 ## Why cleaning matters in the desert
 
 Palm Springs gets abundant sun, and it also gets dust and wind. A film of dust or bird droppings can lower a system’s output, and the amount varies by site, tilt and season. Light rain does not always rinse panels clean and can leave a muddy film, so check them in person from the ground. Partial shading from heavy debris can also stress individual cells, which is one reason to ask your installer what protections your modules have. Track your monitoring app weekly. A sudden drop that does not match the weather is worth a call to your installer. Whether you clean yourself or hire out, start with your manufacturer’s instructions.
