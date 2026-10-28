@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ContractorSubmitForm from '../components/ContractorSubmitForm.astro';
+import ChecklistLeadForm from '../components/ChecklistLeadForm.astro';
 
 export async function getStaticPaths() {
   const checklists = (await getCollection('checklists')).filter(c => !c.data.draft);
@@ -113,9 +114,25 @@ const schema = [
       <p class="article-lead">{entry.data.description}</p>
     </header>
 
+    <ChecklistLeadForm
+      variant="top"
+      city={entry.data.city}
+      service={entry.data.service}
+      checklistTitle={entry.data.title}
+      slug={entry.id}
+    />
+
     <div class="content-body">
       <Content />
     </div>
+
+    <ChecklistLeadForm
+      variant="bottom"
+      city={entry.data.city}
+      service={entry.data.service}
+      checklistTitle={entry.data.title}
+      slug={entry.id}
+    />
   </article>
 
   <section class="related-section" aria-label="Related Checklists">
