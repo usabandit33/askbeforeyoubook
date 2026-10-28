@@ -1,0 +1,265 @@
+---
+interface Props {
+  variant?: "top" | "bottom";
+  city: string;
+  service: string;
+  checklistTitle: string;
+  slug: string;
+}
+
+const {
+  variant = "top",
+  city,
+  service,
+  checklistTitle,
+  slug,
+} = Astro.props;
+
+const isTop = variant === "top";
+const INBOX_EMAIL = "kaelnventures@gmail.com";
+const formId = isTop ? "checklist-lead-top" : "checklist-lead-bottom";
+const successId = isTop ? "checklist-lead-success-top" : "checklist-lead-success-bottom";
+
+const headline = isTop
+  ? `Get the free ${city} ${service} checklist`
+  : "Take this checklist with you";
+
+const subtext = isTop
+  ? "Free. One email with the printable version. We never sell your information or take money from providers."
+  : "Print it, then use the questions when you call providers. No provider pays to be on this page.";
+
+const buttonLabel = isTop ? "Send my checklist" : "Email me the checklist";
+
+// Thank-you redirect includes slug so the page can offer the right PDF / print link
+const thankYouUrl = `https://askbeforeyoubook.com/checklist-thanks/?checklist=${encodeURIComponent(slug)}`;
+---
+
+<section class:list={["checklist-lead-form", isTop ? "lead-top" : "lead-bottom"]} id={formId}>
+  <h2 class="lead-headline">{headline}</h2>
+  <p class="lead-subtext">{subtext}</p>
+
+  <form
+    class="lead-form"
+    method="POST"
+    action={`https://formsubmit.co/${INBOX_EMAIL}`}
+    data-variant={variant}
+  >
+    <!-- FormSubmit options -->
+    <input type="hidden" name="_subject" value={`Checklist lead: ${city} · ${service}`} />
+    <input type="hidden" name="_captcha" value="false" />
+    <input type="hidden" name="_template" value="table" />
+    <input type="hidden" name="_next" value={thankYouUrl} />
+    <!-- Honeypot anti-spam (FormSubmit + extra field) -->
+    <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true" />
+    <input
+      type="text"
+      name="website"
+      class="hp-field"
+      tabindex="-1"
+      autocomplete="off"
+      aria-hidden="true"
+    />
+
+    <input type="hidden" name="form_type" value="checklist_lead" />
+    <input type="hidden" name="checklist" value={checklistTitle} />
+    <input type="hidden" name="city" value={city} />
+    <input type="hidden" name="service" value={service} />
+    <input type="hidden" name="slug" value={slug} />
+    <input type="hidden" name="variant" value={variant} />
+
+    <div class="form-fields">
+      <div class="form-row">
+        <label for={`${formId}-email`}>Email</label>
+        <input
+          type="email"
+          id={`${formId}-email`}
+          name="email"
+          required
+          placeholder="you@example.com"
+          autocomplete="email"
+        />
+      </div>
+
+      {!isTop && (
+        <>
+          <div class="form-row">
+            <label for={`${formId}-firstname`}>First name <span class="optional">(optional)</span></label>
+            <input
+              type="text"
+              id={`${formId}-firstname`}
+              name="first_name"
+              placeholder="Jane"
+              autocomplete="given-name"
+            />
+          </div>
+          <div class="form-row">
+            <label for={`${formId}-zip`}>ZIP code <span class="optional">(optional)</span></label>
+            <input
+              type="text"
+              id={`${formId}-zip`}
+              name="zip"
+              placeholder="12345"
+              autocomplete="postal-code"
+              inputmode="numeric"
+              maxlength="10"
+            />
+          </div>
+          <div class="form-row checkbox-row">
+            <label class="checkbox-label">
+              <input type="checkbox" name="notify_new" value="yes" />
+              <span>Email me when new checklists are added for my area.</span>
+            </label>
+          </div>
+        </>
+      )}
+    </div>
+
+    <button type="submit" class="btn-lead">{buttonLabel}</button>
+
+    {!isTop && (
+      <p class="lead-microcopy">
+        Unsubscribe anytime. See our <a href="/privacy/">privacy policy</a>.
+      </p>
+    )}
+  </form>
+</section>
+
+<style>
+  .checklist-lead-form {
+    margin: 1.5rem 0 2rem;
+    padding: 1.25rem 1.25rem 1.4rem;
+    background: #f0f9ff;
+    border: 1px solid #bae6fd;
+    border-radius: 12px;
+  }
+
+  .lead-bottom {
+    background: #f8fafc;
+    border-color: #e2e8f0;
+    margin-top: 2.5rem;
+  }
+
+  .lead-headline {
+    margin: 0 0 0.4rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #0f172a;
+  }
+
+  .lead-subtext {
+    margin: 0 0 1rem;
+    font-size: 0.98rem;
+    color: #475569;
+    line-height: 1.45;
+  }
+
+  .lead-form .form-fields {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .lead-form .form-row label {
+    display: block;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.25rem;
+    color: #1e293b;
+  }
+
+  .lead-form .optional {
+    font-weight: 400;
+    color: #64748b;
+    font-size: 0.9rem;
+  }
+
+  .lead-form input[type="email"],
+  .lead-form input[type="text"] {
+    width: 100%;
+    padding: 0.65rem 0.8rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 1.05rem;
+    font-family: inherit;
+    background: #fff;
+  }
+
+  .lead-form input:focus {
+    outline: 2px solid #0284c7;
+    outline-offset: 1px;
+    border-color: #0284c7;
+  }
+
+  .checkbox-row {
+    margin-top: 0.15rem;
+  }
+
+  .checkbox-label {
+    display: flex !important;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-weight: 400 !important;
+    cursor: pointer;
+    line-height: 1.4;
+  }
+
+  .checkbox-label input {
+    margin-top: 0.25rem;
+    width: auto;
+    flex-shrink: 0;
+  }
+
+  .btn-lead {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.35rem;
+    background: #0369a1;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.05rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  .btn-lead:hover {
+    background: #075985;
+  }
+
+  .lead-microcopy {
+    margin-top: 0.85rem;
+    font-size: 0.88rem;
+    color: #64748b;
+  }
+
+  .lead-microcopy a {
+    color: #0369a1;
+  }
+
+  /* Honeypot: visually and accessibly hidden */
+  .hp-field {
+    position: absolute !important;
+    left: -9999px !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+
+  @media (min-width: 520px) {
+    .lead-top .form-fields {
+      flex-direction: row;
+      align-items: flex-end;
+      gap: 0.75rem;
+    }
+    .lead-top .form-row {
+      flex: 1;
+    }
+    .lead-top .btn-lead {
+      margin-top: 0;
+      flex-shrink: 0;
+    }
+  }
+</style>

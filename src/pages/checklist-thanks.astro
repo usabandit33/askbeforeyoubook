@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const checklistSlug = Astro.url.searchParams.get('checklist') || '';
+const checklistPath = checklistSlug ? `/${checklistSlug}/` : '/';
+---
+
+<BaseLayout
+  title="Checklist sent | Ask Before You Book"
+  description="Your free checklist is on the way. Print or save the page while you wait for the email."
+  hideBanner={true}
+  hideAiHelp={true}
+>
+  <article class="thanks-page">
+    <h1>Thanks — your checklist is on the way</h1>
+    <p class="lead">
+      We just queued a free printable version to the email you entered. Delivery is usually fast; sometimes it takes a few minutes and can land in spam or promotions.
+    </p>
+
+    <div class="thanks-box">
+      <h2>While you wait</h2>
+      <ul>
+        <li>Open the checklist page and use your browser’s <strong>Print</strong> (or Save as PDF) for an immediate copy.</li>
+        <li>Use the questions when you call providers — no provider pays to appear on this site.</li>
+      </ul>
+      {checklistSlug && (
+        <p>
+          <a class="btn-back" href={checklistPath}>Back to your checklist</a>
+        </p>
+      )}
+      {!checklistSlug && (
+        <p>
+          <a class="btn-back" href="/">Browse all guides</a>
+        </p>
+      )}
+    </div>
+
+    <p class="note">
+      We never sell your information or take money from providers. Checklist subscribers are kept separate from any contractor outreach lists.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .thanks-page {
+    padding: 1rem 0 2rem;
+  }
+  .thanks-page h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.75rem;
+  }
+  .lead {
+    font-size: 1.15rem;
+    color: #334155;
+    margin-bottom: 1.5rem;
+  }
+  .thanks-box {
+    background: #f0f9ff;
+    border: 1px solid #bae6fd;
+    border-radius: 12px;
+    padding: 1.25rem 1.4rem;
+    margin-bottom: 1.5rem;
+  }
+  .thanks-box h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+  .thanks-box ul {
+    margin: 0.75rem 0 1rem 1.25rem;
+  }
+  .btn-back {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.65rem 1.2rem;
+    background: #0369a1;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 8px;
+  }
+  .btn-back:hover {
+    background: #075985;
+  }
+  .note {
+    font-size: 0.95rem;
+    color: #64748b;
+  }
+</style>
