@@ -18,7 +18,7 @@ Modern vehicles use windshield-mounted cameras for lane keep, automatic emergenc
 * **What happens if a system still shows a warning light?** Ask about post-calibration road testing and the process for returning if a feature does not function.
 * **Are your technicians trained to AGSC or equivalent ADAS standards?** Ask about certification and the specific tools used for your vehicle make.
 
-**Helpful product:** [Home-project document organizer](https://amzn.to/4BcLxGP) — keep the calibration certificate, glass invoice, and insurance claim papers together. *Affiliate link.*
+**Helpful product:** [Fireproof and waterproof expanding legal document and estate organizer](https://amzn.to/4ipk8tJ) — keep the calibration certificate, glass invoice, and insurance claim papers together. *Affiliate link.*
 
 ## Why calibration matters after a Charlotte windshield replacement
 
@@ -35,6 +35,6 @@ A rock chip or crack on I-77, I-85, or I-485 often means a full windshield repla
 
 ### Recommended product
 
-[Home-project document organizer](https://amzn.to/4BcLxGP)
+[Fireproof and waterproof expanding legal document and estate organizer](https://amzn.to/4ipk8tJ)
 
 *Affiliate link. Customer never pays the directory.*
