@@ -41,6 +41,12 @@ Two quotes may show different permit amounts for the same work. The difference i
 
 If the permit line is unusually high, request the city's published fee for comparison. If it is unusually low, ask whether the contractor expects the homeowner to pull the permit or whether additional fees will appear later.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Home-project document organizer](https://amzn.to/4BcLxGP) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Phoenix permit checklist to compare the contractor's permit line with the city's published fee. Confirm who will pull the permit and whether the amount is the city fee only or includes the contractor's handling time.

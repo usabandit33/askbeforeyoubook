@@ -44,6 +44,12 @@ A clear quote should state:
 
 Get the answers in writing before scheduling.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Gutter scoop and cleaning tool](https://amzn.to/4eBQJdv) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Atlanta gutter checklist to confirm the gutters will be cleaned first and to compare guard options only after the system is clear.
