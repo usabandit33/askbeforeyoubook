@@ -40,6 +40,8 @@ Ask for a report or certificate that identifies the date of service, the areas c
 
 As an Amazon Associate I earn from qualifying purchases.
 
+<img src="https://m.media-amazon.com/images/I/61rZbhp5+IL.jpg" alt="Commercial kitchen degreaser" width="180" style="max-width:100%; height:auto;" />
+
 [Commercial kitchen degreaser](https://amzn.to/47kTv35) (affiliate link, no extra cost to you)
 
 ## Before you book
