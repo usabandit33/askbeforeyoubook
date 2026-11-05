@@ -29,6 +29,12 @@ Dense debris such as roofing, concrete, or soil can hit the weight limit before 
 
 Get in writing how many calendar days are included, the extra-day rate, how pickup is scheduled, and any trip charge if the truck cannot access the site. Confirm which materials are not accepted before you load.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Casper dumpster checklist to lock in placement, included weight, overage, and rental period in writing before delivery is scheduled.

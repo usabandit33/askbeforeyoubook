@@ -18,7 +18,11 @@ For restaurant and food-service owners in the Treasure Valley. Use these questio
 * **What is the price per visit and the recommended interval?** Get it in writing, including emergency or after-hours rates if drains are already backing up.
 * **How do you handle high-volume kitchens?** Ask for a schedule based on your seating, menu, and trap size rather than a one-size-fits-all interval.
 
-**Helpful product:** [Commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) — for routine drain care between pump-outs; still confirm against city FOG guidance before using chemicals. *Affiliate link.*
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) (affiliate link, no extra cost to you)
 
 ## Staying on top of your grease trap in Boise
 

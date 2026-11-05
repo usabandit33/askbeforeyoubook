@@ -29,6 +29,12 @@ Request a sample and a written list of what is included (turf, infill, seaming, 
 
 Ask what the warranty covers (fading, seams, workmanship) and for how long, and what maintenance is required to keep it valid. Confirm whether the quote includes removal of old sod or hardscape, permits if any, and final cleanup.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Landscape fabric and utility knife set](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Bend artificial-turf checklist to compare base prep, product specs, and warranty after the scope is documented—not on square-foot price alone.

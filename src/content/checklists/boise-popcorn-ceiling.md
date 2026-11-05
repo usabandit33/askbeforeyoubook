@@ -33,6 +33,12 @@ Get square-footage pricing and any extra charges for high ceilings or repairs.
 
 Confirm how many days the job is expected to take, who handles debris disposal, and what the final cleaning includes. A lower bid may skip testing, proper containment, or a quality finish coat.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[N95 respirator and painter’s drop cloths](https://amzn.to/47qeBNm) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Boise popcorn-ceiling checklist to decide on testing and removal only after the material has been evaluated and the finish scope is clear.
