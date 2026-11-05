@@ -32,6 +32,12 @@ Confirm the company is equipped for septic pumping and proper disposal in the ar
 
 Ask for separate prices when possible, and whether an inspection fee is credited if you approve the pump on the same visit. Clarify recommended intervals for your household size and tank capacity.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Septic system treatment](https://amzn.to/4yT0Nap) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Ocala septic checklist to confirm inspect-versus-pump scope and documentation before scheduling, especially if drains are slow or odors are present.

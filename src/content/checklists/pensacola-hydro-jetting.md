@@ -35,6 +35,12 @@ Get in writing:
 - Whether a post-jet camera video is included
 - Recommendations if the line needs repair rather than cleaning
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Enzyme drain maintenance treatment](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Pensacola hydro-jetting checklist to compare snaking and jetting after the line has been evaluated and the scope is clear.

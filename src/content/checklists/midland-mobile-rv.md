@@ -33,6 +33,12 @@ Confirm whether the quote is for diagnosis only or includes labor once the probl
 
 Ask whether the technicians are certified (RVIA, manufacturer training, or equivalent) and whether the company carries liability and workers’ compensation coverage for work performed at your location.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Basic RV tool kit and tire pressure gauge](https://amzn.to/4yT0Nap) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Midland mobile-RV checklist to compare on-site service versus towing to a shop after the scope and travel costs are clear.

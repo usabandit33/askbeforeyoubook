@@ -24,6 +24,12 @@ Confirm whether a shorter or straighter rigid path is recommended and whether th
 
 Clarify whether the quote is clean-only or includes materials and labor for a new line. Ask about fire-safety guidance the company follows and any warranty on the work.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Gardus LintEater dryer-vent cleaning kit](https://amzn.to/47kjQOH) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Spokane dryer-vent checklist to require a full clean-and-inspect before authorizing line replacement or a rigid reroute.

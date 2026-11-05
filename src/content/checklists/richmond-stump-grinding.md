@@ -28,6 +28,12 @@ Get disposal and cleanup in writing so you are not comparing a grind-only price 
 
 Confirm that the machine can reach the stump without damaging lawns, fences, or hardscape. Ask whether underground utilities will be marked and whether steep slopes, tight gates, or rear-yard access change the price.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Richmond stump-grinding checklist to lock in depth, chip handling, and access before scheduling.
