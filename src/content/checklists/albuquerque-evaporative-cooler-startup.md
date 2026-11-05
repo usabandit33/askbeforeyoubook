@@ -18,11 +18,7 @@ Albuquerque’s dry climate makes evaporative (swamp) coolers a practical coolin
 * **What is the price and what is written in the scope?** Get a clear list of included parts (pads, float, belt) versus extras, and whether a follow-up visit is covered if something fails early.
 * **Are you insured for roof or elevated work?** Many units are rooftop-mounted; ask about liability coverage and fall protection.
 
-## Helpful product while you compare options
-
-As an Amazon Associate I earn from qualifying purchases.
-
-[Digital humidity meter](https://amzn.to/47qeBNm) (affiliate link, no extra cost to you)
+**Helpful product:** [Digital humidity meter / hygrometer](https://link.amazon/B0ihoSqgN) — useful for tracking indoor humidity once the cooler is running and confirming it is performing as expected. *Affiliate link.*
 
 ## Why spring startup matters in Albuquerque
 
@@ -38,6 +34,6 @@ Evaporative coolers sit unused through cold months. Pads harden with mineral sca
 
 ### Recommended product
 
-[Digital humidity meter](https://amzn.to/47qeBNm)
+[Digital humidity meter / hygrometer](https://link.amazon/B0ihoSqgN)
 
 *Affiliate link. Customer never pays the directory.*

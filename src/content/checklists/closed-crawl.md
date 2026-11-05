@@ -38,12 +38,6 @@ Get a clear description of materials, coverage areas, and any equipment included
 
 A lower price may reflect a liner-only job. Confirm the scope before comparing totals.
 
-## Helpful product while you compare options
-
-As an Amazon Associate I earn from qualifying purchases.
-
-[Digital humidity meter](https://amzn.to/47qeBNm) (affiliate link, no extra cost to you)
-
 ## Before you book
 
 Use the matching Charlotte crawl-space checklist to decide between a basic liner and closed encapsulation after the moisture conditions are documented.
@@ -57,6 +51,6 @@ Use the matching Charlotte crawl-space checklist to decide between a basic liner
 
 ### Recommended product
 
-[Digital humidity meter](https://amzn.to/47qeBNm)
+[Digital humidity meter / hygrometer](https://link.amazon/B0ihoSqgN)
 
 *Affiliate link. Customer never pays the directory.*
