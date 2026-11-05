@@ -61,8 +61,10 @@ Use the matching Chicago garage-door spring checklist to confirm both springs, t
 
 ---
 
-### Recommended product
+### Helpful product for garage door maintenance
 
-[3-IN-ONE garage-door lubricant](https://link.amazon/B03159X1C)
+As an Amazon Associate I earn from qualifying purchases.
 
-*Affiliate link. Customer never pays the directory.*
+[3-IN-ONE garage-door lubricant](https://link.amazon/B03159X1C) (affiliate link, no extra cost to you)
+
+Customer never pays the directory.

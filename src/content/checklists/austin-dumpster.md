@@ -74,8 +74,10 @@ Use the matching Austin dumpster checklist to confirm placement rules, included 
 
 ---
 
-### Recommended product
+### Helpful product for your cleanout
 
-[Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR)
+As an Amazon Associate I earn from qualifying purchases.
 
-*Affiliate link. Customer never pays the directory.*
+[Heavy-duty contractor cleanup bags](https://amzn.to/3VFQQhR) (affiliate link, no extra cost to you)
+
+Customer never pays the directory.
