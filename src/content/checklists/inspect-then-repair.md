@@ -46,6 +46,12 @@ In Texas, fire protection companies and technicians must hold specialized state 
 In Dallas, fire inspection companies must submit completed annual test reports electronically into the city’s approved third-party compliance database (such as Compliance Engine / Brycer).
 - Confirm that the contractor uploads the completed report directly to the city portal and provides you with the digital submission confirmation receipt for your property records.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Commercial photoelectric smoke and carbon monoxide detector multi-pack](https://amzn.to/4yT0Nap) (affiliate link, no extra cost to you)
+
 ## Sources & Texas Fire Marshal Regulations
 
 - [Texas Department of Insurance (TDI) - State Fire Marshal's Office](https://www.tdi.texas.gov/fire/)

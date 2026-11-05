@@ -46,6 +46,12 @@ Major manufacturers (Rinnai, Navien, Noritz, Rheem) explicitly require routine d
 - Request an itemized invoice stating the date of service, flushing agent used, and verification of operational water pressure.
 - Keep this receipt in your home maintenance records to protect your 12-to-15-year factory heat exchanger warranty against claims of neglected maintenance.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Tankless water heater descaling flush kit with submersible pump](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Sources & Houston Water Quality Standards
 
 - City of Houston Public Works - Annual Drinking Water Quality Report

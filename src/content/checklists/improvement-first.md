@@ -46,6 +46,12 @@ Under North Carolina law, septic installers must be certified through the North 
 - The contractor must schedule an open-trench inspection with Wake County Environmental Services before covering the pipe and gravel/chambers.
 - The inspector verifies pipe grade, aggregate depth, and distribution box leveling. Only after passing this inspection and receiving the official **Operation Permit (OP)** can the building department issue the Certificate of Occupancy (CO) for the home.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Waterproof homeowner home-project and septic maintenance organizer](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Sources & Wake County Environmental Regulations
 
 - [Wake County Environmental Services - Wastewater & Septic Permitting](https://www.wake.gov/departments-government/environmental-services)
