@@ -24,6 +24,12 @@ Confirm they have materials suited to your opening size and type.
 
 Boarding is temporary. Ask whether the same company provides glass replacement, door repair, or restoration, or can coordinate with another qualified contractor. Clarify what the board-up quote does and does not include for follow-up work.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Heavy-duty contractor cleanup bags](https://link.amazon/B0aq6B5K1) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 If it is safe, photograph the damage for insurance, keep people away from broken glass, and contact your insurer about documentation. Use the matching Little Rock board-up checklist to confirm availability, arrival time, and cost before authorizing a dispatch.

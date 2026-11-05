@@ -30,6 +30,12 @@ Get the preparation steps in writing.
 
 Ask what the warranty covers (materials, labor, peeling, yellowing) and how long it lasts. A lower price may use a system that is not rated for the UV and heat common in Phoenix garages.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Concrete moisture test kit](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Phoenix garage-floor checklist to compare epoxy, polyaspartic, and UV topcoat options after confirming preparation and product specifications.

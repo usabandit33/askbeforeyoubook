@@ -22,6 +22,12 @@ Confirm the company is equipped and permitted for commercial grease-trap work an
 
 Busy restaurants may need more frequent service than a light-use kitchen. Ask for a recommended interval based on your seating, menu, and trap size, and get the per-visit price in writing—including after-hours or emergency rates if drains are already backing up.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Commercial kitchen drain-maintenance supplies](https://amzn.to/3TGtmIP) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Fargo grease-trap checklist to confirm pump-versus-clean scope, documentation, and pricing before scheduling, especially if the kitchen is already having drain problems.

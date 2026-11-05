@@ -22,6 +22,12 @@ A useful proposal lists surfaces, method, estimated timing, price, and exclusion
 
 Ask for separate pricing if you want a recurring maintenance plan versus a one-time clean, and clarify cancellation and extra-work terms before signing a long agreement.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Adjustable garden-hose spray nozzle](https://link.amazon/B0ig2IB6k) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Huntsville commercial pressure-washing checklist to compare written scopes, insurance, and scheduling—not the lowest bid alone.

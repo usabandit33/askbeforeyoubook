@@ -41,6 +41,12 @@ Prefer operators that publish a local phone number and website over pure dispatc
 
 Ask what the warranty covers (springs, labor, or both), how long it lasts, and whether the price includes removing old springs, adjusting cables and balance, testing the door, and any hardware commonly replaced at the same time.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[3-IN-ONE garage-door lubricant](https://link.amazon/B03159X1C) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Chattanooga garage-spring checklist to confirm both springs, trip-fee credit, and who shows up before authorizing the repair.

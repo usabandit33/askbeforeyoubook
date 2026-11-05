@@ -37,6 +37,12 @@ A lower price may reflect liner-only work. Confirm the full scope.
 
 Get the material thickness (mil rating), coverage details, equipment brand, and warranty terms in writing. Ask whether the warranty requires annual maintenance or a service plan.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Digital humidity meter](https://amzn.to/47qeBNm) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Macon crawl-space checklist to decide between a basic liner and closed encapsulation after moisture conditions are documented.
