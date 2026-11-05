@@ -36,6 +36,12 @@ Before booking, ask where the existing access panels are, whether the full duct 
 
 Ask for a report or certificate that identifies the date of service, the areas cleaned, and any limitations.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Commercial kitchen degreaser](https://amzn.to/47kTv35) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Atlanta hood-cleaning checklist to confirm whether the service includes filters only or a complete cleaning of the hood, duct, and fan. Get the scope and documentation in writing before scheduling.

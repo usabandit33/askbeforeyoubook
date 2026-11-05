@@ -64,6 +64,12 @@ Follow the pool manufacturer's operating instructions and local water-conservati
 
 Do not allow a pump to run dry or bypass safety controls in an attempt to keep the system operating. If the pool has an automatic fill valve, monitor it carefully so a hidden leak does not go unnoticed.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Pool leak-detection dye kit](https://amzn.to/4hP5X11) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Phoenix pool leak checklist to record water loss, ask about the diagnostic method, and confirm whether the service fee is credited toward repairs. Approve the repair after the likely source has been identified and the scope and warranty are clear.
