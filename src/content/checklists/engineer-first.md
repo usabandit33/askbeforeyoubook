@@ -96,6 +96,12 @@ Be cautious when a salesperson guarantees that every crack will disappear or tha
 
 For substantial repairs or conflicting diagnoses, seek a qualified independent assessment before committing to a costly project.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Crack-width monitoring gauge](https://amzn.to/4ssPUK5) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Houston foundation checklist to document symptoms, clarify the diagnosis, and compare repair proposals. When structural conditions are uncertain or the work is extensive, consider an independent engineering evaluation before approving the repair, and keep the scope, documentation, and warranty in writing.

@@ -23,6 +23,12 @@ Ask the company which system it recommends for your water and why.
 
 Get written prices for equipment, installation, and ongoing salt or filter costs. Ask about warranty and what is required to keep it valid.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Water-hardness test strips](https://link.amazon/B08SOPC6U) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Charlotte water checklist to compare salt-based and salt-free options after a hardness test.

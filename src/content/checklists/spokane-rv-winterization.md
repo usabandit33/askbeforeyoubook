@@ -27,6 +27,12 @@ Mobile winterization can be done at home or storage and may include a travel fee
 
 Get an itemized quote and ask whether the price covers the full freshwater system or only a limited blowout. Book before the seasonal rush; last-minute appointments are harder once freezing weather is already here.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Basic RV tool kit and tire pressure gauge](https://link.amazon/B0aOcb0OB) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Spokane RV-winterization checklist to lock in included steps, mobile versus shop, and written price before the first hard freeze.

@@ -31,6 +31,12 @@ Ask which specific products are proposed and request data sheets. Confirm cure t
 
 Ask what the warranty covers (peeling, delamination, wear) and for how long. Confirm whether the quote includes prep, materials, labor, and cleanup—or only the coating layer. A lower price may use a thinner film or skip mechanical preparation.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Concrete moisture test kit](https://amzn.to/4ipk8tJ) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Boise garage-coating checklist to compare systems only after preparation method, product data, and warranty terms are documented.

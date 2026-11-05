@@ -104,6 +104,12 @@ A binding estimate may be attractive when the inventory and requested services a
 
 No pricing format eliminates the need to read the paperwork. The best estimate is one that accurately describes your belongings, explains the services, identifies the company doing the work, and makes potential extra charges understandable before moving day.
 
+## Helpful product while you compare options
+
+As an Amazon Associate I earn from qualifying purchases.
+
+[Portable luggage scale for weighing boxes and belongings](https://amzn.to/3TIFGs5) (affiliate link, no extra cost to you)
+
 ## Before you book
 
 Use the matching Austin moving estimate checklist to compare binding, non-binding, and hourly proposals. Confirm the inventory, written price terms, additional charges, and identity of the company performing the move before signing.
