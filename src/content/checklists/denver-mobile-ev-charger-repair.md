@@ -1,6 +1,6 @@
 ---
 title: "Before You Hire a Mobile EV Charger Troubleshooting & Repair Service in Denver"
-description: "Free checklist for Denver homeowners with Level 2 EV charger problems: fault codes, thermal stress, breakers, and when to call a licensed electrician."
+description: "Mobile EV charger repair Denver: Level 2 troubleshooting checklist for fault codes, thermal trips, and when to hire a licensed electrician—not DIY."
 city: "Denver"
 service: "Mobile EV Charger Repair"
 lastReviewed: "2026-11-06"

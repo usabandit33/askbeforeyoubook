@@ -1,6 +1,6 @@
 ---
 title: "Before You Hire an Attic Rodent Proofing & Exclusion Service in Atlanta"
-description: "Free checklist for Atlanta homeowners: finding entry points, steel mesh, tree trimming, and permanent exclusion vs. trap-only pest control."
+description: "Attic rodent proofing Atlanta: exclusion checklist for sealing entry points, steel mesh, tree access, and permanent wildlife exclusion vs. traps only."
 city: "Atlanta"
 service: "Attic Rodent Proofing"
 lastReviewed: "2026-11-06"

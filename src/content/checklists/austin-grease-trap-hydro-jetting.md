@@ -1,6 +1,6 @@
 ---
 title: "Before You Hire a Commercial Grease Trap Hydro-Jetting Service in Austin"
-description: "Free checklist for Austin restaurant owners: when to hydro-jet grease lines, outlet tees, chemical restrictions, and service records for health inspectors."
+description: "Commercial grease trap hydro-jetting Austin: checklist for restaurant FOG lines, outlet tees, chemical rules, and service logs for health inspectors."
 city: "Austin"
 service: "Grease Trap Hydro-Jetting"
 lastReviewed: "2026-11-06"
