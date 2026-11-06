@@ -5,22 +5,26 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
 ---
 
 <BaseLayout
-  title="SignOff Mobile – SMS Approvals for Trade Contractors"
-  description="Get customer approval for extra work by SMS in seconds. Audit log included. Join the waitlist for independent mechanics and specialty trades."
+  title="SignOff – SMS Approvals for Trade Contractors"
+  description="Get customer approval for extra work by SMS in seconds. Audit log included. Free trial coming soon. Beta testers welcome."
   hideBanner={true}
   hideAiHelp={true}
   hideFooter={true}
 >
   <article class="signoff-page">
-    <p class="eyebrow">For contractors & mobile trades</p>
+    <p class="eyebrow">SignOff</p>
     <h1>Get extra-work approval by text. Keep the job moving.</h1>
     <p class="lead">
-      SignOff Mobile is a simple SMS tool for independent mechanics and specialty trade contractors.
+      SignOff is a simple SMS tool for independent mechanics and specialty trade contractors.
       When you find unexpected work on site, send a one-tap approval link. The customer approves or declines from their phone. You get a clear record.
     </p>
 
+    <p class="trial-note">
+      <strong>Free trial coming soon.</strong> Beta testers are encouraged to submit their info below.
+    </p>
+
     <div class="cta-row">
-      <a href="#waitlist" class="btn-primary">Join the waitlist</a>
+      <a href="#waitlist" class="btn-primary">Join the beta</a>
     </div>
 
     <section class="stats">
@@ -47,6 +51,12 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
       <li>Optional payment request after approval.</li>
     </ul>
 
+    <h2>Works with the systems you already use</h2>
+    <p>
+      SignOff includes an MCP connection so you (or your software) can send customer and job data straight in. No duplicate entry.
+      Create jobs and request approvals from another tool, then pull the approval status and full audit trail back into that system when you need it.
+    </p>
+
     <h2>Questions contractors ask</h2>
     <div class="qa">
       <h3>How do I get a customer to approve extra work without a phone call?</h3>
@@ -61,20 +71,23 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
       <h3>Can I send from my own number?</h3>
       <p>Yes. The current setup can send from a phone you control, so the text comes from a real number instead of a short code.</p>
 
+      <h3>Can I feed customer data from another system?</h3>
+      <p>Yes. The MCP connection lets you push jobs and customers in and pull approvals and the audit log back out. No retyping.</p>
+
       <h3>What trades is this for?</h3>
       <p>Mobile mechanics, HVAC, plumbing, electrical, and other on-site trades where extra work is common and verbal approval creates disputes later.</p>
     </div>
 
     <section id="waitlist" class="waitlist">
-      <h2>Join the waitlist</h2>
-      <p>Tell us a little about your business. We will reach out when a spot opens for early access.</p>
+      <h2>Join the beta</h2>
+      <p>Free trial coming soon. Beta testers: tell us a little about your business and we will reach out when a spot opens.</p>
 
       <form
         id="waitlist-form"
         method="POST"
         action={`https://formsubmit.co/${INBOX_EMAIL}`}
       >
-        <input type="hidden" name="_subject" value="SignOff Mobile waitlist" />
+        <input type="hidden" name="_subject" value="SignOff beta / waitlist" />
         <input type="hidden" name="_captcha" value="false" />
         <input type="hidden" name="_template" value="table" />
         <input type="hidden" name="_next" value="https://askbeforeyoubook.com/signoff-thanks/" />
@@ -101,10 +114,10 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
         <label for="note">Anything else? (optional)</label>
         <textarea id="note" name="note" rows="3" placeholder="How often do you need extra-work approval?"></textarea>
 
-        <button type="submit">Request early access</button>
+        <button type="submit">Request beta access</button>
       </form>
 
-      <p class="fine">We only use this to contact you about SignOff Mobile. No spam.</p>
+      <p class="fine">We only use this to contact you about SignOff. No spam.</p>
     </section>
   </article>
 </BaseLayout>
@@ -130,7 +143,15 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
   .lead {
     font-size: 1.1rem;
     color: #334155;
+    margin-bottom: 1rem;
+  }
+  .trial-note {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
     margin-bottom: 1.5rem;
+    color: #1e3a8a;
   }
   .cta-row {
     margin-bottom: 2rem;
