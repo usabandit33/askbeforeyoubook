@@ -1,9 +1,9 @@
 ---
-title: "NYC Appliance Repair Checklist: Diagnostic Fees, Co-op COI Rules & OEM Parts"
-description: "New York City appliance repair checklist: diagnostic trip fee waivers, Co-op/Condo Certificate of Insurance (COI) requirements, OEM vs aftermarket parts, and 90-day warranties."
+title: "Before You Hire Appliance Repair in NYC: Fees, COI & Parts"
+description: "Free NYC checklist: confirm diagnostic fee waiver, Co-op/Condo COI insurance, OEM vs aftermarket parts, and warranty terms before the tech arrives."
 city: "New York City"
 service: "Appliance Repair"
-lastReviewed: "2026-10-26"
+lastReviewed: "2026-11-06"
 ---
 
 Hiring an appliance repair technician in New York City—across Manhattan, Brooklyn, Queens, the Bronx, or Staten Island—comes with logistical hurdles unknown in suburban markets. Tight galley kitchens, historic pre-war building plumbing, walk-ups, strict Co-op and Condo board regulations, and complex European appliances (like Bosch, Miele, Sub-Zero, and Liebherr) make transparent quotes essential.
