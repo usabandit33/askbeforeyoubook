@@ -1,6 +1,6 @@
 ---
-title: "Before You Hire Appliance Repair in NYC: Fees, COI & Parts"
-description: "Free NYC checklist: confirm diagnostic fee waiver, Co-op/Condo COI insurance, OEM vs aftermarket parts, and warranty terms before the tech arrives."
+title: "NYC Appliance Repair Cost: Service Call Fees, COI & What to Ask"
+description: "What NYC appliance repair service calls actually cost: typical diagnostic fees ($80–$175), when the fee is waived, Co-op COI rules, and questions before you book."
 city: "New York City"
 service: "Appliance Repair"
 lastReviewed: "2026-11-06"
