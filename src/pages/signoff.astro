@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const INBOX_EMAIL = "kaelnventures@gmail.com";
+const INSTALL_URL = "https://signoff-mobile-production.up.railway.app/install";
 ---
 
 <BaseLayout
@@ -25,7 +26,16 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
 
     <div class="cta-row">
       <a href="#waitlist" class="btn-primary">Join the beta</a>
+      <a href={INSTALL_URL} class="btn-secondary" target="_blank" rel="noopener">Install SignOff</a>
     </div>
+
+    <section class="install-box">
+      <h2>Install on your phone</h2>
+      <p>Add SignOff to your home screen so you can request approvals from the job site.</p>
+      <p class="install-link">
+        <a href={INSTALL_URL} target="_blank" rel="noopener">{INSTALL_URL}</a>
+      </p>
+    </section>
 
     <section class="stats">
       <div class="stat">
@@ -154,19 +164,49 @@ const INBOX_EMAIL = "kaelnventures@gmail.com";
     color: #1e3a8a;
   }
   .cta-row {
-    margin-bottom: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
   }
-  .btn-primary {
+  .btn-primary,
+  .btn-secondary {
     display: inline-block;
-    background: #1d4ed8;
-    color: white;
     padding: 0.85rem 1.4rem;
     border-radius: 8px;
     font-weight: 600;
     text-decoration: none;
   }
+  .btn-primary {
+    background: #1d4ed8;
+    color: white;
+  }
   .btn-primary:hover {
     background: #1e40af;
+  }
+  .btn-secondary {
+    background: #e2e8f0;
+    color: #1e293b;
+  }
+  .btn-secondary:hover {
+    background: #cbd5e1;
+  }
+  .install-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .install-box h2 {
+    margin-top: 0;
+  }
+  .install-link {
+    word-break: break-all;
+  }
+  .install-link a {
+    color: #1d4ed8;
+    font-weight: 600;
   }
   .stats {
     display: grid;
