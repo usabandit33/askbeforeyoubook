@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects
+# Force www → apex so Google indexes only https://askbeforeyoubook.com
+https://www.askbeforeyoubook.com/*  https://askbeforeyoubook.com/:splat  301
