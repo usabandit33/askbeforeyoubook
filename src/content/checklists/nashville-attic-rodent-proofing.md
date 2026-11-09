@@ -20,6 +20,8 @@ Mice, rats, and squirrels readily enter Nashville attics through small gaps. The
 
 **Helpful product:** [Heavy-duty attic vapor barrier and insulation protection sheeting](https://amzn.to/47qeBNm) — useful after cleanup when replacing or protecting insulation in treated attic areas. *Affiliate link.*
 
+[View product on Amazon →](https://amzn.to/47qeBNm)
+
 ## Securing Nashville homes against wildlife infiltration
 
 Nashville’s humid climate and tree cover make residential attics attractive to mice, rats, and squirrels. When seasonal temperature shifts occur, wildlife actively searches for warm, sheltered spaces and frequently finds its way into attics. Once inside, animals chew through electrical wiring, shred insulation, and create fire and health hazards.
@@ -29,6 +31,8 @@ A major frustration for homeowners is the traditional pest-control cycle: compan
 Specialized attic rodent proofing and exclusion services bridge this gap. By focusing on sealing every practical structural gap with chew-proof materials, cleaning and sanitizing as needed, and addressing access routes such as overhanging limbs, these experts stop infestations permanently rather than managing them month after month.
 
 Local context that matters: Metro Nashville–Davidson County property standards require structures to be kept free from insect and rodent infestation and require precautions after extermination to prevent re-infestation (see Metro Code provisions on extermination and ratproofing). Commensal rodent control for hire is regulated under Tennessee Department of Agriculture pest-control rules; work involving protected wildlife species may require a TWRA NWCO credential. Always confirm current licensing and use insured technicians for attic work.
+
+**After exclusion and cleanup:** [Heavy-duty attic vapor barrier and insulation protection sheeting](https://amzn.to/47qeBNm) can help protect or stage insulation in treated attic areas. *Affiliate link.*
 
 ## Sources
 
@@ -43,5 +47,7 @@ Local context that matters: Metro Nashville–Davidson County property standards
 ### Recommended product
 
 [Heavy-duty attic vapor barrier and insulation protection sheeting](https://amzn.to/47qeBNm)
+
+[Shop this product on Amazon →](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*

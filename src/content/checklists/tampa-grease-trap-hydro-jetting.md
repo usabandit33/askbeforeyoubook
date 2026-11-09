@@ -20,6 +20,8 @@ For restaurant and commercial kitchen operators in Tampa. Standard grease-trap p
 
 **Helpful product:** [Commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) — for routine drain care between professional pump-outs and jetting; still confirm against city FOG guidance and additive approval rules before using chemicals. *Affiliate link.*
 
+[View product on Amazon →](https://amzn.to/4yT0Nap)
+
 ## Preventing kitchen floods with commercial hydro-jetting in Tampa
 
 Tampa’s booming dining and entertainment districts put intense pressure on commercial kitchen drainage. While standard grease interceptor pumping removes floating waste and bottom sludge, it often leaves behind a stubborn layer of grease coating the interior walls of outlet pipes. Over time, this buildup narrows the pipe diameter until a complete blockage occurs during a peak service period.
@@ -29,6 +31,8 @@ Standard plumbing companies often avoid greasy commercial waste lines due to the
 Specialized commercial hydro-jetting services address this directly. By using high-pressure water streams to scour grease down to bare pipe walls, these specialists restore full drainage capacity, protect kitchens from catastrophic backups, and help operators stay compliant with municipal environmental codes.
 
 Local context that matters: City of Tampa Code Chapter 26, Article VII (Grease Management) requires food service facilities to maintain interceptors and traps, with pumping triggers tied to settled solids and the common 25% rule (when captured grease and solids displace more than about 25% of the device volume, or when solids rise to the outlet invert). Hillsborough County industrial pretreatment rules also emphasize minimum service intervals (commonly every 90 days for professionally serviced devices) and the 25% / depth limits. Pair scheduled pumping with periodic jetting of outlet lines, keep clear service records, and confirm current Tampa Water / Hillsborough County FOG expectations before you sign a contract.
+
+**Between professional services:** A [commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) can support routine drain care—confirm any additive against current Tampa GMP / Hillsborough FOG rules first. *Affiliate link.*
 
 ## Sources
 
@@ -42,5 +46,7 @@ Local context that matters: City of Tampa Code Chapter 26, Article VII (Grease M
 ### Recommended product
 
 [Commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap)
+
+[Shop this product on Amazon →](https://amzn.to/4yT0Nap)
 
 *Affiliate link. Customer never pays the directory.*

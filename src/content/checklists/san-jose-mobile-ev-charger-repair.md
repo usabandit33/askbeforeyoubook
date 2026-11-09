@@ -20,6 +20,8 @@ Home Level 2 chargers in San Jose and Silicon Valley often develop fault lights,
 
 **Helpful product:** [Commercial non-contact voltage tester with audible and visual indicators](https://amzn.to/47qeBNm) — useful for basic safety checks around outlets and breakers; never open the charger yourself. *Affiliate link.*
 
+[View product on Amazon →](https://amzn.to/47qeBNm)
+
 ## Keeping electric vehicles powered with on-site charger repairs in San Jose
 
 San Jose and the broader Silicon Valley region adopted home EV charging early and at high density. As thousands of Level 2 stations age past their initial installation windows, homeowners encounter hardware faults, tripped breakers, communication drop-offs between chargers and vehicles, and thermal issues on plugs and terminals.
@@ -29,6 +31,8 @@ When a home charger fails, drivers face the frustration of waking up to a deplet
 Specialized mobile EV charger troubleshooting services fill this gap. By bringing diagnostic equipment directly to the garage, these technicians identify firmware errors, replace damaged cables, check thermal stress on connections, and restore reliable home charging without the weeks-long delays typical of legacy contractors.
 
 Local context that matters: the City of San José requires an electrical permit for Level 2 EV charging station work (see City guidance and SJPermits.org). Work must align with the California Electrical Code (including Article 625 for EVSE continuous load, overcurrent protection, and GFCI where required) and listed equipment standards (e.g., UL 2202). Always use a licensed electrician for internal EVSE work; high-voltage equipment is not a homeowner repair job.
+
+**Before the tech arrives:** A [commercial non-contact voltage tester](https://amzn.to/47qeBNm) can help you confirm power is off at outlets and breakers for basic safety checks—do not open the EVSE yourself. *Affiliate link.*
 
 ## Sources
 
@@ -42,5 +46,7 @@ Local context that matters: the City of San José requires an electrical permit 
 ### Recommended product
 
 [Commercial non-contact voltage tester with audible and visual indicators](https://amzn.to/47qeBNm)
+
+[Shop this product on Amazon →](https://amzn.to/47qeBNm)
 
 *Affiliate link. Customer never pays the directory.*
