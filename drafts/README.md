@@ -1,80 +1,76 @@
 # Drafts directory for AskBeforeYouBook
 
-Drop finished or near-finished checklist articles here as Markdown files.
+**Critical rule for other agents:** Do **not** push checklist article `.md` files directly to `main`.
 
-The daily publishing automation (runs ~8 PM Eastern) will:
+Cloudflare Pages deploys on every push to `main`. Putting unfinished articles on `main` (even under `drafts/`) triggers a production rebuild. That is the opposite of the safeguard we want.
 
-1. Read every `*.md` file in this folder
-2. Validate required frontmatter + content structure + affiliate link compliance
-3. Move the published version into `src/content/checklists/` (with `draft: false`)
-4. Remove the original file from `drafts/` after successful publish
-5. Open + auto-merge a PR so Cloudflare Pages deploys it
+## Correct workflow for other agents
 
-## Required file format
+1. Create a feature branch, e.g. `drafts/melbourne-dryer-vent-2026-11-12`
+2. Add your Markdown files under `drafts/` on that branch only
+3. Open a **draft** pull request against `main`
+4. Mark the PR as draft and title it `Draft: …`
+5. In the PR body, state clearly: "Draft only — do not merge."
+6. Wait for human review or the nightly publisher
 
-Filename: kebab-case slug that will become the URL path  
-Example: `denver-mobile-ev-charger-repair.md` → live at `/denver-mobile-ev-charger-repair/`
+The nightly automation (8 PM Eastern) will only promote content that has been validated. It will never treat a draft PR as live production content until the content is moved into `src/content/checklists/` with valid frontmatter.
+
+## What lives on main in this folder
+
+- This `README.md` only (instructions)
+- Optionally: empty placeholder files if needed for directory presence
+
+**No article Markdown should sit on `main` until the publisher has validated and promoted it.**
+
+## Required article format (when ready)
+
+Filename: kebab-case slug → URL path  
+Example: `denver-mobile-ev-charger-repair.md` → `/denver-mobile-ev-charger-repair/`
 
 ```yaml
 ---
 title: "Clear, benefit-focused title that includes city or key distinction"
-description: "1-2 sentence meta description. Include the core question the homeowner should ask. Customer never pays the directory."
-city: "City Name"          # e.g. Denver, Austin, Charlotte
-service: "Service Category" # e.g. EV Charger, Grease Trap, Dumpster Rental
-lastReviewed: "YYYY-MM-DD"  # optional; automation will set to today if missing
+description: "1-2 sentence meta description. Include the core question. Customer never pays the directory."
+city: "City Name"
+service: "Service Category"
+lastReviewed: "YYYY-MM-DD"
 ---
 
-Opening paragraph that sets local context and the main risk/surprise homeowners face.
+Opening local context…
 
-## 1. First major question / decision point
+## 1. First major question
 
-Explain why it matters. Give the exact wording the homeowner should ask.
-
-- **Ask:** *"Exact question in quotes"*
-- Red flag or consequence if the answer is wrong
-
-## 2. Second major point
-
-...
-
-## 3. ...
-
-Aim for 500+ words of substantive, city-specific guidance (municipal codes, local conditions, real questions).
+- **Ask:** *"Exact question"*
+- Red flag…
 
 ## Before you book
 
-One short summary of the key checks.
+Short summary.
 
 ## Sources
 
-- Official municipal or state links (preferred)
-- Relevant code references
+- Official links
 
 ---
 
-### Recommended product / tool (required affiliate section)
+### Recommended product / tool (required)
 
 As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
 
-<a href="https://amzn.to/XXXXX" rel="nofollow sponsored" target="_blank">Product name that helps with this job</a>
+<a href="https://amzn.to/XXXXX" rel="nofollow sponsored" target="_blank">Product name</a>
 
 *Customer never pays the directory.*
 ```
 
-### Hard requirements the automation will enforce
+### Hard requirements the publisher enforces
 
-- Frontmatter must contain `title`, `description`, `city`, `service`
-- At least one affiliate product link using `rel="nofollow sponsored"`
-- FTC-style disclosure present near the affiliate section
-- No `#` H1 in the body (the page template supplies the H1)
-- Content must feel local (city/municipal references preferred)
-- Do not edit layouts, components, or global config files from drafts
+- Frontmatter: `title`, `description`, `city`, `service`
+- At least one affiliate link with `rel="nofollow sponsored"`
+- FTC-style disclosure near the affiliate section
+- No `#` H1 in the body
+- Prefer 500+ words of real local guidance
+- Never touch layouts, components, or global config from drafts
 
-### Tips for other agents
+### Why this matters
 
-- Prefer real local ordinances, health department rules, or state agency guidance over generic advice.
-- Every checklist should leave the homeowner with 3–5 concrete questions to ask before booking.
-- Keep the tone neutral and practical. "Customer never pays the directory."
-- If the draft is not ready, leave it here; the automation will skip incomplete files and report them.
-
-After a successful publish the file is removed from `drafts/` so this folder stays clean for the next batch.
+Astro only loads `src/content/checklists/` into the content collection. Files under `drafts/` are **not** part of the live site. The danger is not the collection loader — it is Cloudflare rebuilding production on every push to `main`. Keep unfinished work on feature branches and draft PRs so production deploys stay stable.
