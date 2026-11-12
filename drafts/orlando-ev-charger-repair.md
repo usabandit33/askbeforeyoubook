@@ -57,6 +57,6 @@ Choose a Florida-licensed electrical contractor for wiring, breaker, panel, or h
 
 As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
 
-The existing [commercial non-contact voltage tester with audible and visual indicators](https://amzn.to/47qeBNm) may be useful for limited, basic awareness checks around accessible outlets or equipment housings, when used exactly as its manufacturer directs. It does not prove that a circuit is de-energized, diagnose an EV charger, or make panel work safe. Homeowners should not open electrical panels, charger enclosures, or receptacles to test wiring. Leave diagnosis and electrical testing to the licensed contractor.
+The existing <a href="https://amzn.to/47qeBNm" rel="nofollow sponsored" target="_blank">Commercial non-contact voltage tester with audible and visual indicators</a> may be useful for limited, basic awareness checks around accessible outlets or equipment housings, when used exactly as its manufacturer directs. It does not prove that a circuit is de-energized, diagnose an EV charger, or make panel work safe. Homeowners should not open electrical panels, charger enclosures, or receptacles to test wiring. Leave diagnosis and electrical testing to the licensed contractor.
 
 *Customer never pays the directory.*
