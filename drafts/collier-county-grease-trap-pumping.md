@@ -57,6 +57,6 @@ Verify the wastewater authority for the address, confirm the applicable pumping 
 
 As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
 
-The existing [commercial biological grease trap enzyme and drain maintenance treatment](https://amzn.to/4yT0Nap) is included only as a conditional option. Do not use it in Collier County or another service area unless the wastewater authority gives written approval for that specific product and application. It does not replace pumping, required inspections, or records. If approval is unavailable, skip the product entirely.
+The existing <a href="https://amzn.to/4yT0Nap" rel="nofollow sponsored" target="_blank">Commercial biological grease trap enzyme and drain maintenance treatment</a> is included only as a conditional option. Do not use it in Collier County or another service area unless the wastewater authority gives written approval for that specific product and application. It does not replace pumping, required inspections, or records. If approval is unavailable, skip the product entirely.
 
 *Customer never pays the directory.*
