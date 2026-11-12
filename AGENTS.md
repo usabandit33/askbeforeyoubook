@@ -12,6 +12,23 @@ Individual checklists are researched and maintained in separate repositories (fo
 
 When updating content, respect the original research in those repos. Prefer linking back to the source repo for full context rather than duplicating long explanations.
 
+## Drafts & publishing workflow (important)
+
+Cloudflare Pages deploys on **every push to `main`**. Unfinished checklist articles must not land on `main` until validated.
+
+**For other agents writing new checklists:**
+
+1. Create a feature branch (e.g. `drafts/city-service-YYYY-MM-DD`).
+2. Add Markdown under `drafts/` on that branch only.
+3. Open a **draft** pull request. Title it `Draft: …` and state in the body: do not merge.
+4. Do **not** push article `.md` files directly to `main`.
+
+Live content lives only in `src/content/checklists/`. The Astro content collection loads exclusively from that folder. The `drafts/` directory on main should normally contain only `README.md` (instructions).
+
+The nightly publisher (8 PM Eastern) validates ready drafts (from draft PRs or any leftover files under `drafts/`), writes them into `src/content/checklists/`, and auto-merges a clean publish PR. Required: proper frontmatter, local content depth, affiliate links with `rel="nofollow sponsored"`, and FTC disclosure.
+
+See `drafts/README.md` for the full format and requirements.
+
 ## Development
 
 When starting the dev server, use background mode:
