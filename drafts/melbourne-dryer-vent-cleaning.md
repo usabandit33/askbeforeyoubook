@@ -56,6 +56,6 @@ Choose a company that cleans the complete exhaust path, protects and reconnects 
 
 As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
 
-For a homeowner who wants to understand the vent route and discuss maintenance options, the [Gardus LintEater dryer-vent cleaning kit](https://amzn.to/47kjQOH) is an existing affiliate product link. Follow the kit manufacturer's instructions and use it only on a compatible, accessible duct. Do not force rods through a damaged duct, attempt unsafe roof access, or treat a DIY kit as a substitute for a professional when the run is long, inaccessible, disconnected, or still has poor airflow.
+For a homeowner who wants to understand the vent route and discuss maintenance options, the <a href="https://amzn.to/47kjQOH" rel="nofollow sponsored" target="_blank">Gardus LintEater dryer-vent cleaning kit</a> is an existing affiliate product link. Follow the kit manufacturer's instructions and use it only on a compatible, accessible duct. Do not force rods through a damaged duct, attempt unsafe roof access, or treat a DIY kit as a substitute for a professional when the run is long, inaccessible, disconnected, or still has poor airflow.
 
 *Customer never pays the directory.*
