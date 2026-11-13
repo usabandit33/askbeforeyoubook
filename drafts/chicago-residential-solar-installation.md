@@ -109,8 +109,10 @@ Solar can be a good long-term investment for the right home and contract. But a 
 
 ---
 
-### Recommended product / tool
+## Recommended product / tool
 
-Affiliate product recommendation intentionally deferred at the user's direction. Add a relevant product and the site's Amazon Associate disclosure before publication. Do not insert an unrelated product merely to satisfy the section.
+As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
+
+Solar proposals involve disclosure forms, financing schedules, permit records, and warranty packets. The existing site product link for a <a href="https://amzn.to/4BcLxGP" rel="nofollow sponsored" target="_blank">home-project document organizer</a> can help you keep the Illinois Shines Disclosure Form, contracts, and utility paperwork together while you compare offers. Organizing files does not replace verifying the Approved Vendor and installer credentials, reviewing total cost, or confirming Chicago permits and interconnection.
 
 *Customer never pays the directory.*

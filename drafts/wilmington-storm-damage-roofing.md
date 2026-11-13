@@ -116,8 +116,10 @@ A roof is expensive enough without adding a contract dispute. A legitimate contr
 
 ---
 
-### Recommended product / tool
+## Recommended product / tool
 
-Affiliate product recommendation intentionally deferred at the user's direction. Add a relevant product and the site's Amazon Associate disclosure before publication. Do not insert an unrelated product merely to satisfy the section.
+As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
+
+Storm-repair decisions produce a lot of paperwork: photos, estimates, insurance scopes, contracts, and permit records. The existing site product link for a <a href="https://amzn.to/4BcLxGP" rel="nofollow sponsored" target="_blank">home-project document organizer</a> can help keep those files in one place while you compare bids and track claim correspondence. Organizing documents does not replace reading the contract, verifying the contractor’s registration, or confirming permit responsibility with the local building office.
 
 *Customer never pays the directory.*

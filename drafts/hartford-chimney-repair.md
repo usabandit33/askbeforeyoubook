@@ -90,8 +90,10 @@ A safe chimney matters. So does knowing exactly what you are buying. If the cont
 
 ---
 
-### Recommended product / tool
+## Recommended product / tool
 
-Affiliate product recommendation intentionally deferred at the user's direction. Add a relevant product and the site's Amazon Associate disclosure before publication. Do not insert an unrelated product merely to satisfy the section.
+As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
+
+A working carbon-monoxide alarm is a basic safety check when a chimney, fireplace, or fuel-burning appliance is involved. The existing site product link for a <a href="https://amzn.to/4yT0Nap" rel="nofollow sponsored" target="_blank">commercial photoelectric smoke and carbon monoxide detector multi-pack</a> may help a homeowner verify coverage on floors where sleeping areas and combustion equipment are present. Follow the manufacturer’s placement and maintenance instructions. A detector does not diagnose chimney damage, replace a professional inspection, or make an unsafe appliance safe to use.
 
 *Customer never pays the directory.*
