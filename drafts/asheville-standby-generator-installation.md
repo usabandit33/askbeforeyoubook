@@ -8,7 +8,7 @@ lastReviewed: "2026-11-15"
 
 A standby generator can make a difficult outage easier to manage, but the installation is not just a matter of setting a machine beside the house. The project may involve electrical work, a transfer switch, natural gas or propane piping, a concrete pad, permits, inspections, and coordination with the utility.
 
-Asheville has a real reason to plan carefully. During Hurricane Helene on September 28, 2024, roughly 100,000 customers in Buncombe County lost electricity, and the storm also disrupted Asheville's water system. The U.S. Energy Information Administration reported 1,518.1 minutes of interruption per customer for North Carolina in 2024 when major-event days were included, compared with 662.6 minutes nationally. Those are statewide annual figures, not a prediction for one Asheville home, and the extraordinary storm year heavily influenced them. They do show why backup-power decisions deserve more than a rushed sales pitch.
+Asheville has a real reason to plan carefully. During Hurricane Helene on September 28, 2024, roughly 100,000 customers in Buncombe County lost electricity, and the storm also disrupted Asheville's water system. The latest U.S. Energy Information Administration table shows 191.5 minutes of interruption per customer for North Carolina in 2025 when major-event days were included, compared with 269.2 minutes nationally. The previous year, when Helene struck, the state figure was 1,518.1 minutes compared with 662.6 nationally. Those are statewide annual figures, not a prediction for one Asheville home. The sharp year-to-year swing shows how a major storm can dominate an annual average, so use the local Helene experience as context rather than assuming every year will look the same.
 
 Use this checklist to compare installers before signing a contract.
 
@@ -93,7 +93,7 @@ A generator is a safety system, not just a large appliance. Compare at least thr
 
 ## Sources
 
-- [U.S. Energy Information Administration, Table 11.2: Reliability Metrics Using IEEE of U.S. Distribution System by State, 2025 and 2024](https://www.eia.gov/electricity/annual/html/epa_11_02.html), includes 2024 North Carolina and U.S. outage-duration data. Accessed November 15, 2026.
+- [U.S. Energy Information Administration, Table 11.2: Reliability Metrics Using IEEE of U.S. Distribution System by State, 2025 and 2024](https://www.eia.gov/electricity/annual/html/epa_11_02.html), includes 2025 and 2024 North Carolina and U.S. outage-duration data. Accessed November 15, 2026.
 - [Associated Press, Asheville and western North Carolina after Hurricane Helene](https://apnews.com/article/078a298cdcaaf46749f3f6683a4e1057), September 28, 2024. Reports widespread power and water disruption, including about 100,000 Buncombe County customers without electricity. Accessed November 15, 2026.
 - [City of Asheville, Apply for an electrical, gas piping, plumbing, mechanical, or multi-trade permit](https://www.ashevillenc.gov/service/apply-for-an-electrical-gas-piping-plumbing-mechanical-or-multi-trade-permit/), reviewed April 2, 2026. Accessed November 15, 2026.
 - [City of Asheville Code, Section 4-61: Issuance of permits to licensed electrical contractors and certain property owners](https://codelibrary.amlegal.com/codes/ashevillenc/latest/asheville_nc/0-0-0-1623). Accessed November 15, 2026.
