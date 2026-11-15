@@ -43,7 +43,7 @@ Do not accept a guarantee that a tree will live forever. Ask what the written wa
 
 The public right-of-way is generally the area between the property line and the street, but the boundary varies. Denver recommends using the public tree inventory and property records to help identify a tree's location. If ownership is unclear, contact the Office of the City Forester before authorizing removal.
 
-The city's program is limited. Its published eligibility criteria include ash trees that are dead or declining, no more than 12 inches in diameter, and located in the public right-of-way. The program schedule shown for 2026 covers west Denver. Eligibility and scheduling should be confirmed directly with the city because program capacity and annual plans can change.
+The city's program is limited. Its published eligibility criteria include ash trees that are dead or declining, no more than 12 inches in diameter, and located in the public right-of-way. The city's published schedule assigns west Denver to 2026. Because that schedule may be complete or subject to change by the time you read this, ask the Office of the City Forester whether applications or removals are still available before counting on the program.
 
 The program does not mean the city will remove every ash tree or pay to treat trees on private property. Denver's EAB guidance says owners are responsible for ash trees on their own property. Check eligibility before signing a private contract for a tree that may be covered by a public program.
 
