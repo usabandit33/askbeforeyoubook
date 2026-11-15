@@ -2,29 +2,28 @@
 
 **Critical rule for other agents:** Do **not** push checklist article `.md` files directly to `main`.
 
-Cloudflare Pages deploys on every push to `main`. Putting unfinished articles on `main` (even under `drafts/`) triggers a production rebuild. That is the opposite of the safeguard we want.
+Cloudflare Pages deploys on every push to `main`. Unfinished articles must stay on a feature branch until reviewed. A draft PR is not permission to publish.
 
 ## Correct workflow for other agents
 
-1. Create a feature branch, e.g. `drafts/melbourne-dryer-vent-2026-11-12`
-2. Add your Markdown files under `drafts/` on that branch only
-3. Open a **draft** pull request against `main`
-4. Mark the PR as draft and title it `Draft: …`
-5. In the PR body, state clearly: "Draft only — do not merge."
-6. Wait for human review or the nightly publisher
+1. Create a feature branch, e.g. `drafts/city-service-YYYY-MM-DD`.
+2. Add publishable Markdown files under `drafts/` on that branch only.
+3. Open a **draft** pull request against `main`.
+4. Title it `Draft: …` and state clearly in the PR body: **"Draft only — do not merge."**
+5. Wait for human review and approval before any promotion or publication.
 
-The nightly automation (8 PM Eastern) will only promote content that has been validated. It will never treat a draft PR as live production content until the content is moved into `src/content/checklists/` with valid frontmatter.
+The nightly publisher may validate drafts and promote approved content. Do not trigger or operate that automation while preparing drafts.
 
 ## What lives on main in this folder
 
 - This `README.md` only (instructions)
 - Optionally: empty placeholder files if needed for directory presence
 
-**No article Markdown should sit on `main` until the publisher has validated and promoted it.**
+**No article Markdown should sit on `main` until it has been reviewed and approved.**
 
-## Required article format (when ready)
+## Required article format
 
-Filename: kebab-case slug → URL path  
+Filename: kebab-case slug → URL path.  
 Example: `denver-mobile-ev-charger-repair.md` → `/denver-mobile-ev-charger-repair/`
 
 ```yaml
@@ -41,36 +40,34 @@ Opening local context…
 ## 1. First major question
 
 - **Ask:** *"Exact question"*
-- Red flag…
+- Explain what a useful answer or proof looks like.
+- Identify warning signs without making unsupported accusations.
 
 ## Before you book
 
-Short summary.
+Short actionable summary.
 
 ## Sources
 
-- Official links
-
----
-
-### Recommended product / tool (required)
-
-As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
-
-<a href="https://amzn.to/XXXXX" rel="nofollow sponsored" target="_blank">Product name</a>
-
-*Customer never pays the directory.*
+- Official links with source title and publication/update date where available.
 ```
 
-### Hard requirements the publisher enforces
+## Article requirements
 
-- Frontmatter: `title`, `description`, `city`, `service`
-- At least one affiliate link with `rel="nofollow sponsored"`
-- FTC-style disclosure near the affiliate section
-- No `#` H1 in the body
-- Prefer 500+ words of real local guidance
-- Never touch layouts, components, or global config from drafts
+- Frontmatter: `title`, `description`, `city`, `service`, and `lastReviewed`.
+- At least 500 words of useful, original guidance.
+- No `#` H1 in the body; use section headings beginning at `##`.
+- Include specific local context and relevant city, county, and state rules or conditions.
+- Include actionable questions to ask, proof/documents to request, warning signs, and a reminder to verify current local requirements.
+- Include a `## Sources` section with direct, working sources. Prefer government, regulator, licensing-board, court, and reputable reporting sources. Include publication/update dates and access date where available.
+- Use external links that open in a new tab only with appropriate rel attributes: `target="_blank" rel="noopener noreferrer"`.
+- Do **not** require Amazon affiliate links, product recommendations, affiliate disclosures, ASINs, affiliate URLs, or monetized product sections. Consumer checklists are complete without product promotion.
+- Never invent statistics, laws, product links, providers, or source details.
 
-### Why this matters
+## Safety and publishing
 
-Astro only loads `src/content/checklists/` into the content collection. Files under `drafts/` are **not** part of the live site. The danger is not the collection loader — it is Cloudflare rebuilding production on every push to `main`. Keep unfinished work on feature branches and draft PRs so production deploys stay stable.
+All information is general consumer education, not legal, medical, engineering, or professional advice. Explain uncertainty and exceptions. Tell readers to verify current requirements with the relevant authority.
+
+Astro loads live checklists from `src/content/checklists/`; files under `drafts/` are not part of the live content collection. Do not move drafts into the live collection, merge a publishing PR, deploy, or push article files to `main`. Only the repository owner can approve publication.
+
+*Customer never pays the directory.*
