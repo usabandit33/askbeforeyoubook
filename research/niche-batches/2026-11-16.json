@@ -1,0 +1,343 @@
+{
+  "batch_date": "2026-11-16",
+  "repository": "usabandit33/askbeforeyoubook",
+  "access_date": "2026-11-16",
+  "national_screen": [
+    {
+      "market": "San Francisco, California",
+      "niche_considered": "Mandatory soft-story seismic retrofit",
+      "decision": "Not selected for this batch",
+      "reason": "The city program is established and public compliance data is current, but the 2026 California EMR grant registration window closed September 30, 2026. Public sources report roughly 4,700 buildings completed by 2026, making the remaining addressable group narrower than the selected opportunities.",
+      "sources": [
+        {
+          "title": "California Residential Mitigation Program, Earthquake Multi-Unit Retrofit",
+          "url": "https://www.crmp.org/our-seismic-retrofit-programs/the-retrofits/emr-retrofit",
+          "publication_date": "2026-08-19 registration window announced",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Association of Bay Area Governments, Bay Area Soft Story Ordinances",
+          "url": "https://www.abag.ca.gov/technical-assistance/bay-area-soft-story-ordinances-additional-documents",
+          "publication_date": "2026",
+          "accessed": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "market": "Seattle, Washington",
+      "niche_considered": "Side sewer repair and replacement",
+      "decision": "Not selected for this batch",
+      "reason": "The service is a viable local consumer topic, but the site already has a Chicago sewer lateral checklist. NYC sidewalk violation repair offered a more distinct trade and a clearer time-sensitive consumer decision."
+    }
+  ],
+  "niches": [
+    {
+      "title": "Before You Hire a Sidewalk Repair Contractor in New York City",
+      "file": "drafts/nyc-sidewalk-violation-repair.md",
+      "market": "New York City, New York",
+      "target_customer": "Owners of one- to four-family homes, small multifamily buildings, and other residential property owners who receive an NYC DOT Notice of Sidewalk Violation or need to correct sidewalk defects.",
+      "why_promising": [
+        "A formal notice creates a time-sensitive hiring decision with a 75-day repair period.",
+        "The city may arrange the repair and bill the owner if the owner does not act.",
+        "The notice remains in the County Clerk record until satisfactory repairs are reported, which can complicate a sale or refinance.",
+        "Sidewalk work is explicitly included in NYC's Home Improvement Contractor licensing requirements."
+      ],
+      "demand_and_consumer_harm_evidence": [
+        {
+          "claim": "NYC DOT says owners generally have 75 days after receiving a Notice of Sidewalk Violation; the city may perform the repair and bill the owner if the deadline is missed.",
+          "source": "NYC DOT Sidewalks / Inspections and Violations",
+          "url": "https://www.nyc.gov/html/dot/html/infrastructure/sidewalkintro.shtml",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "NYC DOT maintains a public dataset of sidewalk violation notices, updated November 11, 2026, and a separate dataset tracking inspections, violations, and repair status.",
+          "source": "NYC Open Data, Sidewalk Management Database - Violations",
+          "url": "https://data.cityofnewyork.us/Transportation/Sidewalk-Management-Database-Violations/6kbp-uz6m",
+          "publication_date": "Dataset last updated 2026-11-11",
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "DCWP's public Wall of Shame lists home-improvement businesses cited for unlicensed work within the previous 12 months that remain unlicensed. This is citywide contractor enforcement evidence, not sidewalk-specific complaint data.",
+          "source": "NYC DCWP, Wall of Shame",
+          "url": "https://www.nyc.gov/site/dca/consumers/Wall-of-Shame-Unlicensed-Home-Improvement-Contractors.page",
+          "publication_date": "Status current 2026-11-02",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "common_risks": [
+        "Contractor prices a patch or partial repair that does not clear the flags numbered on the Preliminary Inspection Report.",
+        "Contractor lacks the DCWP Home Improvement Contractor license required for covered sidewalk work.",
+        "Sidewalk construction permit is omitted, delayed, or incorrectly scoped.",
+        "Quote omits demolition, disposal, pedestrian protection, tree or utility coordination, or DOT-required finish.",
+        "No one requests the final DOT dismissal inspection, leaving the violation unresolved.",
+        "Owner signs a weak contract or pays too much up front."
+      ],
+      "competition_and_content_gap": {
+        "market_competition": "NYC DOT provides official process guidance and local contractors publish pricing or service pages. DCWP also provides a license lookup and complaint-history tools.",
+        "site_coverage_gap": "The live site has a New York City appliance repair checklist but no sidewalk violation or sidewalk reconstruction checklist.",
+        "differentiation": "A neutral guide can connect the PIR's numbered flags, DCWP licensing, sidewalk permits, 75-day timing, bid scope, and dismissal inspection in one hiring workflow."
+      },
+      "source_urls": [
+        {
+          "title": "NYC DOT, Sidewalks: Inspections, Violations and Repair",
+          "url": "https://www.nyc.gov/html/dot/html/infrastructure/sidewalkintro.shtml",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC DOT, Sidewalk FAQs",
+          "url": "https://www.nyc.gov/html/dot/html/infrastructure/sidewalk-faq.shtml",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC Business, Home Improvement Contractor License",
+          "url": "https://nyc-business.nyc.gov/nycbusiness/description/home-improvement-contractor-license",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC DCWP, Quick Tips When Hiring a Home Improvement Contractor",
+          "url": "https://www.nyc.gov/site/dca/consumers/shopping-services-home-improvement.page",
+          "publication_date": "Consumer tip sheet 2026-06",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC Open Data, Sidewalk Management Database - Violations",
+          "url": "https://data.cityofnewyork.us/Transportation/Sidewalk-Management-Database-Violations/6kbp-uz6m",
+          "publication_date": "Dataset last updated 2026-11-11",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC Open Data, Sidewalk Management Database - Built",
+          "url": "https://data.cityofnewyork.us/Transportation/Sidewalk-Management-Database-Built/ugc8-s3f6",
+          "publication_date": "Dataset last updated 2026-11-06",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "NYC DCWP, Wall of Shame",
+          "url": "https://www.nyc.gov/site/dca/consumers/Wall-of-Shame-Unlicensed-Home-Improvement-Contractors.page",
+          "publication_date": "Status current 2026-11-02",
+          "accessed": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "title": "Before You Hire a Cesspool Conversion Contractor on Oʻahu",
+      "file": "drafts/oahu-cesspool-conversion.md",
+      "market": "Honolulu and Oʻahu, Hawaiʻi",
+      "target_customer": "Homeowners and prospective buyers of Oʻahu properties with a cesspool, especially owners in high-priority areas or properties with conditions that can trigger an earlier upgrade.",
+      "why_promising": [
+        "Hawaiʻi law requires cesspools statewide to be upgraded, converted, or connected to sewer by January 1, 2050.",
+        "Hawaiʻi DOH reports more than 11,000 cesspools on Oʻahu.",
+        "The process requires an engineer-led design and state approval, then installation by a contractor holding one of the specified license classes.",
+        "A 2026 revolving-loan program is under development, creating a timely need to explain what is actually available and what is not yet open."
+      ],
+      "demand_and_consumer_harm_evidence": [
+        {
+          "claim": "Hawaiʻi DOH reports approximately 88,000 cesspools statewide, more than 11,000 on Oʻahu, 43,000 statewide posing water-resource risks, and approximately 53 million gallons of untreated wastewater entering the ground each day.",
+          "source": "Hawaiʻi Department of Health, Cesspools in Hawaiʻi",
+          "url": "https://health.hawaii.gov/wastewater/home/cesspools/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "Hawaiʻi Public Radio reported an expert estimate of about 400 conversions per year and a typical single-cesspool conversion cost estimate of $25,000 to $50,000. These are attributed estimates, not an official state price schedule.",
+          "source": "Hawaiʻi Public Radio, New loan program to help homeowners finance cesspool conversions",
+          "url": "https://www.hawaiipublicradio.org/text/local-news/2026-06-25/new-loan-program-set-to-help-homeowners-finance-cesspool-conversions",
+          "publication_date": "2026-06-25",
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "The state Department of Health lists the 2026 Cesspool Conversion Revolving Loan Program as under development, not as an open grant application.",
+          "source": "Hawaiʻi Department of Health, Financial Support Programs",
+          "url": "https://health.hawaii.gov/wastewater/home/supportprogramscesspoolconversion/",
+          "publication_date": "2026 program status shown on page",
+          "accessed": "2026-11-16"
+        }
+      ],
+      "common_risks": [
+        "Property system is misidentified as septic or sewer-connected when it is a cesspool.",
+        "Contractor proposes a system before a licensed engineer evaluates the lot, soil, percolation, setbacks, water table, and access.",
+        "Installer lacks one of the DOH-accepted license classes for an IWS installation.",
+        "Proposal excludes engineering, state plan approval, old cesspool closure, pumping, restoration, or final inspection.",
+        "Contractor promises funding before the state or program administrator has approved eligibility.",
+        "Engineer does not monitor construction or submit the final inspection and contractor certification needed for approval to use."
+      ],
+      "competition_and_content_gap": {
+        "market_competition": "Oʻahu sanitation and wastewater contractors advertise cesspool conversion services, and Hawaiʻi DOH publishes technical homeowner guidance and engineer lists.",
+        "site_coverage_gap": "The live site has septic pumping, septic inspection, and septic permitting checklists in other states, but no Hawaiʻi cesspool-conversion guide.",
+        "differentiation": "The article is deliberately specific to Hawaiʻi's 2050 cesspool mandate, Oʻahu's 11,000-plus inventory, the engineer-first DOH process, accepted installer license classes, and the current status of state financing. It is not a duplicate septic-pumping checklist."
+      },
+      "source_urls": [
+        {
+          "title": "Hawaiʻi DOH, Cesspools in Hawaiʻi",
+          "url": "https://health.hawaii.gov/wastewater/home/cesspools/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Hawaiʻi DOH, Individual Wastewater Systems",
+          "url": "https://health.hawaii.gov/wastewater/home/iws/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Hawaiʻi DOH, General Information and FAQ",
+          "url": "https://health.hawaii.gov/wastewater/home/general-info-and-faq/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Hawaiʻi DOH, Financial Support Programs for Cesspool Conversion",
+          "url": "https://health.hawaii.gov/wastewater/home/supportprogramscesspoolconversion/",
+          "publication_date": "2026 program status shown on page",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "University of Hawaiʻi Sea Grant, Cesspool Prioritization Tool",
+          "url": "https://seagrant.soest.hawaii.edu/cesspools-tool/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Hawaiʻi Public Radio, New loan program to help homeowners finance cesspool conversions",
+          "url": "https://www.hawaiipublicradio.org/text/local-news/2026-06-25/new-loan-program-set-to-help-homeowners-finance-cesspool-conversions",
+          "publication_date": "2026-06-25",
+          "accessed": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "title": "Before You Hire a Whole-House Elevation Contractor in New Orleans",
+      "file": "drafts/new-orleans-whole-house-elevation.md",
+      "market": "New Orleans, Louisiana",
+      "target_customer": "Owners of existing homes in New Orleans considering whole-house elevation for flood-risk mitigation, substantial renovation, or property-specific resilience needs.",
+      "why_promising": [
+        "The City of New Orleans states that most of the city is below sea level and/or surrounded by flood levees, so the entire city is at risk of flooding.",
+        "The city has a specific whole-house elevation permit process with detailed engineering, survey, insurance, and utility requirements.",
+        "Louisiana has a specific licensing rule for contractors who raise residential structures above $7,500.",
+        "A documented federal fraud case involved a New Orleans-area contractor and FEMA-funded house-elevation contracts, showing why grant and payment verification matters. The case is historical and is not evidence of current market-wide fraud."
+      ],
+      "demand_and_consumer_harm_evidence": [
+        {
+          "claim": "The city states that most of New Orleans is below sea level and/or surrounded by flood levees, and that the entire city is at risk of flooding.",
+          "source": "NOLA Ready, Flooding Hazard Information",
+          "url": "https://ready.nola.gov/hazard-mitigation/hazards/flooding/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "New Orleans requires a structural/elevation permit and, for whole-house elevation, engineered foundation drawings, riggers insurance, a benchmark certificate, and electrical and mechanical permits.",
+          "source": "City of New Orleans, Renovation (Structural) / Elevation Permit",
+          "url": "https://nola.gov/renovation-elevation-permit/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "claim": "A New Orleans contractor pleaded guilty in 2017 to false statements and theft of government funds connected to FEMA-funded home-elevation contracts; DOJ said at least three properties had not received work after funds were advanced.",
+          "source": "U.S. Department of Justice, Eastern District of Louisiana",
+          "url": "https://www.justice.gov/usao-edla/pr/contractor-pleads-guilty-making-false-statements-and-theft-government-funds",
+          "publication_date": "2017-07-12",
+          "accessed": "2026-11-16",
+          "limitation": "Historical case, not evidence of current prevalence."
+        }
+      ],
+      "common_risks": [
+        "Contractor uses an incorrect or insufficient Louisiana house-raising license classification.",
+        "Estimate omits riggers insurance, engineered foundation work, survey benchmark, permits, utility disconnections and reconnections, or historic-district approvals.",
+        "Target finished elevation is not tied to property-specific survey and flood information.",
+        "Quote omits stairs, porches, driveway, drainage, landscaping, or site restoration.",
+        "Contractor overpromises insurance discounts or grant funding.",
+        "Large advance payments are made without milestone evidence, agency confirmation, or written contract protections.",
+        "No one is responsible for final inspections, updated elevation documentation, or permit closeout."
+      ],
+      "competition_and_content_gap": {
+        "market_competition": "The city provides technical permit and elevation-certificate information; local house-raising contractors market services. Government material is process-focused rather than a neutral bid-comparison guide.",
+        "site_coverage_gap": "The live site has a Houston foundation checklist and other foundation-related topics, but no whole-house elevation or flood-mitigation house-raising checklist.",
+        "differentiation": "This checklist focuses on a complete structural lift for flood-risk mitigation, the separate Louisiana house-raising license rule, New Orleans riggers insurance and permit package, utilities, historic approvals, and project closeout. It is not a foundation settlement or leveling guide."
+      },
+      "source_urls": [
+        {
+          "title": "NOLA Ready, Flooding Hazard Information",
+          "url": "https://ready.nola.gov/hazard-mitigation/hazards/flooding/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "City of New Orleans, Renovation (Structural) / Elevation Permit",
+          "url": "https://nola.gov/renovation-elevation-permit/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "City of New Orleans, Request an Elevation Certificate",
+          "url": "https://nola.gov/request-elevation-certificate/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Louisiana Administrative Code, Title 46, Part XXIX, Section 303, Raising a Residential Structure",
+          "url": "https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-46-SS-XXIX-303",
+          "publication_date": "Promulgated 2023-11-01",
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Louisiana State Licensing Board for Contractors, Types of Licenses",
+          "url": "https://lslbc.louisiana.gov/types-of-licenses/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "Louisiana State Licensing Board for Contractors, Contractor Search",
+          "url": "https://lslbc.gov/contractor-search/",
+          "publication_date": null,
+          "accessed": "2026-11-16"
+        },
+        {
+          "title": "U.S. Department of Justice, Contractor Pleads Guilty to Making False Statements and Theft of Government Funds",
+          "url": "https://www.justice.gov/usao-edla/pr/contractor-pleads-guilty-making-false-statements-and-theft-government-funds",
+          "publication_date": "2017-07-12",
+          "accessed": "2026-11-16"
+        }
+      ]
+    }
+  ],
+  "duplicate_check": {
+    "live_site": "https://askbeforeyoubook.com/credentials",
+    "live_checklist_count": 75,
+    "result": "No direct checklist duplicates found for NYC sidewalk violation repair, Oahu cesspool conversion, or New Orleans whole-house elevation.",
+    "adjacent_coverage": [
+      "NYC has an appliance repair checklist, but no sidewalk repair or violation checklist.",
+      "The site has general septic pumping, inspection, and permitting guides in other markets. The Oahu article is specific to cesspool conversion under Hawaiʻi law and the DOH engineer-first process.",
+      "The site has foundation content, but no whole-house elevation or flood-mitigation house-raising guide."
+    ],
+    "open_draft_prs_reviewed": [
+      {
+        "pr": 3,
+        "topics": [
+          "Chicago residential solar installation",
+          "Hartford chimney repair",
+          "Wilmington storm-damage roofing"
+        ]
+      },
+      {
+        "pr": 4,
+        "topics": [
+          "Pittsburgh radon mitigation",
+          "Houston mold remediation",
+          "Baltimore lead-paint inspection and abatement"
+        ]
+      },
+      {
+        "pr": 5,
+        "topics": [
+          "Charleston, WV standby generator installation",
+          "Denver emerald ash borer tree treatment/removal",
+          "Cape Cod private-well testing and treatment"
+        ]
+      }
+    ]
+  }
+}
