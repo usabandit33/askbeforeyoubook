@@ -9,7 +9,7 @@ Cloudflare Pages deploys on every push to `main`. Unfinished articles must stay 
 1. Create a feature branch, e.g. `drafts/city-service-YYYY-MM-DD`.
 2. Add publishable Markdown files under `drafts/` on that branch only.
 3. Open a **draft** pull request against `main`.
-4. Title it `Draft: …` and state clearly in the PR body: **"Draft only — do not merge."**
+4. Title it `Draft: …` and state clearly in the PR body: **"Draft only: do not merge."**
 5. Wait for human review and approval before any promotion or publication.
 
 The nightly publisher may validate drafts and promote approved content. Do not trigger or operate that automation while preparing drafts.

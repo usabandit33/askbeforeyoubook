@@ -6,7 +6,7 @@ service: "Sidewalk Violation Repair"
 lastReviewed: "2026-11-16"
 ---
 
-A New York City sidewalk violation is not just a note about cracked concrete. It can become a recorded property issue that complicates a sale or refinance, and the city gives owners a short window to act. The contractor you hire also has to understand NYC Department of Transportation specifications, sidewalk permits, and the final dismissal inspection. A low quote that does not clear the violation is not a bargain.
+A New York City sidewalk violation is not just a note about cracked concrete. It can become a recorded property issue that complicates a sale or refinance, and the city gives owners a short window to act. Property owners may also be liable for personal injuries caused by a failure to maintain the adjoining sidewalk free of defects. The contractor you hire also has to understand NYC Department of Transportation specifications, sidewalk permits, and the final dismissal inspection. A low quote that does not clear the violation is not a bargain.
 
 NYC DOT says a property owner generally has 75 days after receiving a Notice of Sidewalk Violation to make the required repairs. If the owner does not act within that period, DOT may arrange the work and bill the owner. The city says there is no fine attached to the violation itself, but the notice remains on file with the County Clerk until the city confirms satisfactory repairs. Read the notice and its Preliminary Inspection Report before asking contractors to bid.
 
@@ -86,7 +86,7 @@ Read the violation notice and PIR first. Verify the contractor's DCWP license un
 
 ## Sources
 
-- <a href="https://www.nyc.gov/html/dot/html/infrastructure/sidewalk-inspection.shtml" target="_blank" rel="noopener noreferrer">NYC Department of Transportation, Sidewalk Inspections and Violations</a>. Accessed November 16, 2026. Covers owner responsibility, the 75-day repair period, notices, repair steps, and dismissal inspection.
+- <a href="https://www.nyc.gov/html/dot/html/infrastructure/sidewalkintro.shtml" target="_blank" rel="noopener noreferrer">NYC Department of Transportation, Sidewalks: Inspections, Violations and Repair</a>. Accessed November 16, 2026. Covers owner responsibility, the 75-day repair period, notices, repair steps, and dismissal inspection.
 - <a href="https://www.nyc.gov/html/dot/html/infrastructure/sidewalk-faq.shtml" target="_blank" rel="noopener noreferrer">NYC Department of Transportation, Questions and Answers to Common Sidewalk Violations</a>. Accessed November 16, 2026. Covers permits, contractor selection, and permit fees.
 - <a href="https://nyc-business.nyc.gov/nycbusiness/description/home-improvement-contractor-license" target="_blank" rel="noopener noreferrer">NYC Business, Home Improvement Contractor License</a>. Accessed November 16, 2026. Explicitly includes sidewalks among covered residential land improvements.
 - <a href="https://www.nyc.gov/site/dca/consumers/shopping-services-home-improvement.page" target="_blank" rel="noopener noreferrer">NYC Department of Consumer and Worker Protection, Quick Tips When Hiring a Home Improvement Contractor</a>. Consumer tip sheet dated June 2026; accessed November 16, 2026.
