@@ -1,3 +1,5 @@
-# Cloudflare Pages redirects
-# Force www → apex so Google indexes only https://askbeforeyoubook.com
-https://www.askbeforeyoubook.com/*  https://askbeforeyoubook.com/:splat  301
+# Cloudflare Pages / Workers redirects
+# Note: absolute hostname redirects are not allowed in Workers _redirects.
+# Configure www → apex (https://www.askbeforeyoubook.com/* → https://askbeforeyoubook.com/:splat 301)
+# in the Cloudflare dashboard under Bulk Redirects or the domain's Redirect Rules.
+# Relative redirects can still be added here if needed.
