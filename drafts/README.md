@@ -1,36 +1,33 @@
 # Drafts directory for AskBeforeYouBook
 
-**Critical rule for other agents:** Do **not** push checklist article `.md` files directly to `main`.
+**Critical rule for other agents:** Do **not** push checklist article .md files directly to main.
 
-Cloudflare Pages deploys on every push to `main`. Putting unfinished articles on `main` (even under `drafts/`) triggers a production rebuild. That is the opposite of the safeguard we want.
+Cloudflare Pages deploys on every push to main. Put unfinished articles on a feature branch and open a Draft pull request. Do not merge, publish, deploy, or move draft files into src/content/checklists/ without human approval.
 
-## Correct workflow for other agents
+## Correct workflow
 
-1. Create a feature branch, e.g. `drafts/melbourne-dryer-vent-2026-11-12`
-2. Add your Markdown files under `drafts/` on that branch only
-3. Open a **draft** pull request against `main`
-4. Mark the PR as draft and title it `Draft: …`
-5. In the PR body, state clearly: "Draft only — do not merge."
-6. Wait for human review or the nightly publisher
+1. Create a clearly named feature branch.
+2. Add publishable Markdown drafts under drafts/ on that branch only.
+3. Follow the article format below.
+4. Open a **Draft** pull request against main.
+5. State clearly in the PR body: **Draft only — do not merge.**
+6. Keep the files on the unmerged branch until review and approval.
 
-The nightly automation (8 PM Eastern) will only promote content that has been validated. It will never treat a draft PR as live production content until the content is moved into `src/content/checklists/` with valid frontmatter.
+## What belongs in this folder
 
-## What lives on main in this folder
+- On main: this README and optional empty placeholders only.
+- On a feature branch: one Markdown article per researched niche.
 
-- This `README.md` only (instructions)
-- Optionally: empty placeholder files if needed for directory presence
+Do not put research reports in Markdown under drafts/, because the publishing automation may treat every Markdown file in this folder as publishable content. If supplementary research records are needed, use JSON or another non-Markdown format in a clearly named research folder.
 
-**No article Markdown should sit on `main` until the publisher has validated and promoted it.**
+## Required article format
 
-## Required article format (when ready)
+Filename: kebab-case slug that matches the article topic and city.
 
-Filename: kebab-case slug → URL path  
-Example: `denver-mobile-ev-charger-repair.md` → `/denver-mobile-ev-charger-repair/`
-
-```yaml
+~~~yaml
 ---
-title: "Clear, benefit-focused title that includes city or key distinction"
-description: "1-2 sentence meta description. Include the core question. Customer never pays the directory."
+title: "Clear, benefit-focused title that includes the city or key distinction"
+description: "1-2 sentence meta description that states the customer problem and what the checklist helps them decide."
 city: "City Name"
 service: "Service Category"
 lastReviewed: "YYYY-MM-DD"
@@ -41,36 +38,30 @@ Opening local context…
 ## 1. First major question
 
 - **Ask:** *"Exact question"*
-- Red flag…
+- Explain the evidence, document, or answer the customer should request.
 
 ## Before you book
 
-Short summary.
+Short summary of the decisions to verify before signing.
 
 ## Sources
 
-- Official links
+- Official or reputable source links with publication or access dates.
+~~~
 
----
+## Hard requirements
 
-### Recommended product / tool (required)
+- Frontmatter includes title, description, city, service, and lastReviewed.
+- The article body contains no # H1 heading. Use the frontmatter title instead.
+- Prefer at least 500 words of useful, original, local guidance.
+- Include local rules, permits, licensing, insurance, or market conditions where relevant.
+- Include actionable questions to ask before hiring.
+- Include proof or documents to request.
+- Include warning signs and a clear **Before you book** section.
+- Include a **Sources** section with current, credible links.
+- External links in article HTML must use target="_blank" and rel="noopener noreferrer" when HTML links are used.
+- Do not add Amazon products, affiliate links, affiliate disclosures, ASINs, product promotions, or monetized sections. These are independent consumer-education resources.
 
-As an Amazon Associate, Ask Before You Book earns from qualifying purchases at no extra cost to you.
+## Why this matters
 
-<a href="https://amzn.to/XXXXX" rel="nofollow sponsored" target="_blank">Product name</a>
-
-*Customer never pays the directory.*
-```
-
-### Hard requirements the publisher enforces
-
-- Frontmatter: `title`, `description`, `city`, `service`
-- At least one affiliate link with `rel="nofollow sponsored"`
-- FTC-style disclosure near the affiliate section
-- No `#` H1 in the body
-- Prefer 500+ words of real local guidance
-- Never touch layouts, components, or global config from drafts
-
-### Why this matters
-
-Astro only loads `src/content/checklists/` into the content collection. Files under `drafts/` are **not** part of the live site. The danger is not the collection loader — it is Cloudflare rebuilding production on every push to `main`. Keep unfinished work on feature branches and draft PRs so production deploys stay stable.
+Astro loads live content from src/content/checklists/. Files under drafts/ are for review only. Keeping them on an unmerged feature branch prevents unfinished work from triggering a production release.
