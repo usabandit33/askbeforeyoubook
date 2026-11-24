@@ -83,7 +83,7 @@ Local context and why the hiring decision matters.
 
 ## Sources
 
-- <a href="https://example.gov/" target="_blank" rel="noopener noreferrer">Official source title</a>. Published/updated date if available; accessed YYYY-MM-DD.
+- <a href="https://www.oregon.gov/deq/housing/pages/housing-asb.aspx" target="_blank" rel="noopener noreferrer">Official source title</a>. Published/updated date if available; accessed YYYY-MM-DD.
 ```
 
 ## Why this matters
