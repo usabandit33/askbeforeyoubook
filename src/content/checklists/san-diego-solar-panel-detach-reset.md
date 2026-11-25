@@ -3,7 +3,7 @@ title: "San Diego Solar Panel Removal and Reinstallation: What to Ask Before a R
 description: "Replacing a San Diego roof with solar panels already installed? Compare detach-and-reset bids, verify C-10 or C-46 licensing, permits, roof warranties, and system testing."
 city: "San Diego, California"
 service: "Solar Panel Removal and Reinstallation for Roof Replacement"
-lastReviewed: "2026-11-24"
+lastReviewed: "2026-11-25"
 ---
 
 If your San Diego roof needs replacement and solar panels are already mounted on it, you may need a specialist to remove the array, protect and store the equipment, coordinate with the roofer, and reinstall and test the system. This is often called solar detach-and-reset. It is not simply a roofing add-on. The work can affect roof penetrations, electrical connections, equipment warranties, utility interconnection records, and the workmanship warranties of both the roofer and solar contractor.
@@ -99,7 +99,7 @@ This checklist focuses on the City of San Diego. Nearby cities and unincorporate
 
 As an Amazon Associate I earn from qualifying purchases.
 
-[Commercial non-contact voltage tester](https://amzn.to/47qeBNm) — for basic awareness checks around accessible outlets and breakers only; never open the inverter, disconnect, or service panel yourself (affiliate link, no extra cost to you).
+[Home-project document organizer](https://amzn.to/4BcLxGP) — useful for keeping original PV plans, permit records, equipment inventories, and warranty documents together while comparing bids (affiliate link, no extra cost to you).
 
 ## Sources
 

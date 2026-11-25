@@ -3,7 +3,7 @@ title: "Portland Asbestos Abatement: What to Ask Before Hiring an Inspector or R
 description: "Renovating an older Portland home? Learn when Oregon requires an asbestos survey, who may remove friable materials, and what records to demand before hiring."
 city: "Portland, Oregon"
 service: "Residential Asbestos Inspection and Abatement"
-lastReviewed: "2026-11-24"
+lastReviewed: "2026-11-25"
 ---
 
 If you are remodeling a Portland home built before 2004, asbestos planning belongs near the beginning of the project, not after a demolition crew has opened a wall. Asbestos-containing materials can be present in flooring, ceiling texture, insulation, siding, roofing, pipe wrap, and other building components. You cannot reliably identify asbestos by looking at a material. Disturbing it without the right survey, containment, work practices, and disposal can expose workers and occupants to hazardous fibers and create expensive delays.
@@ -96,7 +96,7 @@ Portland city requirements and Oregon DEQ rules are not interchangeable. If your
 
 As an Amazon Associate I earn from qualifying purchases.
 
-[Digital humidity meter / hygrometer](https://link.amazon/B0ihoSqgN) — helpful when documenting room conditions during a remodel planning phase; it does not detect asbestos and is not a substitute for an accredited survey (affiliate link, no extra cost to you).
+[Home-project document organizer](https://amzn.to/4BcLxGP) — helpful for keeping survey reports, lab results, licenses, and disposal records together during planning (affiliate link, no extra cost to you). It does not detect asbestos and is not a substitute for an accredited survey.
 
 ## Sources
 

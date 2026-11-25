@@ -3,7 +3,7 @@ title: "NYC Flooring Installation: Questions to Ask Before You Sign a Contract"
 description: "Compare New York City flooring installers before you pay a deposit. Check contractor licensing, written scope, removal fees, subfloor repairs, cancellation rights, and workmanship terms."
 city: "New York City"
 service: "Residential Flooring Installation"
-lastReviewed: "2026-11-24"
+lastReviewed: "2026-11-25"
 ---
 
 New flooring looks like a straightforward purchase until the installer arrives and the quote grows. The advertised price may cover the flooring and a basic installation, but not moving furniture, removing old material, stairs, subfloor leveling, disposal, transitions, door trimming, or work around radiators and built-in cabinets. In a New York City apartment, building access rules, elevator reservations, delivery windows, and noise restrictions can add another layer of cost.
@@ -105,7 +105,7 @@ NYC's licensing and consumer-protection rules are specific to the city. If the p
 
 As an Amazon Associate I earn from qualifying purchases.
 
-[Digital humidity meter / hygrometer](https://link.amazon/B0ihoSqgN) — useful when comparing subfloor moisture readings and room conditions before installation (affiliate link, no extra cost to you).
+[Digital moisture meter](https://amzn.to/4zzJZ85) — useful when comparing subfloor moisture readings and room conditions before installation (affiliate link, no extra cost to you).
 
 ## Sources
 
