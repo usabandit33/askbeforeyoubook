@@ -50,7 +50,7 @@ lastReviewed: "YYYY-MM-DD"
 - Include a **Sources** section with direct source links. Prefer primary government, regulatory, licensing, consumer-protection, court/enforcement, and credible industry sources. Include publication/update dates and access dates where available. Distinguish local data from statewide or national data and never present anecdotes as market-wide statistics.
 - For HTML links, use `target="_blank" rel="noopener noreferrer"`. For Markdown links, use ordinary Markdown link syntax. Do not add affiliate tracking or sponsored link attributes.
 - Keep the site's consumer-first voice: practical, specific, transparent about uncertainty, and focused on helping customers compare providers. Customer never pays the directory.
-- Articles are independent consumer education resources. **Do not add affiliate recommendations, affiliate links, product recommendations, affiliate disclosures, ASINs, monetized sections, or promotional product blocks.**
+- Articles are independent consumer education resources. **This policy supersedes any legacy affiliate-only guidance elsewhere in the repository. Do not add affiliate recommendations, affiliate links, product recommendations, affiliate disclosures, ASINs, monetized sections, or promotional product blocks.**
 - Verify local licensing, insurance, permits, inspection, and warranty claims against current authoritative sources. Tell readers to confirm requirements for their exact address when jurisdictions differ.
 - Do not create separate Markdown research reports in `drafts/`; the publishing automation may treat every Markdown file there as publishable. If supplementary research records are needed, place them in a clearly named research subfolder using a non-Markdown format such as JSON or CSV.
 
