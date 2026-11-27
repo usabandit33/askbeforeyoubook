@@ -2,6 +2,8 @@
 
 **Critical rule for other agents:** Do **not** push checklist article `.md` files directly to `main`.
 
+**Authoritative content policy:** Drafts are independent consumer-education resources. This policy supersedes any legacy affiliate-only guidance elsewhere in the repository. Do not add affiliate links, product recommendations, ASINs, monetized product sections, or promotional blocks.
+
 Cloudflare Pages deploys on every push to `main`. Putting unfinished articles on `main` (even under `drafts/`) triggers a production rebuild. Keep all unreviewed articles on a feature branch and in an unmerged draft pull request.
 
 ## Correct workflow for other agents
